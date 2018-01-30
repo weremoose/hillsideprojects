@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Contact
-image: '/images/pages/about.jpeg'
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hillside Projects are based in Stockholm, Sweden. Their studio is located in Hagsätra.
+
+E-mail: info@hillsideprojects.com
+
+Emily Mennerdahl mobile: +46 (0)707 44 53 71
+Jonas Böttern mobile: +46 (0)73 389 36 86 
