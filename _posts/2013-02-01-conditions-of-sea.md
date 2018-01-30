@@ -4,7 +4,7 @@ title: Conditions of Sea, 2013
 featured: false
 author: hillsideprojects
 tags: [video]
-image: '/images/posts/image.jpeg'
+image: '/images/posts/conditions_of_sea/conditions_of_sea_01.jpg'
 ---
 
 Site-specific video installation. HD video. 22 minute loop. 
