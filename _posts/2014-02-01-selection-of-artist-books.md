@@ -4,7 +4,7 @@ title: A selection of artist books, 2008
 featured: false
 author: hillsideprojects
 tags: [drawings]
-image: '/images/posts/image.jpeg'
+image: '/images/posts/selection_of_artist_books/selection_of_artist_books_01.jpg'
 ---
 
 A selection of artist books exploring themes and forms around the artistic process, landscape, silence, time and place. Manifested through text, drawing and photography.
