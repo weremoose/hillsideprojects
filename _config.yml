@@ -11,8 +11,8 @@ email:            info@hillsideprojects.se
 description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern.
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://hillsideprojects.se' # The base hostname & protocol for your site
-github_username:  aspirethemes
-twitter_username: aspirethemes
+facebook_username: HillsideProjects
+vimeo_username:   user31098743
 
 markdown:  kramdown
 permalink: pretty
@@ -52,5 +52,5 @@ authors:
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
     email:            info@hillsideprojects.se
     website:          https://hillsideprojects.se
-    github_username:  ahmadajmi
-    twitter_username: ahmadajmi
+    facebook_username: HillsideProjects
+    vimeo_username: user31098743
