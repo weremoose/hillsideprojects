@@ -4,7 +4,7 @@ title: White Stork (Black Stork) 2018
 featured: false
 author: hillsideprojects
 tags: [work in progress, project]
-image: '/images/posts/white_stork/white_stork_black_stork_5.jpeg'
+image: '/images/posts/white_stork/white_stork_black_stork_5.jpg'
 ---
 
 White Stork (Black Stork), work in progress
