@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            Midan
-email:            your-email@domain.com
-description:      Clean and Fast Jekyll Blog Theme
+title:            Hillside Projects
+email:            info@hillsideprojects.se
+description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern.
 baseurl:          '' # The subpath of your site, e.g. /blog
-url:              'http://midan-jekyll.aspirethemes.com' # The base hostname & protocol for your site
+url:              'https://hillsideprojects.se' # The base hostname & protocol for your site
 github_username:  aspirethemes
 twitter_username: aspirethemes
 
@@ -47,10 +47,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:             Ahmad Ajmi
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+    name:             Hillside Projects
+    bio:              A research/production group formed by Emily Mennerdahl and Jonas Böttern.
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:            info@aspirethemes.com
-    website:          http://aspirethemes.com
+    email:            info@hillsideprojects.se
+    website:          https://hillsideprojects.se
     github_username:  ahmadajmi
     twitter_username: ahmadajmi
