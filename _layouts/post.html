@@ -24,7 +24,9 @@ layout: default
 
         <header class="text-center post__header">
           <h2 class="post__title" itemprop="name headline">{{ page.title }}</h2>
+          <!-- DATE ON CARD
           <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+          -->
         </header>
 
         <div class="post-content" itemprop="articleBody">
@@ -50,9 +52,10 @@ layout: default
           {% include author.html %}
         {% endif %}
 
-        <!-- DISQUS COMMENTS  -->
-        <!-- <hr> -->
-        <!-- {% include disqus.html %} -->
+        <!-- DISQUS COMMENTS
+        <hr>
+        {% include disqus.html %}
+        -->
 
       </article>
     </div>
