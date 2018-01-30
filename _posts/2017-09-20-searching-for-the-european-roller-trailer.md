@@ -4,7 +4,7 @@ title: Searching for the European Roller, video 2017
 featured: false
 author: hillsideprojects
 tags: [video, trailer]
-image: '/images/posts/image.jpeg'
+image: '/images/posts/roller_video/searching_for_the_european_roller_video_2.jpg'
 ---
 
 Searching for the European Roller, video 2017
