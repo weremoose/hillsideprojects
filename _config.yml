@@ -8,7 +8,7 @@
 # Site settings
 title:            Hillside Projects
 email:            info@hillsideprojects.se
-description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern.
+description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern. Hillside Projects are based in Stockholm, Sweden. Their studio is located in Hagsätra.
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://hillsideprojects.se' # The base hostname & protocol for your site
 facebook_username: HillsideProjects
