@@ -14,10 +14,17 @@ As part of the larger research enquiry _Searching for the European Roller_ 2015-
 <iframe src="https://player.vimeo.com/video/186178075?color=ffffff&title=0&byline=0&portrait=0" width="640" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 _Searching for the European Roller_, 2017
+
 Length: 16:25 minutes
+
 Directed by: Hillside Projects (Emily Mennerdahl and Jonas Böttern)
+
 Cinematography: Giorgos Chloros
+
 Script: Hillside Projects
+
 Edit and sound: Jonas Böttern and Giorgos Chloros
+
 Music: Dolphins in Heaven
+
 Archival material: Hillside Projects, Nordiska museet, Sean Frew, FoolBoy, Mitch Martinez and Grant Porter
