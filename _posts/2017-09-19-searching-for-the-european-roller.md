@@ -7,7 +7,7 @@ tags: [video, performance]
 image: '/images/posts/roller_2017/searching_for_the_european_roller_2017_08.jpg'
 ---
 
-Video, table, drawings on found map, LED-sign, drawings on white-board and lecture performance.
+##### Video, table, drawings on found map, LED-sign, drawings on white-board and lecture performance.
 
 Parts of the larger research project Searching for the European Roller presented in a group exhibition at Dazibao together with artists Lisl Ponger and Hubert Caron-Guay.
 
