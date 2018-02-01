@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A selection of drawings on white-board initiated in 2015 and ongoing
+title: A selection of drawings, 2015-ongoing
+details: A selection of drawings on white-board film and board.
 featured: false
 author: hillsideprojects
 image: '/images/posts/selection_of_drawings_on_white_board/selection_of_drawings_on_white_board_02.jpg'
@@ -8,4 +9,4 @@ image: '/images/posts/selection_of_drawings_on_white_board/selection_of_drawings
 
 Included in several projects are a series of drawings and experiments on white-board. The drawings are presented as part of installations and used in lecture performances. Lines, contours, signs and writing are formed through an act of erasing. Through a slow process of covering parts or entire surfaces of white-board sheets with a marker pen an image then develops in a process where the surface is erased or removed. A process that could be likened or compared to a negative slowly developing or an etching technique.
 
-The images are taken in our studio and from the exhibition Looking for a Bird at ID:I Galleri, Stockholm 2017.
+The images are taken in our studio and from the exhibition Looking for a Bird at <a href="http://idigalleri.org/2017/10/05/hillside-projects-emily-mennerdahl-jonas-bottern/" target="blank">ID:I Galleri</a>, Stockholm 2017.

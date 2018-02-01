@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Searching for the European Roller, video 2017
+title: Searching for the European Roller (video), 2017
 details: HD video, 16:25 minutes.
 featured: false
 author: hillsideprojects
