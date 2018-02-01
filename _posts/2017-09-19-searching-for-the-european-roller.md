@@ -7,7 +7,7 @@ author: hillsideprojects
 image: '/images/posts/roller_2017/searching_for_the_european_roller_2017_08.jpg'
 ---
 
-Parts of the larger research project Searching for the European Roller presented in a group exhibition at Dazibao together with artists Lisl Ponger and Hubert Caron-Guay.
+Parts of the larger research project _Searching for the European Roller_ presented in a group exhibition at Dazibao together with artists <a href="https://www.youtube.com/watch?v=5B1k4jk5IrI" target="blank">Lisl Ponger</a> and <a href="https://www.visionsdureel.ch/en/film/destierros" target="blank">Hubert Caron-Guay</a>. 
 
 Photo credits: Marilou Crispin for <a href="https://dazibao.art/" target="blank">Dazibao</a> and Hillside Projects.
 
