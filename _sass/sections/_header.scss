@@ -8,7 +8,6 @@
   line-height: $line-height__base;
   font-weight: $font-weight__bold;
   font-size: 22px;
-  color: $color__type--hover;
 
 
   @media #{$medium-down} { line-height: $line-height__medium; }
@@ -17,8 +16,9 @@
     transition: $base-transition-speed;
     text-decoration: none;
     letter-spacing: 1px;
+    color: $color__type--hover;
 
-    &:hover { color: $color__type--hover; }
+    &:hover { color: $color__type; }
   }
 
   &__img {
