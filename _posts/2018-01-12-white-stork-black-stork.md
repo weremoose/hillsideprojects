@@ -4,7 +4,6 @@ title: White Stork (Black Stork)
 details: Work in progress. Research material including found photographs, interviews and video.
 featured: false
 author: hillsideprojects
-tags: [work in progress, project]
 image: '/images/posts/white_stork/white_stork_black_stork_5.jpg'
 ---
 

@@ -4,7 +4,6 @@ title: The Dusty Bird Catalogue, 2015
 details: Two slide projectors, table, text, feather residue and dust.
 featured: false
 author: hillsideprojects
-tags: [drawings]
 image: '/images/posts/dusty_bird_catalogue/dusty_bird_catalogue_4.jpg'
 ---
 

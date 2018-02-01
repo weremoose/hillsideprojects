@@ -4,7 +4,6 @@ title: Searching for the European Roller, lecture performance 2015-2017
 details: 30-minute lecture performance including found slides, text, drawing, risographs, bird bones, map, video, text, music, speakers, microphone and sound.
 featured: false
 author: hillsideprojects
-tags: [video, performance, lecture]
 image: '/images/posts/roller_lecture_2015-2017/european_roller_lecture_performance_05.jpg'
 ---
 

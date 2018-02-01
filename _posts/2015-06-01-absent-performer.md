@@ -4,7 +4,6 @@ title: Absent Performer, 2015
 details: Table, fabric, slide- projector, 6 min video loop, screen, artist book, glass of water, chair and plant.
 featured: false
 author: hillsideprojects
-tags: [drawings]
 image: '/images/posts/absent_performer/absent_performer_04.jpg'
 ---
 

@@ -4,7 +4,6 @@ title: Table of Migration, 2016-2017
 details: Found map, drawing and lecture performance.
 featured: false
 author: hillsideprojects
-tags: [drawing, performance, lecture]
 image: '/images/posts/table_of_migration/table_of_migration_04.jpg'
 ---
 

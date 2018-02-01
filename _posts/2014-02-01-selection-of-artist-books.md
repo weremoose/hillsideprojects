@@ -3,7 +3,6 @@ layout: post
 title: A selection of artist books, 2008
 featured: false
 author: hillsideprojects
-tags: [drawings]
 image: '/images/posts/selection_of_artist_books/selection_of_artist_books_01.jpg'
 ---
 

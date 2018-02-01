@@ -3,7 +3,6 @@ layout: post
 title: A selection of drawings on white-board initiated in 2015 and ongoing
 featured: false
 author: hillsideprojects
-tags: [drawings]
 image: '/images/posts/selection_of_drawings_on_white_board/selection_of_drawings_on_white_board_02.jpg'
 ---
 

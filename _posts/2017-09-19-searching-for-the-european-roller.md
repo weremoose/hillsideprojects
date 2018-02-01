@@ -4,7 +4,6 @@ title: Searching for the European Roller, 2017
 details: Video, table, drawings on found map, LED-sign, drawings on white-board and lecture performance.
 featured: false
 author: hillsideprojects
-tags: [video, performance]
 image: '/images/posts/roller_2017/searching_for_the_european_roller_2017_08.jpg'
 ---
 

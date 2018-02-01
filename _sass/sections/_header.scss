@@ -6,6 +6,10 @@
   display: block;
   margin-bottom: 0;
   line-height: $line-height__base;
+  font-weight: $font-weight__bold;
+  font-size: 22px;
+  color: $color__type--hover;
+
 
   @media #{$medium-down} { line-height: $line-height__medium; }
 
