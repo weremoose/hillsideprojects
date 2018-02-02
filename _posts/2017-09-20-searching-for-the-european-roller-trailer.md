@@ -5,6 +5,11 @@ details: HD video, 16:25 minutes.
 featured: false
 author: hillsideprojects
 image: '/images/posts/roller_video/searching_for_the_european_roller_video_2.jpg'
+slider:
+  - image: 'images/posts/roller_video/searching_for_the_european_roller_video_1.jpg'
+  - image: 'images/posts/roller_video/searching_for_the_european_roller_video_2.jpg'
+  - image: 'images/posts/roller_video/searching_for_the_european_roller_video_3.jpg'
+  - image: 'images/posts/roller_video/searching_for_the_european_roller_video_4.jpg'
 ---
 
 As part of the larger research enquiry _Searching for the European Roller_ 2015-2017, this video takes place in several public and private institutions and archives across Sweden. It targets to mimic the purpose of educational videos and playfully applies an “academic voice” whilst also exploring strategies of storytelling. The video weaves in and out of the history of a disappearing blue bird whilst re-tracing its memories and emotions. The story excavates the many layers surrounding the birds’ need for departure and the strong national desire for its return. In doing so, concepts of migration and identity are connected to a larger political understanding of belonging.

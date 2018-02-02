@@ -5,6 +5,14 @@ details: Lecture performance, table, microphone, speakers, LED-sign, slide proje
 featured: false
 author: hillsideprojects
 image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_01.jpg'
+slider:
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_01.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_02.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_03.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_04.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_05.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_06.jpg'
+  - image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_07.jpg'
 ---
 
 You are unmistakable<br/>
