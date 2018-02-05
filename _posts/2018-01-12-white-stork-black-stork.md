@@ -6,11 +6,11 @@ featured: false
 author: hillsideprojects
 image: '/images/posts/white_stork/white_stork_black_stork_5.jpg'
 slider:
-  - image: images/posts/white_stork/white_stork_black_stork_1.jpg
-  - image: images/posts/white_stork/white_stork_black_stork_2.jpg
-  - image: images/posts/white_stork/white_stork_black_stork_3.jpg
-  - image: images/posts/white_stork/white_stork_black_stork_4.jpg
-  - image: images/posts/white_stork/white_stork_black_stork_5.jpg
+  - image: images/white_stork_black_stork_01.jpg
+  - image: images/white_stork_black_stork_02.jpg
+  - image: images/white_stork_black_stork_03.jpg
+  - image: images/white_stork_black_stork_04.jpg
+  - image: images/white_stork_black_stork_05.jpg
 ---
 
 _White Stork (Black Stork)_ is a research project intended to explore the contemporary relationship between humans and the White Stork/Black Stork<sup>[1]</sup> in the contexts of history, culture and place. It will be manifested through sculpture and lecture performance. It will apply and play with strategies of mythmaking, storytelling and narrative structures.

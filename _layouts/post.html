@@ -8,9 +8,9 @@ layout: default
 
 <div class="wrapper">
   <div class="row">
-    {% if page.image %}
-      <div class="column column--center medium-10 large-10">
-        <div class="grey-bg CoverImage FlexEmbed FlexEmbed--16by9" style="background-image: url({{ page.image | prepend: site.baseurl }})"></div>
+    {% if page.slider %}
+      <div class="column column--center medium-10 large-10 grey-bg CoverImage">
+      {% include flexslider.html %}
       </div>
     {% endif %}
 
@@ -32,10 +32,6 @@ layout: default
         <div class="post-content" itemprop="articleBody">
           {{ content }}
         </div>
-
-        {% if page.slider %}
-          {% include flexslider.html %}
-        {% endif %}
 
         <div class="row">
           <div class="column large-10">
