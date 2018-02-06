@@ -4,7 +4,7 @@ title: White Stork (Black Stork), 2018 - ongoing
 details: Work in progress. Research material including found photographs, interviews and video.
 featured: false
 author: hillsideprojects
-image: '/images/posts/white_stork/white_stork_black_stork_5.jpg'
+image: '/images/white_stork_black_stork_thumb.jpg'
 slider:
   - image: images/white_stork_black_stork_01.jpg
   - image: images/white_stork_black_stork_02.jpg

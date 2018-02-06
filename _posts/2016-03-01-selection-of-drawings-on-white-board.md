@@ -4,7 +4,7 @@ title: A selection of drawings, 2015-ongoing
 details: A selection of drawings on white-board film and board.
 featured: false
 author: hillsideprojects
-image: '/images/posts/selection_of_drawings_on_white_board/selection_of_drawings_on_white_board_02.jpg'
+image: '/images/selection_of_drawings_on_white_board_thumb.jpg'
 slider:
   - image: '/images/selection_of_drawings_on_white_board_01.jpg'
   - image: '/images/selection_of_drawings_on_white_board_02.jpg'

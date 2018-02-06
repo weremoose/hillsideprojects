@@ -4,7 +4,7 @@ title: Searching for the European Roller, 2016
 details: Lecture performance, table, microphone, speakers, LED-sign, slide projector, drawings on white-board, paper, map, photomontage, OHP projector and text.
 featured: false
 author: hillsideprojects
-image: '/images/posts/roller_2016/searching_for_the_european_roller_2016_01.jpg'
+image: '/images/searching_for_the_european_roller_2016_thumb.jpg'
 slider:
   - image: '/images/searching_for_the_european_roller_2016_01.jpg'
   - image: '/images/searching_for_the_european_roller_2016_02.jpg'
