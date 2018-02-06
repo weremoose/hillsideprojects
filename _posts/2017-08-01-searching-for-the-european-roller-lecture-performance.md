@@ -15,7 +15,7 @@ slider:
   - image: '/images/european_roller_lecture_performance_07.jpg'
   - image: '/images/european_roller_lecture_performance_08.jpg'
   - image: '/images/european_roller_lecture_performance_09.jpg'
-  - image: '/images/european_roller_lecture_performance_10_fafafa.jpg'
+  - image: '/images/european_roller_lecture_performance_10.jpg'
   - image: '/images/european_roller_lecture_performance_11.gif'
 ---
 
