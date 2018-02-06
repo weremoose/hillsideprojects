@@ -6,17 +6,17 @@ featured: false
 author: hillsideprojects
 image: '/images/posts/roller_lecture/european_roller_lecture_performance_05.jpg'
 slider:
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_01.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_02.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_03.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_04.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_05.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_06.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_07.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_08.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_09.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_10.jpg'
-  - image: '/images/posts/roller_lecture/european_roller_lecture_performance_11.jpg'
+  - image: '/images/european_roller_lecture_performance_01.jpg'
+  - image: '/images/european_roller_lecture_performance_02.jpg'
+  - image: '/images/european_roller_lecture_performance_03.jpg'
+  - image: '/images/european_roller_lecture_performance_04.jpg'
+  - image: '/images/european_roller_lecture_performance_05.jpg'
+  - image: '/images/european_roller_lecture_performance_06.jpg'
+  - image: '/images/european_roller_lecture_performance_07.jpg'
+  - image: '/images/european_roller_lecture_performance_08.jpg'
+  - image: '/images/european_roller_lecture_performance_09.jpg'
+  - image: '/images/european_roller_lecture_performance_10_fafafa.jpg'
+  - image: '/images/european_roller_lecture_performance_11.gif'
 ---
 
 Included in the larger research project _Searching for the European Roller_<sup>[1]</sup> is a number of lecture performances and presentations. The lectures and presentations explore the characteristic of the chosen format (the lecture performance) and are situated in a place between discourse and action, reflection and production, fact and imagination, spectacle and mythmaking. Responding to site and context in which the presentation takes place, the lecture takes on a slightly new format each time presented. It applies and appropriates traditional research methods whilst also slowly unraveling additional layers. In such it offers an alternative reading on the subject matter.
