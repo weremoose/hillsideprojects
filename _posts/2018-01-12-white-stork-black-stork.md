@@ -1,7 +1,7 @@
 ---
 layout: post
-title: White Stork (Black Stork), 2018 - ongoing
-details: Work in progress. Research material including found photographs, interviews and video.
+title: White Stork (Black Stork)
+details: 2018 ongoing. Work in progress. Research material includes found photographs, interviews and video.
 featured: false
 author: hillsideprojects
 image: '/images/white_stork_black_stork_thumb.jpg'
@@ -13,7 +13,7 @@ slider:
   - image: images/white_stork_black_stork_05.jpg
 ---
 
-_White Stork (Black Stork)_ is a research project intended to explore the contemporary relationship between humans and the White Stork/Black Stork<sup>[1]</sup> in the contexts of history, culture and place. It will be manifested through sculpture and lecture performance. It will apply and play with strategies of mythmaking, storytelling and narrative structures.
+_White Stork (Black Stork)_ is a research project intended to explore the contemporary relationship between humans and the White Stork/Black Stork<sup>[1]</sup> in the contexts of history, culture and place. It applies and plays with strategies of mythmaking, storytelling and narrative structures. It will be manifested through the building of a stork platform and a lecture performance.
 
 <a href="http://www.storkprojektet.se/" target="blank">storkprojektet.se</a>
 

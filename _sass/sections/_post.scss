@@ -27,18 +27,18 @@
 
   &__title {
     margin-bottom: half($line-height__medium);
-    font-size: double($font-size__tiny);
+    font-size: 18px;
 
-    @media #{$large-up} {
-      font-size: double($font-size__medium);
-    }
+    // @media #{$large-up} {
+    //  font-size: double($font-size__medium);
+    // }
   }
 
   &__details {
     font-size: $font-size__small;
     line-height: $line-height__small;
     display: block;
-    color: #7E7E7E; 
+    color: #7E7E7E;
   }
 
   &-content {

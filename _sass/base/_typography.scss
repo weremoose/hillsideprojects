@@ -82,11 +82,12 @@ p {
 
 blockquote {
   margin: 0;
-  padding-left: $line-height__small;
+  // padding-left: $line-height__small;
   // font-style: italic;
-  border-left: 3px solid $color__type;
+  // border-left: 3px solid $color__type;
   font-size: $font-size__small;
   line-height: $line-height__small;
+  color: #7E7E7E;
 }
 
 hr {

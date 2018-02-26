@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Searching for the European Roller (video), 2017
-details: HD video, 16:25 minutes.
+title: Searching for the European Roller (video)
+details: 2017. HD video, 16:25 minutes.
 featured: false
 author: hillsideprojects
 image: '/images/searching_for_the_european_roller_video_thumb.jpg'
@@ -16,7 +16,7 @@ As part of the larger research enquiry _Searching for the European Roller_ 2015-
 
 <iframe src="https://player.vimeo.com/video/186178075?color=ffffff&title=0&byline=0&portrait=0" width="640" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-_Searching for the European Roller_, 2017<br/>
+> _Searching for the European Roller_, 2017<br/>
 Length: 16:25 minutes<br/>
 Directed by: Hillside Projects (Emily Mennerdahl and Jonas Böttern)<br/>
 Cinematography: Giorgos Chloros<br/>

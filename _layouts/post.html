@@ -23,9 +23,6 @@ layout: default
 
         <header class="post__header">
           <h2 class="post__title" itemprop="name headline">{{ page.title }}</h2>
-          <!-- DATE ON CARD
-          <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-          -->
           <h3 class="post__details">{{ page.details }}</h3>
         </header>
 
@@ -41,9 +38,6 @@ layout: default
               {% endfor %}
             </div>
           </div>
-          <div class="column large-2">
-            {% include share.html %}
-          </div>
         </div>
 
         <hr>
@@ -51,11 +45,6 @@ layout: default
         {% if page.author %}
           {% include author.html %}
         {% endif %}
-
-        <!-- DISQUS COMMENTS
-        <hr>
-        {% include disqus.html %}
-        -->
 
       </article>
     </div>
