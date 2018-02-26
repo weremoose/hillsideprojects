@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+image: '/images/contact_hillside_projects.jpg'
 ---
 
 Hillside Projects are based in Stockholm, Sweden. Their studio is located in Hagsätra. Hillside Projects are members of <a href="http://idigalleri.org/" target="blank">ID:I Galleri</a> in Stockholm.
