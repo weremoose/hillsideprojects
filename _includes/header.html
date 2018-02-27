@@ -13,7 +13,7 @@
         <nav class="site-header__navigation navigation">
           <ul class="list-bare">
             {% for page in site.pages %}
-              {% unless page.name == '404.md' %}
+              {% unless page.exclude %}
                 {% if page.title %}
                   <li>
                     <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
