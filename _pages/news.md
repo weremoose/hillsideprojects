@@ -18,9 +18,7 @@ June 2018, Hillside Projects are now distributed by <a href="https://www.filmfor
 <hr>
 
 ![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book.jpg)
-Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of The Royal Academy of Fine Arts Stockholm. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
-
-<a href="https://konstakademien.se/" target="blank">konstakademien.se</a>
+Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of <a href="https://konstakademien.se/" target="blank">The Royal Academy of Fine Arts Stockholm</a>. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
 
 <hr>
 
