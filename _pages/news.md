@@ -7,7 +7,7 @@ Raum fur Kunst – <a href="http://dasesszimmer.com/de/idi-galleri-stockholm-goe
 
 <hr>
 
-![FILMFORM - Hillside Projects](/images/hillside_projects_news_filmform.jpg)
+![FILMFORM - Hillside Projects](/images/hillside_projects_news_filmform.jpeg)
 June 2018, Hillside Projects are now distributed by <a href="https://www.filmform.com/" target="blank">FILMFORM THE ART FILM & VIDEO ARCHIVE SWEDEN</a>
 
 <hr>
