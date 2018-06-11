@@ -3,6 +3,36 @@ layout: page
 title: News
 details: Current, past and future happenings, presentations, publications and exhibitions.
 ---
+Raum fur Kunst – <a href="http://dasesszimmer.com/de/idi-galleri-stockholm-goes-esszimmer/#.WxpdqlOFP8M" target="blank">DAS ESSZIMMER</a>. Video screening /#1 Sunday 17 June 2018, 5pm. Dan Lageryd (SE), Hillside Projects (SE), Alexander Mood (SE), Tim Claxton (SE)
+
+<hr>
+
+![FILMFORM - Hillside Projects](/images/hillside_projects_news_filmform.jpg)
+June 2018, Hillside Projects are now distributed by <a href="https://www.filmform.com/" target="blank">FILMFORM THE ART FILM & VIDEO ARCHIVE SWEDEN</a>
+
+<hr>
+
+![Crum Heaven - Hillside Projects](/images/hillside_projects_news_crumheaven.jpg)
+<a href="https://www.instagram.com/crumheaven/?hl=en" target="blank">Crum Heaven</a> 31 May – 9 June 2018. Video screenings all week at Högbersggatan 38 Stockholm. Tuesday 5th of June, Salad Hilowlie presents a selection of video works including Hillside Projects.
+
+<hr>
+
+![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book.jpg)
+Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of The Royal Academy of Fine Arts Stockholm. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
+
+<a href="https://konstakademien.se/" target="blank">konstakademien.se</a>
+
+<hr>
+
+<a href="https://platformsproject.com/" target="blank">PLATFORMS PROJECT</a> – <a href="http://www.greeknewsagenda.gr/index.php/topics/culture-society/6714-platforms-project-2018" target="blank">INDEPENDENT ART FAIR ATHENS</a>, Hillside Projects present _Searching for The European Roller_ with ID:I Galleri Stockholm together with Alexander Moon, Helen Phersson, Mona Petersson, Johanna Schartau, Gabriella Carlsson, Marjolaine Lombard, Johan Wiking.
+17-20 May 2018
+
+<hr>
+
+![Vidéographe logo - Hillside Projects](/images/hillside_projects_videographe_logo.jpg)
+We are happy to announce that _Searching for the European Roller_ <a href="https://vimeopro.com/videographe/nouvelles-acquisitions-1" target="blank">is now distributed by Vidéographe</a>. Established in 1971 in Montréal, Vidéographe is an artist-run centre dedicated to the research and dissemination of moving image practices including experimentation in video art, animation, digital arts, documentary, essay, fiction and dance video. Check out <a href="https://www.videographe.org/" target="blank">Vidéographes web-site for their archive of exciting video works!
+
+<hr>
 
 ID:I and TwoChange present <a href="https://www.evensi.com/alienationen-konstvideo-a-id/239512198" target="blank">Alienationen</a>, art video festival at ID:I Galleri Stockholm. Wednesday 27th of December 2017, 6 pm. Hillside Projects video Searching for the European Roller is included in the program.
 
