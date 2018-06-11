@@ -29,7 +29,7 @@ Two new artist books _Again and again we ask these questions_ and _WHY DID YOU L
 
 <hr>
 
-![Vidéographe logo - Hillside Projects](/images/hillside_projects_videographe_logo.jpg)
+![Vidéographe logo - Hillside Projects](/images/hillside_projects_news_videographe_logo.jpg)
 We are happy to announce that _Searching for the European Roller_ <a href="https://vimeopro.com/videographe/nouvelles-acquisitions-1" target="blank">is now distributed by Vidéographe</a>. Established in 1971 in Montréal, Vidéographe is an artist-run centre dedicated to the research and dissemination of moving image practices including experimentation in video art, animation, digital arts, documentary, essay, fiction and dance video. Check out <a href="https://www.videographe.org/" target="blank">Vidéographes web-site for their archive of exciting video works!
 
 <hr>
