@@ -7,18 +7,18 @@ Raum fur Kunst – <a href="http://dasesszimmer.com/de/idi-galleri-stockholm-goe
 
 <hr>
 
-![FILMFORM - Hillside Projects](/images/hillside_projects_news_filmform.jpeg)
 June 2018, Hillside Projects are now distributed by <a href="https://www.filmform.com/" target="blank">FILMFORM THE ART FILM & VIDEO ARCHIVE SWEDEN</a>
+![FILMFORM - Hillside Projects](/images/hillside_projects_news_filmform.jpeg)
 
 <hr>
 
-![Crum Heaven - Hillside Projects](/images/hillside_projects_news_crumheaven.jpg)
 <a href="https://www.instagram.com/crumheaven/?hl=en" target="blank">Crum Heaven</a> 31 May – 9 June 2018. Video screenings all week at Högbersggatan 38 Stockholm. Tuesday 5th of June, Salad Hilowlie presents a selection of video works including Hillside Projects.
+![Crum Heaven - Hillside Projects](/images/hillside_projects_news_crumheaven.jpg)
 
 <hr>
 
-![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book.jpg)
 Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of <a href="https://konstakademien.se/" target="blank">The Royal Academy of Fine Arts Stockholm</a>. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
+![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book.jpg)
 
 <hr>
 
@@ -27,8 +27,8 @@ Two new artist books _Again and again we ask these questions_ and _WHY DID YOU L
 
 <hr>
 
-![Vidéographe logo - Hillside Projects](/images/hillside_projects_news_videographe_logo.jpg)
 We are happy to announce that _Searching for the European Roller_ <a href="https://vimeopro.com/videographe/nouvelles-acquisitions-1" target="blank">is now distributed by Vidéographe</a>. Established in 1971 in Montréal, Vidéographe is an artist-run centre dedicated to the research and dissemination of moving image practices including experimentation in video art, animation, digital arts, documentary, essay, fiction and dance video. Check out <a href="https://www.videographe.org/" target="blank">Vidéographes web-site for their archive of exciting video works!
+![Vidéographe logo - Hillside Projects](/images/hillside_projects_news_videographe_logo.jpg)
 
 <hr>
 
