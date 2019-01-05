@@ -3,6 +3,27 @@ layout: page
 title: News
 details: Current, past and future happenings, presentations, publications and exhibitions.
 ---
+
+November 2018
+
+Literary Event – <a href="https://paris.si.se/en/events-projects/literary-event-photography-books-in-sweden-past-and-future/?fbclid=IwAR07mZWmL0B6o0Iu6EDnEAjmK0MXC6VrUhMZ5nWBJobv8r99jKBUgrbpQCM" target="blank">Photography books in Sweden past future</a> at Institut Suedóis in Paris
+
+![Literary Event - Hillside Projects](/images/hillside_projects_news_literary_event.jpeg)
+
+<hr>
+
+14-23 September 2018 LANDSKRONA FOTOFESTIVAL
+
+http://www.landskronafoto.org/en/residency/
+
+As part of the post-MA programmeThe Photographic Artist’s Book: Dissemination in a Digital Landscape at the Royal Institute of Arts in Stockholm our recent publications are exhibited alongside many other exciting artist books during Landskrona Fotofestival.
+
+![Landskrona Fotofestival - Hillside Projects](/images/hillside_projects_news_landskrona_fotofestival.jpeg)
+
+> Photo credit: Simon Blanck
+
+<hr>
+
 Raum fur Kunst – <a href="http://dasesszimmer.com/de/idi-galleri-stockholm-goes-esszimmer/#.WxpdqlOFP8M" target="blank">DAS ESSZIMMER</a>. Video screening /#1 Sunday 17 June 2018, 5pm. Dan Lageryd (SE), Hillside Projects (SE), Alexander Mood (SE), Tim Claxton (SE)
 
 <hr>
@@ -21,12 +42,14 @@ June 2018, Hillside Projects are now distributed by <a href="https://www.filmfor
 
 Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of <a href="https://konstakademien.se/" target="blank">The Royal Academy of Fine Arts Stockholm</a>. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
 
-![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book.jpg)
+![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book_alt.jpg)
 
 <hr>
 
 <a href="https://platformsproject.com/" target="blank">PLATFORMS PROJECT</a> – <a href="http://www.greeknewsagenda.gr/index.php/topics/culture-society/6714-platforms-project-2018" target="blank">INDEPENDENT ART FAIR ATHENS</a>, Hillside Projects present _Searching for The European Roller_ with ID:I Galleri Stockholm together with Alexander Moon, Helen Phersson, Mona Petersson, Johanna Schartau, Gabriella Carlsson, Marjolaine Lombard, Johan Wiking.
 17-20 May 2018
+
+![Platforms Project - Hillside Projects](/images/hillside_projects_news_platforms_project.jpg)
 
 <hr>
 
