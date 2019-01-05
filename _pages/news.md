@@ -18,7 +18,7 @@ http://www.landskronafoto.org/en/residency/
 
 As part of the post-MA programmeThe Photographic Artist’s Book: Dissemination in a Digital Landscape at the Royal Institute of Arts in Stockholm our recent publications are exhibited alongside many other exciting artist books during Landskrona Fotofestival.
 
-![Landskrona Fotofestival - Hillside Projects](/images/hillside_projects_news_landskrona_fotofestival.jpeg)
+![Landskrona Fotofestival - Hillside Projects](/images/hillside_projects_news_landskrona_fotofestival.jpg)
 
 > Photo credit: Simon Blanck
 
