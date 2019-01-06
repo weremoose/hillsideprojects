@@ -28,5 +28,6 @@ collections:
       - {label: "Details", name: "details", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Featured", name: "featured", widget: "boolean", default: false}
+      - {label: "Exclude page from menu", name: "exclude", widget: "boolean", default: false}
       - {label: "Author", name: "author", widget: "hidden", default: "hillsideprojects"}
       - {label: "Body", name: "body", widget: "markdown"}
