@@ -15,7 +15,7 @@ collections:
       - {label: "Details", name: "details", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       # - {label: "Author", name: "author", "hillsideprojects"}
-      - {label: "Slider", name: "slider", widget: "image"}
+      # - {label: "Slider", name: "slider", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Page" # Used in the UI
     name: "Pages" # Used in routes, e.g., /admin/collections/blog
