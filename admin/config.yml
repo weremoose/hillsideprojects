@@ -29,7 +29,7 @@ collections:
       - {label: "Tagline", name: "details", widget: "string"}
       - {label: "Place on top as featured project", name: "featured", widget: "boolean", default: false}
       - {label: "Image to use in homepage", name: "image", widget: "image"}
-      - label: "Slider gallery images"
+      - label: "Gallery images"
         name: "slider"
         widget: "list"
         field: {label: Image, name: image, widget: image}
