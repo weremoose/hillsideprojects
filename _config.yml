@@ -16,7 +16,7 @@ vimeo_username:   user31098743
 
 markdown:  kramdown
 permalink: /:title.html
-paginate:  12
+paginate:  24
 sass:
   style: compressed
 
