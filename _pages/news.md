@@ -1,10 +1,70 @@
 ---
 layout: page
 title: News
-details: Current, past and future happenings, presentations, publications and exhibitions.
+details: >-
+  Current, past and future happenings, presentations, publications and
+  exhibitions.
+exclude: true
 ---
+\--------------------------------------------------------------------------------
 
-November 2018
+**May 2019 -** 
+
+**\#** _Again and Again We Ask These Questions_ screened at **65th International Short Film Festival Oberhausen** as part of Film Form's News 2019 Programme
+
+<https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
+
+**April 2019 -** 
+
+\# Is This the End? at ID:I Galleri. An exhibition with Hillside Projects & Jonas Holmer
+
+<https://idigalleri.org/tag/hillside-projects-och-jonas-holmer/>
+
+
+
+\# April 18, Kulturnatten Stockholm 2019. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
+
+<https://kulturnattstockholm.se/>
+
+**February 2019 -** 
+
+\# Solo exhibition at **Galleri 54** Gothenburg _Why Did You Leave?_
+
+__[_http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave_](http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave)__
+
+Lecture performance with Hillside Projects 15th of February at 7pm
+
+Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 Feb at 1 pm
+
+
+
+**January 2019** - 
+
+\# Screening of _Searching for the European Roller_ at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019 
+
+<https://filmwinter.de/sites/default/files/2018-12/FW32_Festival-Programme_2019.pdf>
+
+
+
+\# Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+
+
+
+
+
+**December 2018 -**
+
+\# # Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle that looks into the 20 year history, space and the artists that have exhibited at **Tensta Konsthall**. Screened at Tensta Konsthall as part of a programme celebrating 20 years as an exhibition space.
+
+<http://www.tenstakonsthall.se/>
+
+
+
+
+
+
+
+**November 2018 -**
 
 Literary Event – <a href="https://paris.si.se/en/events-projects/literary-event-photography-books-in-sweden-past-and-future/?fbclid=IwAR07mZWmL0B6o0Iu6EDnEAjmK0MXC6VrUhMZ5nWBJobv8r99jKBUgrbpQCM" target="blank">Photography books in Sweden past future</a> at Institut Suedóis in Paris
 
