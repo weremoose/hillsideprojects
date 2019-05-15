@@ -4,17 +4,17 @@ title: News
 details: >-
   Current, past and future happenings, presentations, publications and
   exhibitions.
-exclude: true
+exclude: false
 ---
 \--------------------------------------------------------------------------------
 
-**May 2019 -** 
+**May 2019 -**
 
 **\#** _Again and Again We Ask These Questions_ screened at **65th International Short Film Festival Oberhausen** as part of Film Form's News 2019 Programme
 
 <https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
 
-**April 2019 -** 
+**April 2019 -**
 
 \# Is This the End? at ID:I Galleri. An exhibition with Hillside Projects & Jonas Holmer
 
@@ -26,7 +26,7 @@ exclude: true
 
 <https://kulturnattstockholm.se/>
 
-**February 2019 -** 
+**February 2019 -**
 
 \# Solo exhibition at **Galleri 54** Gothenburg _Why Did You Leave?_
 
@@ -38,9 +38,9 @@ Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 F
 
 
 
-**January 2019** - 
+**January 2019** -
 
-\# Screening of _Searching for the European Roller_ at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019 
+\# Screening of _Searching for the European Roller_ at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
 
 <https://filmwinter.de/sites/default/files/2018-12/FW32_Festival-Programme_2019.pdf>
 
