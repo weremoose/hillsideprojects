@@ -46,7 +46,7 @@ Find us at ID:I Galleri's booth
 
 Performing at the one-night pop up exhibition event curated by Sibylle Feucht, at **Space52**, Kastorias 52, Athens 104 47. 
 
-<http://www.space52.gr/>
+[http://www.space52.gr/](http://www.space52.gr/the-whole-and-its-parts-through-an-urbanistique-lens/)
 
 ![](/images/hillside_projects_news_space52.jpg)
 
