@@ -8,21 +8,33 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**June 2019 -** 
+
+\# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen. 
+
+Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance Searching for the European Roller. Welcome!
+
+****
+
 **May 2019 -**
 
-**\#** _Again and Again We Ask These Questions_ screened at **65th International Short Film Festival Oberhausen** as part of Film Form's News 2019 Programme
+\# **Platforms Projects Athens,** 2019. Find us at the booth of ID:I Galleri.
 
-<https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
+<https://platformsproject.com/>
+
+**\#** _The Whole and it’s Parts (through an urbanistique Lens)_ – one night pop up exhibition event curated by Sibylle Feucht, **Space52**, Kastorias 52, Athens 104 47. Jonas Böttern performs a new version Searching for the European Roller.
+
+<http://www.space52.gr/>
+
+**\#** Our new video _Again and Again We Ask These Questions_ screened at **65th International Short Film Festival Oberhausen** as part of Film Form's News 2019 Programm<https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
 
 **April 2019 -**
 
-\# Is This the End? at ID:I Galleri. An exhibition with Hillside Projects & Jonas Holmer
+\# _Is This the End?_ at **ID:I Galleri**. An exhibition with Hillside Projects & Jonas Holmer
 
 <https://idigalleri.org/tag/hillside-projects-och-jonas-holmer/>
 
-
-
-\# April 18, Kulturnatten Stockholm 2019. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
+\# April 18, **Kulturnatten Stockholm 2019**. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
 
 <https://kulturnattstockholm.se/>
 
@@ -30,13 +42,11 @@ exclude: false
 
 \# Solo exhibition at **Galleri 54** Gothenburg _Why Did You Leave?_
 
-__[_http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave_](http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave)__
+**<http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave>**
 
 Lecture performance with Hillside Projects 15th of February at 7pm
 
 Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 Feb at 1 pm
-
-
 
 **January 2019** -
 
@@ -44,25 +54,13 @@ Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 F
 
 <https://filmwinter.de/sites/default/files/2018-12/FW32_Festival-Programme_2019.pdf>
 
-
-
 \# Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
-
-
-
-
 
 **December 2018 -**
 
 \# # Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle that looks into the 20 year history, space and the artists that have exhibited at **Tensta Konsthall**. Screened at Tensta Konsthall as part of a programme celebrating 20 years as an exhibition space.
 
 <http://www.tenstakonsthall.se/>
-
-
-
-
-
-
 
 **November 2018 -**
 
