@@ -10,7 +10,7 @@ exclude: false
 
 **June 2019 -** 
 
-\# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen. 
+\# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen
 
 Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance Searching for the European Roller. Welcome!
 
@@ -34,7 +34,11 @@ Presenting some new work and a new/re-interpretation of a performance in a group
 
 
 
-\# **Platforms Projects 2019 - Independent Art Fair * Athens.** Find us at ID:I Galleri's booth
+**May 2019 -** 
+
+\# **Platforms Project 2019 -** Independent Art Fair - Athens
+
+Find us at ID:I Galleri's booth
 
 <https://platformsproject.com/>
 
@@ -42,15 +46,19 @@ Presenting some new work and a new/re-interpretation of a performance in a group
 
 ****
 
-**\#** **The Whole and it’s Parts (through an urbanistique Lens)** – **Space52**
+**May 2019 -** 
 
-Performing at the one night pop up exhibition event curated by Sibylle Feucht, at **Space52**, Kastorias 52, Athens 104 47. 
+**\#** **The Whole and it’s Parts (through an urbanistique Lens)** – Space52 Athens
+
+Performing at the one-night pop up exhibition event curated by Sibylle Feucht, at **Space52**, Kastorias 52, Athens 104 47. 
 
 <http://www.space52.gr/>
 
 ![](/images/hillside_projects_news_space52.jpg)
 
 
+
+**May 2019 -** 
 
 \# **Again and Again We Ask These Questions** screened at **65th International Short Film Festival Oberhausen**
 
