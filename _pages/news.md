@@ -12,7 +12,7 @@ exclude: false
 
 \# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen
 
-Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance Searching for the European Roller. Welcome!
+Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance _Searching for the European Roller_. Welcome!
 
 <http://www.biologiskamuseetsvanner.se/>
 
@@ -33,6 +33,8 @@ Presenting some new work and a new/re-interpretation of a performance in a group
 ![](/images/hillside_projects_news_bangska_vaningen.jpg)
 
 
+
+****
 
 **May 2019 -** 
 
@@ -55,6 +57,8 @@ Performing at the one-night pop up exhibition event curated by Sibylle Feucht, a
 <http://www.space52.gr/>
 
 ![](/images/hillside_projects_news_space52.jpg)
+
+
 
 
 
