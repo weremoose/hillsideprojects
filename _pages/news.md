@@ -20,6 +20,10 @@ Happy to be part of an exciting programme on Birds curated by Biologiska Museets
 
 **May 2019 -**
 
+\# Presenting some new work and a performace in the group exhibition _In Mid Air_ at **Bångska Våningen**, Stockholm
+
+![](/images/hillside_projects_news_bangska_vaningen.jpg)
+
 \# **Platforms Projects Athens,** 2019. Find us at the booth of ID:I Galleri.
 
 <https://platformsproject.com/>
