@@ -22,11 +22,11 @@ Who should be saved?
 
 
 
-**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India, he is self-taught with a background in painting and drawing and travelling has always played a significant role in his artist practice. Presently (2019) Böttern is taking part of the postgraduate course Art in the Open at Konstfack and a board member of [**NKF**](http://nkfsweden.org/) (The Nordic Art Association).
+**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India, he is self-taught with a background in painting and drawing and travelling has always played a significant role in his artist practice. Presently (2019) Böttern is taking part in the postgraduate course Art in the Open at Konstfack and is a board member of [**NKF**](http://nkfsweden.org/) (The Nordic Art Association).
 
 
 
-Hillside Projects are a member of the artist run gallery[ **ID:I Galleri**](http://idigalleri.org/) in Stockholm. 
+Hillside Projects is a member of the artist run gallery[ **ID:I Galleri**](http://idigalleri.org/) in Stockholm. 
 
 
 
