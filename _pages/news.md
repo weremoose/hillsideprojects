@@ -14,25 +14,51 @@ exclude: false
 
 Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance Searching for the European Roller. Welcome!
 
+<http://www.biologiskamuseetsvanner.se/>
+
+
+
 ![](/images/hillside_projects_news_program_bmv_medlemmar.jpg)
 
 ****
 
 **May 2019 -**
 
-\# Presenting some new work and a performace in the group exhibition _In Mid Air_ at **Bångska Våningen**, Stockholm
+\# **In Mid Air** at Bångska Våningen
+
+Presenting some new work and a new/re-interpretation of a performance in a group exhibition with an exciting bunch of photorgraphers Erik Berglin, Weronika Bela, Fredrik Bjernelind, Jasmin Daryani, Ivar Hagren, Simon Skuteli and Johan Stenström
+
+
 
 ![](/images/hillside_projects_news_bangska_vaningen.jpg)
 
-\# **Platforms Projects Athens,** 2019. Find us at the booth of ID:I Galleri.
+
+
+\# **Platforms Projects 2019 - Independent Art Fair * Athens.** Find us at ID:I Galleri's booth
 
 <https://platformsproject.com/>
 
-**\#** _The Whole and it’s Parts (through an urbanistique Lens)_ – one night pop up exhibition event curated by Sibylle Feucht, **Space52**, Kastorias 52, Athens 104 47. Jonas Böttern performs a new version Searching for the European Roller.
+![](/images/hillside_projects_news_platforms_project2019.jpg)
+
+****
+
+**\#** **The Whole and it’s Parts (through an urbanistique Lens)** – **Space52**
+
+Performing at the one night pop up exhibition event curated by Sibylle Feucht, at **Space52**, Kastorias 52, Athens 104 47. 
 
 <http://www.space52.gr/>
 
-**\#** Our new video _Again and Again We Ask These Questions_ screened at **65th International Short Film Festival Oberhausen** as part of Film Form's News 2019 Programm<https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
+![](/images/hillside_projects_news_space52.jpg)
+
+
+
+\# **Again and Again We Ask These Questions** screened at **65th International Short Film Festival Oberhausen**
+
+Several new titles in Filmform distribution catalogue will be presented in the programme Filmform News 2019 at the International 65th Short Film Festival Oberhausen in Lichtburg Filmpalast, Oberhausen on May 3th.  Anna-Karin Larsson, executive director at Filmform, will be introducing the screening.
+
+<https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
+
+![](/images/hillside_projects_news_oberhausen.jpg)
 
 **April 2019 -**
 
