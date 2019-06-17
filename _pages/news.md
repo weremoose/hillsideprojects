@@ -14,6 +14,8 @@ exclude: false
 
 Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance Searching for the European Roller. Welcome!
 
+![](/images/hillside_projects_news_program_bmv_medlemmar.jpg)
+
 ****
 
 **May 2019 -**
