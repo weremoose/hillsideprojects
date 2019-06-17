@@ -8,31 +8,25 @@ exclude: false
 
 **June 2019 -** 
 
-\# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen
+\# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen Stockholm
 
 Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance _Searching for the European Roller_. Welcome!
 
 <http://www.biologiskamuseetsvanner.se/>
 
-
-
 ![](/images/hillside_projects_news_program_bmv_medlemmar.jpg)
 
-****
+- - -
 
 **May 2019 -**
 
-\# **In Mid Air** at Bångska Våningen
+\# **In Mid Air** at Bångska Våningen Stockholm
 
 Presenting some new work and a new/re-interpretation of a performance in a group exhibition with an exciting bunch of photorgraphers Erik Berglin, Weronika Bela, Fredrik Bjernelind, Jasmin Daryani, Ivar Hagren, Simon Skuteli and Johan Stenström
 
-
-
 ![](/images/hillside_projects_news_bangska_vaningen.jpg)
 
-
-
-****
+- - -
 
 **May 2019 -** 
 
@@ -44,7 +38,7 @@ Find us at ID:I Galleri's booth
 
 ![](/images/hillside_projects_news_platforms_project2019.jpg)
 
-****
+- - -
 
 **May 2019 -** 
 
@@ -55,10 +49,6 @@ Performing at the one-night pop up exhibition event curated by Sibylle Feucht, a
 <http://www.space52.gr/>
 
 ![](/images/hillside_projects_news_space52.jpg)
-
-
-
-
 
 **May 2019 -** 
 
@@ -72,7 +62,7 @@ Several new titles in Filmform distribution catalogue will be presented in the p
 
 **April 2019 -**
 
-\# _Is This the End?_ at **ID:I Galleri**. An exhibition with Hillside Projects & Jonas Holmer
+\# _Is This the End?_ at **ID:I Galleri** Stockholm. An exhibition with Hillside Projects & Jonas Holmer
 
 <https://idigalleri.org/tag/hillside-projects-och-jonas-holmer/>
 
