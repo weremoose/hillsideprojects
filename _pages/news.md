@@ -1,9 +1,7 @@
 ---
 layout: page
-title: News
-details: >-
-  Current, past and future happenings, presentations, publications and
-  exhibitions.
+title: NEWS
+details: 'Happenings, presentations, publications and exhibitions.'
 exclude: false
 ---
 \--------------------------------------------------------------------------------
