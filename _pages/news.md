@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEWS
+title: News
 details: 'Happenings, presentations, publications and exhibitions.'
 exclude: false
 ---
