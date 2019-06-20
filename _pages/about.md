@@ -39,8 +39,3 @@ Hillside Projects is a member of the artist run gallery[ **ID:I Galleri**](http:
 <hr
 
 <hr>
-
-<div class="text-center">
-  <img src="/images/Emily_Mennerdahl.jpg" alt="Emily Mennerdahl, Hillside Projects" title="Emily Mennerdahl, Hillside Projects" width="150" style="display: inline;" />
-  <img src="/images/Jonas_Bottern.jpg" alt="Jonas Böttern, Hillside Projects" title="Jonas Böttern, Hillside Projects" width="150" style="display: inline; margin-left:15px;"/>
-</div>
