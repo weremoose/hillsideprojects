@@ -100,8 +100,6 @@ Kulturnatten 27 april, öppet 18-24
 
 Video still from Again and Again We Ask These Questions, 2019
 
-
-
 \-------------------------------------------------------
 
 \# April 18, **Kulturnatten Stockholm 2019**. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
@@ -140,11 +138,7 @@ Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Bötter
 
 <http://www.tenstakonsthall.se/>
 
-![](/images/hillside_projects_news_tensta_konsthall.jpg)
-
-
-
-
+![](/images/hillside_projects_news_zita.jpg)
 
 **December 2018 -**
 
