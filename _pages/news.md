@@ -110,15 +110,31 @@ Kulturnatten 27 april, öppet 18-24
 
 <https://kulturnattstockholm.se/>
 
+![](/images/hillside_projects_news_kulturnatten.jpg)
+
+****
+
+****
+
 **February 2019 -**
 
-\# Solo exhibition at **Galleri 54** Gothenburg _Why Did You Leave?_
+\# Solo exhibition **Why Did You Leave?** at **Galleri 54** Gothenburg 
 
 **<http://galleri54.com/docroot/index.php/sv/utstallning/why-did-you-leave>**
 
 Lecture performance with Hillside Projects 15th of February at 7pm
 
 Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 Feb at 1 pm
+
+![](/images/hillside_projects_news_galleri54.jpg)
+
+Photo credit: Henrik Zeitler
+
+
+
+
+
+
 
 **January 2019** -
 
