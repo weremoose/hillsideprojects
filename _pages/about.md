@@ -16,6 +16,8 @@ Who should be saved? or should we be saved?
 
 
 
+Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) and [Vidéographe Montréal](https://www.videographe.org/en/) and a member of [ID:I Galleri Stockholm](http://idigalleri.org/)
+
 ![]()
 
 ![]()
@@ -26,13 +28,9 @@ Who should be saved? or should we be saved?
 
 ![](/images/Emily_Mennerdahl.jpg)
 
-****
+- - -
 
-**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Bötternw as awarded the honorouble Principle Scholarship. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artist practice and continues to do so. Presently (2019) Böttern is taking part in the postgraduate course Art in the Open at Konstfack and is a board member of [**NKF**](http://nkfsweden.org/) (The Nordic Art Association).
-
-![](/images/Jonas_Bottern.jpg)
-
-Hillside Projects is a member of the artist run gallery[ **ID:I Galleri**](http://idigalleri.org/) in Stockholm. 
+**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Bötternw as awarded the honorouble Principle Scholarship. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artist practice and continues to do so. Presently (2019) Böttern is taking part in the postgraduate course Art in the Open at Konstfack and is a board member of [**NKF**](http://nkfsweden.org/) (The Nordic Art Association)
 
 [Hillside Projects CV](/cv.html)
 
