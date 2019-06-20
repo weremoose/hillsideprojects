@@ -38,7 +38,7 @@ Find us at **ID:I Galleri's** booth
 
 <https://platformsproject.com/>
 
-![](/images/hillside_projects_news_platforms_project2019.jpg)
+![](/images/hillside_projects_new_platforms_2.jpg)
 
 - - -
 
@@ -74,7 +74,7 @@ Several new titles in Filmform distribution catalogue will be presented in the p
 
 ![](/images/hillside_projects_news_oberhausen.jpg)
 
-****
+- - -
 
 **April 2019 -**
 
@@ -96,31 +96,13 @@ Kulturnatten 27 april, öppet 18-24
 
 ![](/images/hillside_projects_news_idi.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \# April 18, **Kulturnatten Stockholm 2019**. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
 
 <https://kulturnattstockholm.se/>
 
 ![](/images/hillside_projects_news_kulturnatten.jpg)
 
-****
+- - -
 
 **February 2019 -**
 
@@ -136,16 +118,6 @@ Panel discussion between Mikael Olofsson and Jonas Böttern in the gallery, 16 F
 
 Photo credit: Henrik Zeitler
 
-
-
-
-
-
-
-
-
-
-
 **January 2019** -
 
 \# Screening of **Searching for the European Roller** at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
@@ -154,11 +126,15 @@ Photo credit: Henrik Zeitler
 
 ![](/images/hillside_projects_news_stuttgarter.jpg)
 
-
-
 **January 2019 -** 
 
 Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+
+<http://www.tenstakonsthall.se/>
+
+![](/images/hillside_projects_news_tensta_konsthall.jpg)
+
+
 
 
 
