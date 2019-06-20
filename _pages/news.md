@@ -142,9 +142,13 @@ Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Bötter
 
 **December 2018 -**
 
-\# **Tensta Konsthall - Dåtid. Nutid. Samtid.** A film by Jonas Böttern and Salad Hilowle. Screen at **Tensta Konsthall** as part of a programme celebrating 20 years as an exhibition space.
+\# **Tensta Konsthall - Dåtid. Nutid. Samtid** screening at **Tensta Konsthall** as part of a programme celebrating 20 years as an exhibition space.
+
+Tensta Konsthall - Nutid. Dåtid. Samtid är ett ca 30 minuter långt dokumentärfilmsporträtt som skildrar Tensta Konsthall. Filmen följer tre nyckelpersoner med olika kopplingar till konsthallen. Genom samtal med dessa personer gör filmen nedslag i Tensta konsthalls mångskiftande historia. Det är en berättelse som präglas av alla de människor som har varit och är engagerade i konsthallen men även en historia om Tensta som plats. Om en konsthall som är i absolut framkant med att visa både nationell och internationell samtidskonst på högsta nivå. Om en kreativ drivkraft som flätas samman med en ambition att bredda konstpubliken, både geografiskt men också kulturellt. Sida vid sida, har konsten och Tensta förenats i en mötesplats med stark lokal förankring.
 
 <http://www.tenstakonsthall.se/>
+
+![](/images/hillside_projects_news_tensta_konsthall.jpg)
 
 **November 2018 -**
 
