@@ -12,11 +12,7 @@ Who decides who or what belongs where?
 
 Who should be saved? or should we be saved?
 
-
-
-
-
-Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) and [Vidéographe Montréal](https://www.videographe.org/en/) and a member of [ID:I Galleri Stockholm](http://idigalleri.org/)
+Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) and [Vidéograph](https://www.videographe.org/en/)e and is a member of [ID:I Galleri ](http://idigalleri.org/)in Stockholm
 
 ![]()
 
