@@ -72,7 +72,7 @@ Böttern performing **Searching for the European Roller** with the aid of Alex M
 
 Several new titles in Filmform distribution catalogue will be presented in the programme Filmform News 2019 at the International 65th Short Film Festival Oberhausen in Lichtburg Filmpalast, Oberhausen on May 3th.  Anna-Karin Larsson, executive director at Filmform, will be introducing the screening.
 
-View and excerpt: <https://www.filmform.com/works/4805-again-and-again-we-ask-these-questions/>
+View an excerpt: <https://www.filmform.com/works/4805-again-and-again-we-ask-these-questions/>
 
 <https://www.filmform.com/calendar/filmform-news-2019-at-the-65th-international-short-film-festival-oberhausen/>
 
@@ -130,7 +130,7 @@ Photo credit: Henrik Zeitler
 
 \# Screening of **Searching for the European Roller** at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
 
-View and excerpt: <https://www.filmform.com/works/4785-searching-for-the-european-roller/>
+View an excerpt: <https://www.filmform.com/works/4785-searching-for-the-european-roller/>
 
 <https://filmwinter.de/sites/default/files/2018-12/FW32_Festival-Programme_2019.pdf>
 
