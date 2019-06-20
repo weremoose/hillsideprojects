@@ -50,7 +50,7 @@ Performing at the one-night pop up exhibition event curated by Sibylle Feucht, a
 
 ![](/images/hillside_projects_news_space52.jpg)
 
-****
+- - -
 
 **May 2019 -** 
 
@@ -62,11 +62,35 @@ Several new titles in Filmform distribution catalogue will be presented in the p
 
 ![](/images/hillside_projects_news_oberhausen.jpg)
 
+****
+
 **April 2019 -**
 
-\# _Is This the End?_ at **ID:I Galleri** Stockholm. An exhibition with Hillside Projects & Jonas Holmer
+\# **Is This the End?** at **ID:I Galleri** Stockholm
+
+Hillside Projects & Jonas Holmer: IS THIS THE END?                                                      12 april - 5 maj 2019
+
+Vernissage: fredag 12 april, 17-20
+
+Öppettider: tors-fre 12-18, lör-sön 12-16
+
+Kulturnatten 27 april, öppet 18-24
+
+Föreläsning Mörk Materia med Timo Menke 2 maj, 18-19
+
+Is This the End? är en utställning med Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) tillsammans med Jonas Holmer. Manade av samtida händelser i och omkring naturen, används performativa och poetiska metoder för att tala om de levande och olevande, hopp och hopplöshet, ljus och mörker. I en mörkblå rymd visas video, ljud och en bok samt arrangerade kvällar med läsningar och musikaliska åkallelser. 
 
 <https://idigalleri.org/tag/hillside-projects-och-jonas-holmer/>
+
+![Video still from Again and Again We Ask These Questions, 2019](/images/hillside_projects_news_idi.jpg)
+
+
+
+
+
+
+
+
 
 \# April 18, **Kulturnatten Stockholm 2019**. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
 
