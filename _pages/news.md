@@ -42,9 +42,19 @@ Find us at ID:I Galleri's booth
 
 **May 2019 -** 
 
-**\#** **The Whole and it’s Parts (through an urbanistique Lens)** – Space52 Athens
+**\#** **The Whole and it’s Parts (through an urbanistique lens)** – Space52 Athens
 
-Performing at the one-night pop up exhibition event curated by Sibylle Feucht, at **Space52**, Kastorias 52, Athens 104 47. 
+Parallel event to Platforms Project 2019, Athens (GR)
+
+Artists:  Paolo Arao (US) | Tim Claxton (SE) | Åsa Ersmark (SE) | Sibylle Feucht (GER) | Hillside  Projects (SE) | JuJe (CA) | Dan Lageryd (SE) | Merzedes Sturm-Lie (SE) | Alexander  Mood (SE) | Annelie Wallin (SE) | Mathieu Valade (CA) | Guido Winkler (NL)
+
+Curated by Das Esszimmer
+
+Performance:  at 10pm, Searching for the European Roller by Hillside Projects (SE) Performed by Jonas Böttern, Hillside Projects
+
+**The Whole and it’s Parts through an Urbanistic Lens** brings a broad range of positions and media together that deal with structural, formal and contextual questions, reflecting on relations as individuals and as groups with the Whole that can be understood as communities, societies, urban city structures, the Nature, the World. Despite the fact that through globalization the overall concept that everything and everybody is somehow tied together has become a common ground, life feels more and more fragmented and lost in detail. The one-night exhibition tries to focus on the parts of our lives that form a whole.
+
+Opening:  starts at 9 pm **Space52**, Kastorias 52, Athens 104 47. 
 
 [http://www.space52.gr/](http://www.space52.gr/the-whole-and-its-parts-through-an-urbanistique-lens/)
 
@@ -76,13 +86,17 @@ Vernissage: fredag 12 april, 17-20
 
 Kulturnatten 27 april, öppet 18-24
 
-Föreläsning Mörk Materia med Timo Menke 2 maj, 18-19
+**Föreläsning Mörk Materia med Timo Menke** 2 maj, 18-19
 
-Is This the End? är en utställning med Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) tillsammans med Jonas Holmer. Manade av samtida händelser i och omkring naturen, används performativa och poetiska metoder för att tala om de levande och olevande, hopp och hopplöshet, ljus och mörker. I en mörkblå rymd visas video, ljud och en bok samt arrangerade kvällar med läsningar och musikaliska åkallelser. 
+**Is This the End?** är en utställning med Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) tillsammans med Jonas Holmer. Manade av samtida händelser i och omkring naturen, används performativa och poetiska metoder för att tala om de levande och olevande, hopp och hopplöshet, ljus och mörker. I en mörkblå rymd visas video, ljud och en bok samt arrangerade kvällar med läsningar och musikaliska åkallelser. 
 
 <https://idigalleri.org/tag/hillside-projects-och-jonas-holmer/>
 
-![Video still from Again and Again We Ask These Questions, 2019](/images/hillside_projects_news_idi.jpg)
+![](/images/hillside_projects_news_idi.jpg)
+
+
+
+
 
 
 
