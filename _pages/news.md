@@ -32,7 +32,9 @@ Presenting some new work and a new/re-interpretation of a performance in a group
 
 \# **Platforms Project 2019 -** Independent Art Fair - Athens
 
-Find us at ID:I Galleri's booth
+The objective of Platforms Project Athens is to map artistic action as it is produced in the context of collective initiatives by artists who decide to join forces in seeking answers to artistic questions by creating the so-called platforms.
+
+Find us at **ID:I Galleri's** booth
 
 <https://platformsproject.com/>
 
@@ -138,11 +140,15 @@ Photo credit: Henrik Zeitler
 
 **January 2019** -
 
-\# Screening of _Searching for the European Roller_ at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
+\# Screening of **Searching for the European Roller** at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
 
 <https://filmwinter.de/sites/default/files/2018-12/FW32_Festival-Programme_2019.pdf>
 
-\# Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+![](/images/hillside_projects_news_stuttgarter.jpg)
+
+
+
+platforms project# Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
 
 **December 2018 -**
 
