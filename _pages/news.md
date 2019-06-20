@@ -108,13 +108,17 @@ Kulturnatten 27 april, öppet 18-24
 
 
 
+
+
+
+
+
+
 \# April 18, **Kulturnatten Stockholm 2019**. Welcome to a night of performances and audiovisual experiences presented by Hillside Projects at ID:I Galleri. 8-12 pm.
 
 <https://kulturnattstockholm.se/>
 
 ![](/images/hillside_projects_news_kulturnatten.jpg)
-
-****
 
 ****
 
@@ -138,6 +142,10 @@ Photo credit: Henrik Zeitler
 
 
 
+
+
+
+
 **January 2019** -
 
 \# Screening of **Searching for the European Roller** at **32. Stuttgarter Filmwinter - Festival for Expanded Media** 17.-20.01.2019
@@ -148,11 +156,15 @@ Photo credit: Henrik Zeitler
 
 
 
-platforms project# Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+**January 2019 -** 
+
+Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+
+
 
 **December 2018 -**
 
-\# # Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle that looks into the 20 year history, space and the artists that have exhibited at **Tensta Konsthall**. Screened at Tensta Konsthall as part of a programme celebrating 20 years as an exhibition space.
+\# **Tensta Konsthall - Dåtid. Nutid. Samtid.** A film by Jonas Böttern and Salad Hilowle. Screen at **Tensta Konsthall** as part of a programme celebrating 20 years as an exhibition space.
 
 <http://www.tenstakonsthall.se/>
 
