@@ -32,5 +32,5 @@ collections:
       - label: "Gallery images"
         name: "slider"
         widget: "list"
-        field: {label: Image, name: image, widget: image}
+        field: "image: {label: Image, name: image, widget: image}"
       - {label: "Body", name: "body", widget: "markdown"}
