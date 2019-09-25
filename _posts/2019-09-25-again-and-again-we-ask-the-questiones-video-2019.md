@@ -22,41 +22,20 @@ View below link for an excerpt:
 
 <https://www.filmform.com/works/4805-again-and-again-we-ask-these-questions/>
 
+
+
 > Again And Again We Ask These Questions, 2019
->
-> \
->
 >
 > Length: 07:28 minutes
 >
-> \
->
->
 > Directed by: Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern)
->
-> \
->
 >
 > Cinematography: Giorgos Chloros
 >
-> \
->
->
 > Edit: Jonas Holmer & Jonas Böttern
 >
-> \
->
->
 > Music & sound design: Jonas Holmer
-
-
-
 >
->
->
-
-
-
 >
 >
 >
