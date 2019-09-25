@@ -6,6 +6,12 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**September 2019 -** 
+
+\# **Searching for the European Roller,** 2017 is selected to be screened at **The Bideodromo International Experimental Film and Video Festival 2019** in Bilbao, Spain. September 16-24. Distributed by Vidéographe Montréal and FilmForm.
+
+![](/images/bideodromo19cartel.jpg)
+
 **June 2019 -** 
 
 \# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen Stockholm
