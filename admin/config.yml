@@ -32,5 +32,7 @@ collections:
       - label: "Gallery images"
         name: "slider"
         widget: "list"
-        field: "image: {label: Image, name: image, widget: image}"
+        fields:
+          - {label: "Image", name: "image", widget: "hidden", default: "image:"}
+          - {label: Image, name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
