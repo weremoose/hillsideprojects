@@ -6,9 +6,9 @@ details: 'HD-video, 16:9, 07:28 minutes, English, colour'
 featured: false
 image: /images/again_video_01.jpg
 slider:
-  - /images/again_video_01.jpg
-  - /images/again_video_02.jpg
-  - /images/again_video_04.jpg
+  - image: /images/again_video_01.jpg
+  - image: /images/again_video_02.jpg
+  - image: /images/again_video_04.jpg
 ---
 A performative action and video that takes into consideration and reaches out to all species, cultures and lifeways driven towards extinction or already extinct. It commemorates and reaches out to past and potential endlings*.
 
