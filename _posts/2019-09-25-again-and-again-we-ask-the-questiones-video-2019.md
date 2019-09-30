@@ -16,6 +16,6 @@ Through a performative reading and emotional soundscape this video takes into co
 
 \*An endling is the last individual of a species before extinction.
 
-> Photo credit: Hendrik Zeitler<iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Again And Again We Ask These Questions, 2019 is distributed by FilmForm -The Art Film & Video Archive
