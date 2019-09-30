@@ -10,9 +10,9 @@ slider:
   - image: /images/again_video_02.jpg
   - image: /images/again_video_04.jpg
 ---
-Video installation presented as part of solo exhibition Why Did You Leave? at Galleri 54, Gothenburg.
+Video installation presented as part of the solo exhibition Why Did You Leave? at Galleri 54, Gothenburg.
 
-Through a performative reading and emotional soundscape this video takes into consideration all species, cultures and lifeways driven towards extinction or already extinct. It commemorates and reaches out to past and potential endlings*.
+Through a performative reading and emotional soundscape, this video takes into consideration all species, cultures and lifeways driven towards extinction or already extinct. It commemorates and reaches out to all past and potential endlings*.
 
 \*An endling is the last individual of a species before extinction.
 
