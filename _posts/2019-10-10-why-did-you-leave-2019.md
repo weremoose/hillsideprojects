@@ -13,6 +13,7 @@ slider:
   - image: /images/why_did_you_leave_54_03.jpg
   - image: /images/why_did_you_levae_54_04.jpg
   - image: /images/why_did-you_leave_54_05.jpg
+  - image: /images/hillside_projects_news_galleri54.jpg
 ---
 Installation presented as part of the solo exhibition _Why Did You Leave?_ at Galleri 54, Gothenburg.
 
