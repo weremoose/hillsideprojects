@@ -16,6 +16,8 @@ Through a performative reading and emotional soundscape, this video takes into c
 
 \*An endling is the last individual of a species before extinction.
 
+> Photo credit: Hendrik Zeitler
+
 <iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Again And Again We Ask These Questions, 2019 is distributed by FilmForm -The Art Film & Video Archive
+Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Cinematography: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
