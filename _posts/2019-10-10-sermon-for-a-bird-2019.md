@@ -14,3 +14,5 @@ slider:
   - image: /images/sermon_for_a_bird_05.jpg
 ---
 A sermon/performance in dedication of lost birds. Performed as part of Biologiska Museets Vänner's event #8 Fåglar ("Birds") at Eric Ericssonshallen  on Skeppsholmen, Stockholm.
+
+> Photo credit: Weronika Bela
