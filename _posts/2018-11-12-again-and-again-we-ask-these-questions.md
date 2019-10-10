@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Again and again we ask these questions, 2018
-details: Artist book in an edition of 3. 345 x 288 mm. Newsprint 55 gr and flock cover with embossing. Bound by Leonard Gustafssons Bokbinderi, Stockholm.
-featured: false
 author: hillsideprojects
-image: '/images/again-and-again-we-ask-these-questions_02.jpg'
+title: 'Again and again we ask these questions (artist book), 2018'
+details: >-
+  Artist book in an edition of 3. 345 x 288 mm. Newsprint 55 gr and flock cover
+  with embossing. Bound by Leonard Gustafssons Bokbinderi, Stockholm.
+featured: false
+image: /images/again-and-again-we-ask-these-questions_02.jpg
 slider:
   - image: images/again-and-again-we-ask-these-questions_01.jpg
   - image: images/again-and-again-we-ask-these-questions_02.jpg
