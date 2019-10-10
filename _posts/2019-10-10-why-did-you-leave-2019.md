@@ -15,3 +15,5 @@ slider:
   - image: /images/why_did-you_leave_54_05.jpg
 ---
 Installation presented as part of the solo exhibition _Why Did You Leave?_ at Galleri 54, Gothenburg.
+
+> Photo credit: Hendrik Zeitler
