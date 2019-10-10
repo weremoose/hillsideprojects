@@ -10,7 +10,7 @@ slider:
   - image: /images/again_video_02.jpg
   - image: /images/again_video_04.jpg
 ---
-Video installation presented as part of the solo exhibition Why Did You Leave? at Galleri 54, Gothenburg.
+Video installation presented as part of the solo exhibition _Why Did You Leave?_ at Galleri 54, Gothenburg.
 
 Through a performative reading and emotional soundscape, this video takes into consideration all species, cultures and lifeways driven towards extinction or already extinct. It commemorates and reaches out to all past and potential endlings*.
 
@@ -20,4 +20,4 @@ Through a performative reading and emotional soundscape, this video takes into c
 
 <iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Cinematography: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
+> Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Cinematography: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
