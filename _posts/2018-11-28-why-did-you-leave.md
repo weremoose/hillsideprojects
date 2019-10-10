@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hillsideprojects
-title: 'Why did you leave?, 2018'
+title: 'Why did you leave? (artist book), 2018'
 details: >-
   Artist book in an edition of 100. 280 x 420 mm. Munken Pure paper 100 gr.
   Printed by Billes Tryckeri. Published by Hillside Press.
