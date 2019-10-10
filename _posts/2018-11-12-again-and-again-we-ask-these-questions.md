@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hillsideprojects
-title: 'Again and again we ask these questions (artist book), 2018'
+title: 'Again And Again We Ask These Questions (artist book), 2018'
 details: >-
   Artist book in an edition of 3. 345 x 288 mm. Newsprint 55 gr and flock cover
   with embossing. Bound by Leonard Gustafssons Bokbinderi, Stockholm.
@@ -18,10 +18,9 @@ slider:
   - image: images/again-and-again-we-ask-these-questions_08.jpg
   - image: images/again-and-again-we-ask-these-questions_09.jpg
 ---
-
 This publication consists of a collection of questions used and asked repeatedly throughout the development of and within several lecture performances held by Hillside Projects.
 
-_Again and again we ask these questions_ takes into consideration all extinct and critically endangered species, cultures, lifeways and habitats that are driven and have been driven toward extinction. It commemorates and reaches out to all past, current and potential Endlings.
+_Again And Again We Ask These Questions_ takes into consideration all extinct and critically endangered species, cultures, lifeways and habitats that are driven and have been driven toward extinction. It commemorates and reaches out to all past, current and potential Endlings.
 
 Please acknowledge <a href="https://www.lostspeciesday.org/?page_id=25" target="blank">REMEMBERANCE DAY FOR LOST SPECIES</a> 30<sup>th</sup> NOVEMBER.
 
