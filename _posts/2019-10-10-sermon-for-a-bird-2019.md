@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hillsideprojects
-title: 'Sermon for a Bird, 2019'
+title: 'Sermon (for a Bird), 2019'
 details: 'Performance, 30 min.'
 featured: false
 image: /images/sermon_for_a_bird_02.jpg
