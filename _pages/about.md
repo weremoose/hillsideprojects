@@ -12,9 +12,7 @@ Who decides who or what belongs where?
 
 Who should be saved? or should we be saved?
 
-Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) and [Vidéograph](https://www.videographe.org/en/)e and is a member of [ID:I Galleri ](http://idigalleri.org/)in Stockholm
-
-
+Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) and [Vidéograph](https://www.videographe.org/en/)e and is a member of [ID:I Galleri ](http://idigalleri.org/)in Stockholm. Böttern is a board member of[ NKF](http://www.nkfsweden.org/information/about-nordic-art-association) (Nordic Art Association).
 
 **Emily Berry Mennerdahl**, born 1980, holds an MFA in Studio Arts from Concordia University, Montréal (2009) and a BA (Hons) Photography from Manchester Metropolitan University, U.K (2004). Since returning to Sweden she has taken part in the Independent Study Programme at Valand Art Academy, Gothenburg (2009) and The Photographic Artist Book Postgraduate Course at The Royal Institute of Art Stockholm (2018). Prior to Hillside Projects she collaborated with Canadian artist Veronique Malo in The Independant Study Group and has taken part in residencies, screenings and exhibitions in amongst other places The Banff Centre, Articule Montréal, Excentris Montréal, Botkyrka Konsthall, Urbis Centre. Berry Mennerdahl was previously a research assistant at Hexagram -Media Arts at Concordia University and associate lecturer in Photgraphy at Manchester School of Art, MMU, England. Currently, besides being an artist she also works as a translator.
 
@@ -22,7 +20,7 @@ Hillside Projects are distributed by [FilmForm](https://www.filmform.com/artists
 
 - - -
 
-**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Bötternw as awarded the honorouble Principle Scholarship. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artist practice and continues to do so. Presently (2019) Böttern is taking part in the postgraduate course Art in the Open at Konstfack and is a board member of [**NKF**](http://nkfsweden.org/) (The Nordic Art Association)
+**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Bötternw as awarded the honorouble Principle Scholarship. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artist practice and continues to do so. Presently (2019) Böttern is taking part in the postgraduate course Art in the Open at Konstfack and is a board member of **[NKF](http://nkfsweden.org/)** (The Nordic Art Association)
 
 ![](/images/Jonas_Bottern.jpg)
 
