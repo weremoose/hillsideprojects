@@ -18,11 +18,15 @@ Thank you to **IASPIS** at **Konstnärsnämden (Swedish Arts Grants Committee)**
 
 
 
+**\--------------------------------------------------------------------------------------------**
+
 
 
 **October 2019 -** 
 
-\# Thank you to **Konstnärsnämden** (The Swedish Arts Grants Committee) for awarding the **one-year workings grants**  to both Berry Mennerdahl and Böttern (Hillside Projects).
+**\#** Thank you to **Konstnärsnämden** (The Swedish Arts Grants Committee) for awarding the **one-year working grants**  to both Berry Mennerdahl and Böttern (Hillside Projects).
+
+
 
 **September 2019 -** 
 
