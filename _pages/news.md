@@ -6,6 +6,18 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**February 2020 -**
+
+Street performance ***Memorial For The Lost*** performed in Borivali East Mumbai in collaboration with Clark House Initiative. Forever grateful for collaborating participants Yogesh Barve, Saviya Lopez, Labdhi Doshi, Amol Patil, Mihir Wairkar.
+
+Photo credit: Tushar Parab
+
+This project was made possible for the generous travel grant from **IASPIS** (Swedish Arts Grants Committee) as part of an artist residency at **Clark House Initiative**. 
+
+![](/images/delhi_02.png)
+
+
+
 **January 2020 -** 
 
 **\# Lecture performance and artist talk** at **Amedkar University Delhi, India.** Performed and held by Böttern for the Master students in the Fine Arts Department.
