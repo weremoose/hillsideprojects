@@ -8,7 +8,7 @@ exclude: false
 
 **February 2020 -**
 
-Street performance ***Memorial For The Lost*** performed in Borivali East Mumbai in collaboration with Clark House Initiative. Forever grateful for collaborating participants Yogesh Barve, Saviya Lopez, Labdhi Doshi, Amol Patil, Mihir Wairkar.
+\# Street performance ***Memorial For The Lost*** performed in Borivali East Mumbai in collaboration with Clark House Initiative. Forever grateful for collaborating participants Yogesh Barve, Saviya Lopez, Labdhi Doshi, Amol Patil, Mihir Wairkar.
 
 Photo credit: Tushar Parab
 
