@@ -13,14 +13,10 @@ Education (Berry Mennerdahl)
 * 2005-2008	MFA Studio Arts, Concordia University, Montréal, Canada.
 * 2001-2004	BA (Hons) Photography. 1st class honors. Manchester School of Art, Manchester, UK
 
-
-
 Education (Böttern)
 
 * 2019-2020     Public Art, Social Dimensions, ecologies and changes, Konstfack University             College of Art, Crafts and Design. 30 hp.
 * 2013-2016	MFA Fine Arts, Konstfack University College of Arts, Crafts and Design
-
-
 
 Solo Exhibitions (Hillside Projects)
 
@@ -31,8 +27,6 @@ Solo Exhibitions (Hillside Projects)
 * 2015		Searching for the European Roller, Konstfack, Stockholm.  
 * 2013   	Conditions of Sea. Public video-installation at Domkyrkoforum, Lund, Sweden.
 * 2012	  A Categorisation of a Mountain Landscape, Gallery TCG Nordica, Kunming, China.
-
-
 
 Selection of Group Exhibitions (Hillside Projects)
 
@@ -57,8 +51,6 @@ Selection of Group Exhibitions (Hillside Projects)
 * 2014		Everthing Must Go, Platform, Stockholm
 * 2013		Land/Sea/Sky, Chapel Gallery, Ormskirk, Liverpool, U.K.
 
-
-
 Screenings and presentations
 
 * 2019 Bideodromo International experimental film and video festival, Bilbao
@@ -70,8 +62,6 @@ Screenings and presentations
 * 2017	Rutiga Golvet E2-E4, curated by Kim West, What Now? The secret Lives of Artist Books
 * 2017	Lecture performance, Dazibao
 
-
-
 Residencies (Hillside Projects)
 
 * 2020 Clark House Initiative, Mumbai
@@ -81,13 +71,11 @@ Residencies (Hillside Projects)
 * 2009		TCG Nordica AIR, Kunming, China (Böttern)
 * 2009		Banff Centre for the Arts, Canada (Mennerdahl)
 
-
-
 Grants
 
-* 2019 IASPIS One-year working grant (Berry Mennerdahl)
-* 2019 IASPIS One-year working grant (Böttern)
-* 2019 IASPIS International Cultural Exchange (Böttern)
+* 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
+* 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern)
+* 2019 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange (Böttern)
 * 2019 Helge Ax:sson Johnsons Stiftelse (Berry Mennerdahl)
 * 2019 Längmanska Kulturstiftelsen (Böttern)
 * 2018 Helge Ax:sson Johnsons Stiftelse 
@@ -100,23 +88,17 @@ Grants
 * 2009		Helge Ax:sson Johnssons Stiftelse. Travel and production grant. (Böttern)
 * 2009		IASPIS travel grant (Mennerdahl)
 
-
-
 Publications
 
 * 2013		Interview-Katya Tylevich for Elephant Magazine, issue 15, summer
 * 2014		Plaza: Det stora konstnummret, nr 02 februari 2014
 * 2012	Interview-Orion Martin for The Terms Put Forward, Notes on Contemporary Art Art in China.
 
-
-
 Professional Experience (Mennerdahl)
 
 * 2010-2013	Visiting Associate Lecturer, Manchester School of Art
 * 2009		Teaching Assistant for Bryndis Snaebjornsdottir, Valand Academy
 * 2007-2009	Teaching Assistant at Concordia University, Montréal, Canada.
-
-
 
 Professional Experience (Böttern)
 
