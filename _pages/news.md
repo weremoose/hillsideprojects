@@ -12,11 +12,9 @@ exclude: false
 
 Photo credit: Tushar Parab
 
-This project was made possible with the generous travel grant from **IASPIS** (Swedish Arts Grants Committee) as part of an artist residency at **Clark House Initiative**. 
+This project was made possible with the generous travel grant from **IASPIS** (Swedish Arts Grants Committee) and **Helge Ax:son Johnsons Stiftelse** as part of an artist residency at **Clark House Initiative**. 
 
 ![](/images/delhi_02.png)
-
-
 
 **January 2020 -** 
 
@@ -24,27 +22,19 @@ This project was made possible with the generous travel grant from **IASPIS** (S
 
 ![](/images/delhi.jpg)
 
-
-
 **January 2020 -** 
 
 \# **Artist Residency** at **Clark House Initiative** Mumbai. Böttern is taking part in an artist residency in Mumbai where he will be working on a project surrounding the destiny of vultures. He will be working within the archives at the **BNHS (Bombay Natural History Society)** together with Clark House Initiative. 
 
-Thank you to **IASPIS** at **Konstnärsnämden (Swedish Arts Grants Committee)** for their generous support through the International exchange and travel grant.
+Thank you to **IASPIS** at **Konstnärsnämden (Swedish Arts Grants Committee)** for their generous support through the International exchange and travel grant and **Helge Ax:son Johnsons Stiftelse**.
 
 ![](/images/iaspis.jpg)
 
-
-
 **\--------------------------------------------------------------------------------------------**
-
-
 
 **October 2019 -** 
 
 **\#** Thank you to **Konstnärsnämden** (The Swedish Arts Grants Committee) for awarding the **one-year working grants**  to both Berry Mennerdahl and Böttern (Hillside Projects).
-
-
 
 **September 2019 -** 
 
