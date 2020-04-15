@@ -1,10 +1,28 @@
 ---
 layout: page
 title: News
-details: 'Happenings, presentations, publications and exhibitions.'
+details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
 \--------------------------------------------------------------------------------
+
+
+
+**January 2020 -** 
+
+\# **Artist Residency** at **Clark House Initiative** Mumbai. Böttern is taking part in an artist residency in Mumbai where he will be working on a project surrounding the destiny of vultures. He will be working within the archives at the **BNHS (Bombay Natural History Society)** together with Clark House Initiative. 
+
+Thank you to **IASPIS** at **Konstnärsnämden (Swedish Arts Grants Committee)** for their generous support through the International exchange and travel grant.
+
+![](/images/iaspis.jpg)
+
+
+
+
+
+**October 2019 -** 
+
+\# Thank you to **Konstnärsnämden** (The Swedish Arts Grants Committee) for awarding the **one-year workings grants**  to both Berry Mennerdahl and Böttern (Hillside Projects).
 
 **September 2019 -** 
 
@@ -16,7 +34,7 @@ exclude: false
 
 \# **Biologiska Museets Vänner # Fåglar** på Eric Ericssonhallen Stockholm
 
-Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance _Searching for the European Roller_. Welcome!
+Happy to be part of an exciting programme on Birds curated by Biologiska Museets Vänner. Presenting a new intrepretation/version of the performance *Searching for the European Roller*. Welcome!
 
 <http://www.biologiskamuseetsvanner.se/>
 
@@ -144,7 +162,7 @@ View an excerpt: <https://www.filmform.com/works/4785-searching-for-the-european
 
 **January 2019 -** 
 
-Screening of _Tensta Konsthall - Dåtid. Nutid. Samtid,_ a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
+Screening of *Tensta Konsthall - Dåtid. Nutid. Samtid,* a film by Jonas Böttern and Salad Hilowle at **Biografen Zita** Folkets Bio Stockholm
 
 <http://www.tenstakonsthall.se/>
 
@@ -196,20 +214,19 @@ June 2018, Hillside Projects are now distributed by <a href="https://www.filmfor
 
 <hr>
 
-Two new artist books _Again and again we ask these questions_ and _WHY DID YOU LEAVE?_ exhibited in the library of <a href="https://konstakademien.se/" target="blank">The Royal Academy of Fine Arts Stockholm</a>. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
+Two new artist books *Again and again we ask these questions* and *WHY DID YOU LEAVE?* exhibited in the library of <a href="https://konstakademien.se/" target="blank">The Royal Academy of Fine Arts Stockholm</a>. Part of an exhibition of artist books created within the one year course PAB - Photographic Artists’s Books -  Dissemination in a Digital Landscape at Royal Institute of Art Stockholm. Welcome to the opening 24 May 2018 5-8 pm.
 
 ![Artist book - Hillside Projects](/images/hillside_projects_news_artist_book_alt.jpg)
 
 <hr>
 
-<a href="https://platformsproject.com/" target="blank">PLATFORMS PROJECT</a> – <a href="http://www.greeknewsagenda.gr/index.php/topics/culture-society/6714-platforms-project-2018" target="blank">INDEPENDENT ART FAIR ATHENS</a>, Hillside Projects present _Searching for The European Roller_ with ID:I Galleri Stockholm together with Alexander Moon, Helen Phersson, Mona Petersson, Johanna Schartau, Gabriella Carlsson, Marjolaine Lombard, Johan Wiking.
-17-20 May 2018
+<a href="https://platformsproject.com/" target="blank">PLATFORMS PROJECT</a> – <a href="http://www.greeknewsagenda.gr/index.php/topics/culture-society/6714-platforms-project-2018" target="blank">INDEPENDENT ART FAIR ATHENS</a>, Hillside Projects present *Searching for The European Roller* with ID:I Galleri Stockholm together with Alexander Moon, Helen Phersson, Mona Petersson, Johanna Schartau, Gabriella Carlsson, Marjolaine Lombard, Johan Wiking. 17-20 May 2018
 
 ![Platforms Project - Hillside Projects](/images/hillside_projects_news_platforms_project.jpg)
 
 <hr>
 
-We are happy to announce that _Searching for the European Roller_ <a href="https://vimeopro.com/videographe/nouvelles-acquisitions-1" target="blank">is now distributed by Vidéographe</a>. Established in 1971 in Montréal, Vidéographe is an artist-run centre dedicated to the research and dissemination of moving image practices including experimentation in video art, animation, digital arts, documentary, essay, fiction and dance video. Check out <a href="https://www.videographe.org/" target="blank">Vidéographes web-site for their archive of exciting video works!
+We are happy to announce that *Searching for the European Roller* <a href="https://vimeopro.com/videographe/nouvelles-acquisitions-1" target="blank">is now distributed by Vidéographe</a>. Established in 1971 in Montréal, Vidéographe is an artist-run centre dedicated to the research and dissemination of moving image practices including experimentation in video art, animation, digital arts, documentary, essay, fiction and dance video. Check out <a href="https://www.videographe.org/" target="blank">Vidéographes web-site for their archive of exciting video works!
 
 ![Vidéographe logo - Hillside Projects](/images/hillside_projects_news_videographe_logo.jpg)
 
@@ -227,19 +244,15 @@ The exhibition Searching for the European Roller at Dazibao, Montéal is reviewe
 
 <hr>
 
-Hillside Projects are presenting the <a href="http://en.dazibao.art/exhibition-hillside-projects/" target="blank">installation and video Searching for the European Roller at Dazibao</a> - Èditions, Images, Expositions in Montréal alongside artists Lisl Ponger and Hubert Caron-Guay.
-Opening 19th of October 7 pm. Performance lecture by Hillside Projects at 6.30 pm. Exhibitions runs until the 16th of December 2017.<br/>
-[Dazibao presskit .pdf](images/posts/roller_2017/Press-kit_HCG-HP-LP.pdf)
+Hillside Projects are presenting the <a href="http://en.dazibao.art/exhibition-hillside-projects/" target="blank">installation and video Searching for the European Roller at Dazibao</a> - Èditions, Images, Expositions in Montréal alongside artists Lisl Ponger and Hubert Caron-Guay. Opening 19th of October 7 pm. Performance lecture by Hillside Projects at 6.30 pm. Exhibitions runs until the 16th of December 2017.<br/> [Dazibao presskit .pdf](images/posts/roller_2017/Press-kit_HCG-HP-LP.pdf)
 
 <hr>
 
-Exhibition <a href="http://idigalleri.org/2017/10/05/hillside-projects-emily-mennerdahl-jonas-bottern/" target="blank">Looking for a Bird by Hillside Projects at ID:I Galleri</a> Stockholm 5 – 12 October 2017. Welcome to a performance lecture and opening at 6 pm 5 October.
-http://www.elia-artschools.org/Activities/neu-now
+Exhibition <a href="http://idigalleri.org/2017/10/05/hillside-projects-emily-mennerdahl-jonas-bottern/" target="blank">Looking for a Bird by Hillside Projects at ID:I Galleri</a> Stockholm 5 – 12 October 2017. Welcome to a performance lecture and opening at 6 pm 5 October. http://www.elia-artschools.org/Activities/neu-now
 
 <hr>
 
-Searching for the European Roller, exhibition and performance lecture at <a href="http://www.elia-artschools.org/Activities/neu-now" target="blank">Neu Now Festival, Westergasfabriek</a>, Amsterdam 14-18 September 2016
-http://artdaily.com/news/90059/NEU-NOW-returns-with-the-newest-talents-from-Europe-and-beyond-#.WmH0HZM-dPM
+Searching for the European Roller, exhibition and performance lecture at <a href="http://www.elia-artschools.org/Activities/neu-now" target="blank">Neu Now Festival, Westergasfabriek</a>, Amsterdam 14-18 September 2016 http://artdaily.com/news/90059/NEU-NOW-returns-with-the-newest-talents-from-Europe-and-beyond-#.WmH0HZM-dPM
 
 <hr>
 
