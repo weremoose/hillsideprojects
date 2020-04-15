@@ -12,7 +12,7 @@ Street performance ***Memorial For The Lost*** performed in Borivali East Mumbai
 
 Photo credit: Tushar Parab
 
-This project was made possible for the generous travel grant from **IASPIS** (Swedish Arts Grants Committee) as part of an artist residency at **Clark House Initiative**. 
+This project was made possible with the generous travel grant from **IASPIS** (Swedish Arts Grants Committee) as part of an artist residency at **Clark House Initiative**. 
 
 ![](/images/delhi_02.png)
 
