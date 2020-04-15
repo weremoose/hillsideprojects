@@ -6,6 +6,12 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**January 2020 -** 
+
+**\# Lecture performance and artist talk** at **Amedkar University Delhi, India.** Performed and held by Böttern for the Master students in the Fine Arts Department.
+
+![](/images/delhi.jpg)
+
 
 
 **January 2020 -** 
