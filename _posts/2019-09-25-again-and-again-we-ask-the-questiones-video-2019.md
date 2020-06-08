@@ -14,6 +14,6 @@ slider:
 
 Here the video is presented as an installation part of the solo-exhibition *Why Did You Leave?* at Galleri 54, Gothenburg, 2019. Photo credit: Hendrik Zeitler
 
-> <iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
->
-> Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Camear: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
+Direction & script: Emily Berry Mennerdahl & Jonas Böttern                                                     Camera: Giorgos Chloros                                                                                                                      Sound: Jonas Holmer                                                                                                                Edit: Jonas Holmer & Jonas Böttern                                                                                         Distributed by: FilmForm. The Art Film & Video Archive
+
+<iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
