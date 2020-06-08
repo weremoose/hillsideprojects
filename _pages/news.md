@@ -8,13 +8,21 @@ exclude: false
 
 **May 2020 -** 
 
+\# We are very excited to have the opportunity to invite and present the works of Clark House Initiative members Saviya Lopes, Yogesh Barve & Niccolò Moscatelli in the exhibition TASTELESS, ODOURLESS, NONETHELESS at ID:I Galleri Stockholm 22 May 2020 - 31 May 2020.
+
+*"The gallery doors stay closed. No entry. Quarantine. The space remains empty, alone, visible only through the thick glass of the window – sanitized, virtualized. Through its sheer visibility, the gallery becomes a liminal space and, walking this fine line, the artworks challenge the division between private and public space, between political and intimate."*
+
+![](/images/hillside_projects_news_idid.jpg)
+
+
+
+**May 2020 -** 
+
 \# Happy to present the installation *Your Deepest Desires Remain Unknown* in the group exhibition WORKS ON PAPER at CASINOT XXH in Malmö.
 
 <https://www.instagram.com/casinot.xxh/>
 
 ![](/images/hillside_projects_news_worksonpaper.jpg)
-
-
 
 **February 2020 -**
 
