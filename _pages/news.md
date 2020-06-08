@@ -6,6 +6,14 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**May 2020 -** 
+
+\# Happy to present the installation *Your Deepest Desires Remain Unknown* in the group exhibition WORKS ON PAPER at CASINOT XXH in Malmö.
+
+![](/images/hillside_projects_news_worksonpaper.jpg)
+
+
+
 **February 2020 -**
 
 \# Street performance ***Memorial For The Lost*** performed in Borivali East Mumbai in collaboration with Clark House Initiative. Forever grateful for collaborating participants Yogesh Barve, Saviya Lopez, Labdhi Doshi, Amol Patil, Mihir Wairkar.
