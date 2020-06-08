@@ -10,7 +10,7 @@ slider:
   - image: /images/again_video_02.jpg
   - image: /images/again_video_04.jpg
 ---
-*Again And Again We Ask These Questions* is a video that takes into consideration all species, cultures and lifeways that are no longer in existence or are being driven towards extinction. It commemorates and reaches out to those already gone and to those threatened. The performer reads, from cover to cover, a collection of repeated questions of an existential nature, printed in black ink on newsprint paper. Each time the pages of the book are opened and exposed to air and light, the newsprint pages fade and yellow. 
+*Again And Again We Ask These Questions* is a video that takes into consideration all species, cultures and lifeways that are no longer in existence or are being driven towards extinction. It commemorates and reaches out to those already gone and to those threatened. The performer reads, from cover to cover, a collection of repeated questions of an existential nature, printed in black ink on newsprint paper. Each time the book is opened and its pages exposed to air and light, the newsprint paper fades and yellows. 
 
 Here, the video is presented as an installation part of the solo-exhibition *Why Did You Leave?* at Galleri 54, Gothenburg, 2019. Photo credit: Hendrik Zeitler
 
