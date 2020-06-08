@@ -1,8 +1,8 @@
 ---
 layout: post
 author: hillsideprojects
-title: 'Again And Again We Ask The Questions (video), 2019'
-details: 'HD-video, 16:9, 07:28 minutes, English, colour'
+title: Again And Again We Ask The Questions (video), 2019
+details: HD-video, 16:9, 07:28 minutes, English, colour
 featured: false
 image: /images/again_video_01.jpg
 slider:
@@ -10,14 +10,12 @@ slider:
   - image: /images/again_video_02.jpg
   - image: /images/again_video_04.jpg
 ---
-Video installation presented as part of the solo exhibition _Why Did You Leave?_ at Galleri 54, Gothenburg.
+*Again And Again We Ask These Questions*, 2019 is a video that takes into consideration all species, cultures and lifeways that are no longer in existence or are being driven towards extinction. It commemorates and reaches out to all those already gone and those threatened. Printed on newsprint in a book, are a set of repeatedly asked questions of an existential nature. The performer reads from cover to cover, becoming part of a performative reading on extinction. Each time the pages are open and exposed to air and light, the newsprint pages fade and yellow. 
 
-Through a performative reading and emotional soundscape, this video takes into consideration all species, cultures and lifeways driven towards extinction or already extinct. It commemorates and reaches out to all past and potential endlings*.
-
-\*An endling is the last individual of a species before extinction.
+Here the video is presented as an installation part of the solo-exhibition *Why Did You Leave?* at Galleri 54, Gothenburg, 2019.
 
 > Photo credit: Hendrik Zeitler
 
 <iframe src="https://player.vimeo.com/video/321481779" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-> Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Cinematography: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
+> Again And Again We Ask These Questions, 2019. Script/direction: Emily Berry Mennerdahl & Jonas Böttern. Camear: Giorgos Chloros. Edit: Jonas Böttern & Jonas Holmer. Sound: Jonas Holmer. Distributed by FilmForm -The Art Film & Video Archive
