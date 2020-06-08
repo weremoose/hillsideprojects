@@ -12,6 +12,8 @@ exclude: false
 
 *"The gallery doors stay closed. No entry. Quarantine. The space remains empty, alone, visible only through the thick glass of the window – sanitized, virtualized. Through its sheer visibility, the gallery becomes a liminal space and, walking this fine line, the artworks challenge the division between private and public space, between political and intimate."*
 
+<https://idigalleri.org/>
+
 ![](/images/hillside_projects_news_idid.jpg)
 
 
