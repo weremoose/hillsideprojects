@@ -3,7 +3,7 @@ layout: post
 author: hillsideprojects
 title: Sermon (for a Bird), 2019
 details: Performance including newsprint, sound, fabric flags, projection and
-  sound. 35 minutes
+  music. 35 minutes
 featured: false
 image: /images/sermon_for_a_bird_02.jpg
 slider:
