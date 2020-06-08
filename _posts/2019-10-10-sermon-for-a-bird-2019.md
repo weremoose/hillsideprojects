@@ -1,8 +1,9 @@
 ---
 layout: post
 author: hillsideprojects
-title: 'Sermon (for a Bird), 2019'
-details: 'Performance, 30 min.'
+title: Sermon (for a Bird), 2019
+details: Performance including newsprint, sound, fabric flags, projection and
+  sound. 35 minutes
 featured: false
 image: /images/sermon_for_a_bird_02.jpg
 slider:
@@ -13,6 +14,10 @@ slider:
   - image: /images/sermon_for_a_bird_06.jpg
   - image: /images/sermon_for_a_bird_05.jpg
 ---
-A sermon/performance in dedication of lost birds. Performed as part of Biologiska Museets Vänner's event #8 Fåglar ("Birds") at Eric Ericssonshallen  on Skeppsholmen, Stockholm.
+A lecture performance experimenting with the format of a sermon and set within the walls of a deconsecrated church. The performance addresses the history of and the desire for the re-introduction of a red-listed bird back to its previous habitat in the south of Sweden. Tracing the birds movement as well as the choreography and relationship between the performers and their audience questions of an existential nature are asked.
 
-> Photo credit: Weronika Bela
+Who belongs where? Do we need you back? Will you be coming back?
+
+Performed as part of Biologiska Museets Vänners event # Fåglar at Eric Ericssonshallen, Stockholm. Eric Ericssonshallen was previously known as Skeppsholmskyrkan and was consecrated in 1842. In 2001 it was deconsecrated.
+
+Photo credit: Weronika Bela
