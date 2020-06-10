@@ -17,6 +17,6 @@ slider:
   - image: images/again-and-again-we-ask-these-questions_08.jpg
   - image: images/again-and-again-we-ask-these-questions_09.jpg
 ---
-An artist’s book that proposes a performative encounter with its reader. Printed on newsprint is a collection of existential questions in regards to extinction and loss. Eventually, the ink with text fades and the newsprint paper deteriorates. When the book is opened and read, the pages become yellow, and fade due to the exposure of lignin to air and sunlight. The book is intended to be encountered as an evolving object situated within the space of an installation.
+An artist’s book that proposes a performative encounter with its reader. Printed on newsprint is a collection of existential questions in regards to extinction and loss. Eventually, the ink with text fades and the newsprint paper deteriorates. When the book is opened and read, the pages become yellow, and the text fades due to the exposure of lignin to air and sunlight. The book is intended to be encountered as an evolving object situated within the space of an installation.
 
 Photo credit: Dan Lageryd & Hillside Projects
