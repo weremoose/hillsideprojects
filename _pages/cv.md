@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hillside Projects CV
-details: cv
+title: CV
+details: Hillside Projects
 exclude: true
 ---
 A collaboration between Emily Berry Mennerdahl and Jonas Böttern-<br/> Individual c.v upon request.<br/>
