@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-details: hillside projects
+details: Hillside Projects
 exclude: false
 ---
 Hillside Projects is an artist duo consisting of Emily Berry Mennerdahl & Jonas Böttern. Their multidisciplinary practice is manifested as installations and performances including video, text, drawing and artist publications. Prompted by current events in and around nature, they apply methods of storytelling and performative actions in a desire to talk about the stories of and between humans and non-humans, as well as notions of hope and despair, remorse and guilt. Living in the sixth mass extinction, the on-going extinction event of species, mainly as an event of human activity, Hillside Projects attempt to relay the tragedies, comedies and stories of the natural world and its inhabitants. 
