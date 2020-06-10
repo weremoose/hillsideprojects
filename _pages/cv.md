@@ -20,7 +20,8 @@ Education (Böttern)
 
 Solo Exhibitions (Hillside Projects)
 
-* 2021                Raum fur Kunst, Das Esszimmer, Bonn
+* 2021 SEA Foundation, Tilburg, Netherlands
+* 2021                Raum fur Kunst, Das Esszimmer, Bonn, Germany
 * 2020                Memorial for the Lost, Clark House Initiative, Mumbai
 * 2019		Why did you leave?, Galleri 54, Göteborg
 * 2017		Searching for the European Roller, ID:I Galleri, Stockholm.
@@ -30,8 +31,9 @@ Solo Exhibitions (Hillside Projects)
 
 Selection of Group Exhibitions (Hillside Projects)
 
-* 2020 Rosalux, Berlin
-* 2020 Platform Projects, Athens
+* 2020 Works on Paper, CASINOT XXH, Malmö
+* 2020 Rosalux, Berlin (postponed until 2021)
+* 2020 Platform Projects, Athens (postponed until 2021)
 * 2019 Biologiska Museets Vänner # Fåglar, Eric Ericssonshallen, Stockholm
 * 2019 In Mid Air, Bångska Våningen, Stockholm
 * 2019 Platforms Projects, Athens
@@ -53,6 +55,7 @@ Selection of Group Exhibitions (Hillside Projects)
 
 Screenings and presentations
 
+* 2020 Ambedkar University, Arts Department, Lecture performance
 * 2019 Bideodromo International experimental film and video festival, Bilbao
 * 2019 FilmForm News at 65th International Short Film Festival Oberhausen
 * 2019 32. Stuttgarter Filmwinter – Festival for Expanded Media
@@ -73,12 +76,13 @@ Residencies (Hillside Projects)
 
 Grants
 
+* 2020 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange grant
 * 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
 * 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern)
-* 2019 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange (Böttern)
+* 2019 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange grant (Böttern)
 * 2019 Helge Ax:sson Johnsons Stiftelse (Berry Mennerdahl)
 * 2019 Längmanska Kulturstiftelsen (Böttern)
-* 2018 Helge Ax:sson Johnsons Stiftelse 
+* 2018 Helge Ax:sson Johnsons Stiftelse (Berry Mennerdahl)
 * 2016	Main grant holder for the Principles Scholarship, Konstfack, Stiftelsen Den Nordiska Första S:t Johannislogens Jubelfond (Böttern)
 * 2015		Ulla Fröberg Cramérs Stipendiestiftelse(Böttern)
 * 2013		Ateljstöd (3 years), Stockholm Stad (Mennerdahl)
