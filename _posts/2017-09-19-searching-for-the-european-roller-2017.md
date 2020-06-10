@@ -25,10 +25,12 @@ The installation *Searching For The European Roller*, 2017 includes an installat
 
 > Photo credits: Marilou Crispin for <a href="https://dazibao.art/" target="blank">Dazibao</a> and Hillside Projects.
 
-<object data="/images/Press-kit_HCG-HP-LP.pdf" type="application/pdf" width="100%" height="100%">
-  <p><a href="/images/Press-kit_HCG-HP-LP.pdf">Download the presskit .pdf</a></p>
-</object>
+
 
 <iframe src="https://player.vimeo.com/video/242933312" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 > Video credits: Marilou Crispin for  <a href="https://dazibao.art/" target="blank">Dazibao</a>
+
+<object data="/images/Press-kit_HCG-HP-LP.pdf" type="application/pdf" width="100%" height="100%">
+  <p><a href="/images/Press-kit_HCG-HP-LP.pdf">Download the presskit .pdf</a></p>
+</object>
