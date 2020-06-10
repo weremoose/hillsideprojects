@@ -1,25 +1,27 @@
 ---
 layout: post
-title: Searching for the European Roller, 2017
-details: Video, table, drawings on found map, LED-sign, drawings on white-board and lecture performance.
-featured: false
 author: hillsideprojects
-image: '/images/searching_for_the_european_roller_2017_08.jpg'
+title: Searching for the European Roller, 2017
+details: Video, table, drawings on found map, LED-sign, drawings on white-board
+  and lecture performance.
+featured: false
+image: /images/searching_for_the_european_roller_2017_08.jpg
 slider:
-  - image: '/images/searching_for_the_european_roller_2017_01.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_02.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_03.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_04.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_05.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_06.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_07.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_08.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_09.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_10.jpg'
-  - image: '/images/searching_for_the_european_roller_2017_11.jpg'
+  - image: /images/searching_for_the_european_roller_2017_01.jpg
+  - image: /images/searching_for_the_european_roller_2017_02.jpg
+  - image: /images/searching_for_the_european_roller_2017_03.jpg
+  - image: /images/searching_for_the_european_roller_2017_04.jpg
+  - image: /images/searching_for_the_european_roller_2017_05.jpg
+  - image: /images/searching_for_the_european_roller_2017_06.jpg
+  - image: /images/searching_for_the_european_roller_2017_07.jpg
+  - image: /images/searching_for_the_european_roller_2017_08.jpg
+  - image: /images/searching_for_the_european_roller_2017_09.jpg
+  - image: /images/searching_for_the_european_roller_2017_10.jpg
+  - image: /images/searching_for_the_european_roller_2017_11.jpg
 ---
+The installation *Searching For The European Roller*, 2017 includes an installation, a video work and a lecture performance presented in a group exhibition at Dazibao, Montréal, curated by France Choinière. The exhibition includes works by Hillside Projects, Lisl Ponger & Hubert Caron-Guay.
 
-Parts of the larger research project _Searching for the European Roller_ presented in a group exhibition at <a href="http://en.dazibao.art/exhibition-hillside-projects/" target="blank">Dazibao</a> together with artists <a href="https://www.youtube.com/watch?v=5B1k4jk5IrI" target="blank">Lisl Ponger</a> and <a href="https://www.visionsdureel.ch/en/film/destierros" target="blank">Hubert Caron-Guay</a>.
+*"Searching for the European Roller*, a project in evolution since 2011, takes the form here of a performance/reading, a video and an installation made up of various artefacts tracing the history of a specific species of bird. Long ago, the European Roller lived and reproduced freely in northern Europe. Slowly, the species went into steep decline and its last known nesting in Sweden dates from 1967. Recently, however, by breaking up the landscape and designing specific environments to attract the bird, scientists are attempting to reintegrate the species in Sweden. An in-depth study of cartography and of this bird’s migratory models has led Hillside Projects to analyse this desire to reintroduce a species, and to wonder why some species are more desirable than others, or have irrevocable legitimacy in a given territory. The history of the European Roller thus became a metaphorical starting point for a broader investigation into the notions of borders, limits and migration, as well as the notions of belonging, acceptance, and partiality." - France Choninière
 
 > Photo credits: Marilou Crispin for <a href="https://dazibao.art/" target="blank">Dazibao</a> and Hillside Projects.
 
