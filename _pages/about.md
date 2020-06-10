@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Emily Berry Mennerdahl & Jonas Böttern
 details: .nan
 exclude: false
 ---
