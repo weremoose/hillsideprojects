@@ -7,17 +7,17 @@ details: Video, table, drawings on found map, LED-sign, drawings on white-board
 featured: false
 image: /images/searching_for_the_european_roller_2017_08.jpg
 slider:
-  - image: /images/searching_for_the_european_roller_2017_01.jpg
-  - image: /images/searching_for_the_european_roller_2017_02.jpg
-  - image: /images/searching_for_the_european_roller_2017_03.jpg
-  - image: /images/searching_for_the_european_roller_2017_04.jpg
-  - image: /images/searching_for_the_european_roller_2017_05.jpg
-  - image: /images/searching_for_the_european_roller_2017_06.jpg
-  - image: /images/searching_for_the_european_roller_2017_07.jpg
-  - image: /images/searching_for_the_european_roller_2017_08.jpg
-  - image: /images/searching_for_the_european_roller_2017_09.jpg
-  - image: /images/searching_for_the_european_roller_2017_10.jpg
-  - image: /images/searching_for_the_european_roller_2017_11.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_01.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_02.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_03.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_04.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_05.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_06.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_07.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_08.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_09.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_10.jpg
+  - slide_url: /images/searching_for_the_european_roller_2017_11.jpg
 ---
 The installation *Searching For The European Roller*, 2017 includes an installation, a video work and a lecture performance presented in a group exhibition at Dazibao, Montréal, curated by France Choinière. The exhibition includes works by Hillside Projects, Lisl Ponger & Hubert Caron-Guay.
 
