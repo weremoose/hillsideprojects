@@ -6,12 +6,12 @@ featured: false
 author: hillsideprojects
 image: '/images/searching_for_the_european_roller_2016_thumb.jpg'
 slider:
-  - image: '/images/searching_for_the_european_roller_2016_01.jpg'
-  - image: '/images/searching_for_the_european_roller_2016_02.jpg'
-  - image: '/images/searching_for_the_european_roller_2016_03.jpg'
-  - image: '/images/searching_for_the_european_roller_2016_04.jpg'
-  - image: '/images/searching_for_the_european_roller_2016_05.jpg'
-  - image: '/images/searching_for_the_european_roller_2016_06.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_01.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_02.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_03.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_04.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_05.jpg'
+  - slide_url: '/images/searching_for_the_european_roller_2016_06.jpg'
 ---
 
 You are unmistakable<br/>
