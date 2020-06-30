@@ -8,12 +8,12 @@ details: >-
 featured: false
 image: /images/why-did-you-leave_03.jpg
 slider:
-  - image: images/why-did-you-leave_01.jpg
-  - image: images/why-did-you-leave_02.jpg
-  - image: images/why-did-you-leave_03.jpg
-  - image: images/why-did-you-leave_04.jpg
-  - image: images/why-did-you-leave_05.jpg
-  - image: images/why-did-you-leave_06.jpg
+  - slide_url: images/why-did-you-leave_01.jpg
+  - slide_url: images/why-did-you-leave_02.jpg
+  - slide_url: images/why-did-you-leave_03.jpg
+  - slide_url: images/why-did-you-leave_04.jpg
+  - slide_url: images/why-did-you-leave_05.jpg
+  - slide_url: images/why-did-you-leave_06.jpg
 ---
 This is a publication made within the framework of _Searching for the European Roller_. Including archival material, photographs (both found and new), notes and thoughts, the publication begins its journey on Fårö in 1968 and continues through time and place toward southern latitudes in a search and understanding of a bird’s disappearance and departure.
 
