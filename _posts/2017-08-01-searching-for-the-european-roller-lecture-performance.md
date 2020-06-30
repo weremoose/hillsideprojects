@@ -8,17 +8,17 @@ details: 30-minute lecture performance including found slides, text, drawing,
 featured: false
 image: /images/european_roller_lecture_performance_05.jpg
 slider:
-  - image: /images/european_roller_lecture_performance_01.jpg
-  - image: /images/european_roller_lecture_performance_02.jpg
-  - image: /images/european_roller_lecture_performance_03.jpg
-  - image: /images/european_roller_lecture_performance_04.jpg
-  - image: /images/european_roller_lecture_performance_05.jpg
-  - image: /images/european_roller_lecture_performance_06.jpg
-  - image: /images/european_roller_lecture_performance_07.jpg
-  - image: /images/european_roller_lecture_performance_08.jpg
-  - image: /images/european_roller_lecture_performance_09.jpg
-  - image: /images/european_roller_lecture_performance_10.jpg
-  - image: /images/european_roller_lecture_performance_11.gif
+  - slide_url: /images/european_roller_lecture_performance_01.jpg
+  - slide_url: /images/european_roller_lecture_performance_02.jpg
+  - slide_url: /images/european_roller_lecture_performance_03.jpg
+  - slide_url: /images/european_roller_lecture_performance_04.jpg
+  - slide_url: /images/european_roller_lecture_performance_05.jpg
+  - slide_url: /images/european_roller_lecture_performance_06.jpg
+  - slide_url: /images/european_roller_lecture_performance_07.jpg
+  - slide_url: /images/european_roller_lecture_performance_08.jpg
+  - slide_url: /images/european_roller_lecture_performance_09.jpg
+  - slide_url: /images/european_roller_lecture_performance_10.jpg
+  - slide_url: /images/european_roller_lecture_performance_11.gif
 ---
 Included in the project *Searching for the European Roller*<sup>\[1]</sup> is a number of lecture performances and presentations. The lectures and presentations explore the characteristic of the chosen format (the lecture performance) and are situated in a place between discourse and action, reflection and production, fact and imagination, spectacle and mythmaking. Responding to site and context in which the presentation takes place, the lecture takes on a slightly new format each time presented. It applies and appropriates traditional research methods whilst also slowly unraveling additional layers. In such it hopes to offer an alternative reading on the subject matter.
 
