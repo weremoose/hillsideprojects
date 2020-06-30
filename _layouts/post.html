@@ -40,8 +40,14 @@ layout: default
           </div>
         </div>
 
+        <hr>
+
+        {% if page.author %}
+          {% include author.html %}
+        {% endif %}
+
       </article>
     </div>
 
-  </div> <!-- row -->
+  </div> <!-- row-->
 </div> <!-- wrapper -->
