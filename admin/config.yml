@@ -33,6 +33,6 @@ collections:
         name: "slider"
         widget: "list"
         fields:
-          - {label: "Image", name: "image", widget: "hidden", default: "image:"}
+          - {label: "Image", name: "slide_url", widget: "hidden", default: "slide_url:"}
           - {label: Image, name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
