@@ -29,10 +29,10 @@ collections:
 #      - {label: "Tagline", name: "details", widget: "string"}
 #      - {label: "Place on top as featured project", name: "featured", widget: "boolean", default: false}
 #      - {label: "Image to use in homepage", name: "image", widget: "image"}
-      - label: "Gallery images"
-        name: "slider"
-        widget: "list"
-        fields:
-          - {label: "Image", name: "image", widget: "hidden", default: "image:"}
-          - {label: Image, name: image, widget: image}
+#      - label: "Gallery images"
+#        name: "slider"
+#        widget: "list"
+#        fields:
+#          - {label: "Image", name: "image", widget: "hidden", default: "image:"}
+#          - {label: Image, name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
