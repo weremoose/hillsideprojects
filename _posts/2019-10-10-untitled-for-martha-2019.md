@@ -6,12 +6,12 @@ details: HD video, 18:35 minutes, video in the making.
 featured: false
 image: /images/untitled_06.jpg
 slider:
-  - image: /images/untitled_01.jpg
-  - image: /images/untitled_02.jpg
-  - image: /images/untitled_03.jpg
-  - image: /images/untitled_05.jpg
-  - image: /images/untitled_06.jpg
-  - image: /images/untitled_07.jpg
+  - slide_url: /images/untitled_01.jpg
+  - slide_url: /images/untitled_02.jpg
+  - slide_url: /images/untitled_03.jpg
+  - slide_url: /images/untitled_05.jpg
+  - slide_url: /images/untitled_06.jpg
+  - slide_url: /images/untitled_07.jpg
 ---
 "Martha, Celia, Celia's baby, Benjamin, Kauai O'o, Toughie, Incas."
 
