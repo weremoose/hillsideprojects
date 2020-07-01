@@ -24,4 +24,6 @@ Hillside Projects was formed during a longer trip to India in 2011. Residing on 
 
 **Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Böttern as awarded the honorouble Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Traveling has always played a significant role in his artist practice and continues to do so. Jonas is a board member of **[NKF](http://nkfsweden.org/)** (The Nordic Art Association) in Stockholm. He is also works as a guide at the Nordic Museum in Stockholm, an occupation that informs and inspires performative aspects of his artist practice.
 
+![](/images/hillsideprojects.jpeg)
+
 [](/cv.html)
