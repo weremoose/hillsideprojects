@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hillside Projects         "
+title: About
 details: "         "
 exclude: false
 ---
