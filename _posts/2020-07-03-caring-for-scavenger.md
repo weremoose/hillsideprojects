@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hillsideprojects
-title: Caring For Scavenger
+title: Caring For Scavenger, 2020
 details: Performance at Bombay Natural History Society. Five hours
 featured: false
 image: /images/scavenger_01.jpg
