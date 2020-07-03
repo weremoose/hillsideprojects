@@ -11,6 +11,7 @@ slider:
   - slide_url: /images/memorial_03.jpg
   - slide_url: /images/memorial_04.jpg
   - slide_url: /images/memorial_06.jpg
+  - /images/again-and-again-we-ask-these-questions_06.jpg
 ---
 *An endling is an individual living thing that is the last survivor of its species or subspecies and whose death consequently means the extinction of that species or subspecies.*(1)
 
