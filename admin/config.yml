@@ -32,7 +32,7 @@ collections:
       - label: "Gallery images"
         name: "slider"
         widget: "list"
-        fields:
-          - {label: "Image", name: "slide_url", widget: "hidden", default: ""}
-          - {label: "Image", name: " ", widget: "image"}
+        field: { label: Image, name: slide_url, widget: image }
+#          - {label: "Image", name: "slide_url", widget: "hidden", default: ""}
+#          - {label: "Image", name: " ", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
