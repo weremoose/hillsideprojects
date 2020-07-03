@@ -34,5 +34,5 @@ collections:
         widget: "list"
         fields:
           - {label: "Image", name: "slide_url", widget: "hidden", default: ""}
-          - {label: "Image", widget: "image"}
+          - {label: "Image", name: "", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
