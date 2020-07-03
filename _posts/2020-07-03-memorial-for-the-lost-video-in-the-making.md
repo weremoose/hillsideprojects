@@ -6,15 +6,15 @@ details: HD video, 16:9, 19:00 minutes, English, colour
 featured: false
 image: /images/memorial_05.jpg
 slider:
-  - slide_url: "slide_url:"
+  - slide_url: /images/memorial_01.jpg
     image: /images/memorial_01.jpg
-  - slide_url: "slide_url:"
+  - slide_url: /images/memorial_02.jpg
     image: /images/memorial_02.jpg
-  - slide_url: "slide_url:"
+  - slide_url: /images/memorial_03.jpg
     image: /images/memorial_03.jpg
-  - slide_url: "slide_url:"
+  - slide_url: /images/memorial_04.jpg
     image: /images/memorial_04.jpg
-  - slide_url: "slide_url:"
+  - slide_url: /images/memorial_06.jpg
     image: /images/memorial_06.jpg
 ---
 *An endling is an individual living thing that is the last survivor of its species or subspecies and whose death consequently means the extinction of that species or subspecies.*(1)
