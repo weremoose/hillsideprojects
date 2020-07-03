@@ -31,7 +31,7 @@ Sound is vibration and vibration touches all parts of our physical being. In thi
 
 Concluding the video is an “index” of archival sounds and other recordings that have been used in the video. It includes the song of the last sighted Kauai O’o singing to a mate that never arrived, recorded by ornithologist H. Douglas Pratt in 1987,* and the final sounds of Toughie the frog, the last known living Rabbs’ fringe-limbed treefrog. The Singing bowl healing sessions were recorded at Aithein in India and Sweden.
 
-\-The script to *Memorial For The Lost* was written during an artist residency at Sfakiotes residency, Lefkada, Greece during 2019 with the generous support from Helge Ax:son Johnsons Stiftelse. It includes an animation by Jonas Holmer. Camera by Giorgos Chloros. Many thanks to Johannes Berg, Timo Menke, Salad Hilowle, Anastasia Melekou, Giorgos Chloros and Jonas Holmer for their generous time and ever so valuable opinions and thoughts. Also thank you Sussi Aspelin and the many yoga/spiritual teachers that have inspired this work. 
+
 
 Footnotes:
 
@@ -43,3 +43,9 @@ Footnotes:
 6. Singing bowls are also known as Tibetan singing bowls. However, since the history of the origin and use of the bowls is unclear and debatable, we have here chosen to refer to them as “Singing bowls”. <https://www.thestar.com/opinion/contributors/2020/02/18/tibetan-singing-bowls-are-not-tibetan-sincerely-a-tibetan-person.html> and <https://tricycle.org/trikedaily/tibetan-singing-bowls/>
 7. <https://blog.nationalgeographic.org/2012/03/28/the-sixth-great-extinction-a-silent-extermination/>
 8. This recording was later stored at Cornell University’s department for ornithology. In 2009 it was remixed by a man named Robert Davis and uploaded to Youtube. <https://www.youtube.com/watch?v=nDRY0CmcYNU>
+
+
+
+\-
+
+The script to *Memorial For The Lost* was written during an artist residency at Sfakiotes residency, Lefkada, Greece during 2019 with the generous support from Helge Ax:son Johnsons Stiftelse. It includes an animation by Jonas Holmer. Camera by Giorgos Chloros. Many thanks to Johannes Berg, Timo Menke, Salad Hilowle, Anastasia Melekou, Giorgos Chloros and Jonas Holmer for their generous time and ever so valuable opinions and thoughts. Also thank you Sussi Aspelin and the many yoga/spiritual teachers that have inspired this work.
