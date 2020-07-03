@@ -48,4 +48,4 @@ Footnotes:
 
 \-
 
-The script to *Memorial For The Lost* was written during an artist residency at Sfakiotes residency, Lefkada, Greece during 2019 with the generous support from Helge Ax:son Johnsons Stiftelse. It includes an animation by Jonas Holmer. Camera by Giorgos Chloros. Many thanks to Johannes Berg, Timo Menke, Salad Hilowle, Anastasia Melekou, Giorgos Chloros and Jonas Holmer for their generous time and ever so valuable opinions and thoughts. Also thank you Sussi Aspelin and the many yoga/spiritual teachers that have inspired this work.
+The script to *Memorial For The Lost* was written during an artist residency at Sfakiotes residency, Lefkada, Greece during 2019 with the generous support from Helge Ax:son Johnsons Stiftelse. The video includes an animation by Jonas Holmer. Camera by Giorgos Chloros. Many thanks to Johannes Berg, Timo Menke, Salad Hilowle, Anastasia Melekou, Giorgos Chloros and Jonas Holmer for their generous time and ever so valuable opinions and thoughts. Also thank you Sussi Aspelin and the many yoga/spiritual teachers that have inspired this work.
