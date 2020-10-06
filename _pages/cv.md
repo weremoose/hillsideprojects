@@ -67,12 +67,13 @@ Screenings and presentations
 
 Residencies (Hillside Projects)
 
+* 2020 Box Autumn Studio Bohuslän. An artist residency arranged by Galleri Box in collaboration with KKV Bohuslän & Gerleborgsskolan Bohuslän
 * 2020 Clark House Initiative, Mumbai
 * 2019 Sfakiotes Artist Residency, Greece
-* 2012		TCG Nordica AIR, Kunming, China
-* 2012		Rhizome – Lijiang Art Centre, Lijiang, China
-* 2009		TCG Nordica AIR, Kunming, China (Böttern)
-* 2009		Banff Centre for the Arts, Canada (Mennerdahl)
+* 2012 TCG Nordica AIR, Kunming, China
+* 2012 Rhizome – Lijiang Art Centre, Lijiang, China
+* 2009 TCG Nordica AIR, Kunming, China (Böttern)
+* 2009 Banff Centre for the Arts, Canada (Mennerdahl)
 
 Grants
 
@@ -100,6 +101,7 @@ Publications
 
 Professional Experience (Mennerdahl)
 
+* 2019-2020 Visiting lecturer at Kungliga Konsthögskolan Stockholm. Giving workshops in grant writing and applying for artist residencies.
 * 2010-2013	Visiting Associate Lecturer, Manchester School of Art
 * 2009		Teaching Assistant for Bryndis Snaebjornsdottir, Valand Academy
 * 2007-2009	Teaching Assistant at Concordia University, Montréal, Canada.
