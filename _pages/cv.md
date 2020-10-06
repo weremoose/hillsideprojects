@@ -101,10 +101,10 @@ Publications
 
 Professional Experience (Mennerdahl)
 
-* 2019-2020 Visiting lecturer at Kungliga Konsthögskolan Stockholm. Giving workshops in grant writing and applying for artist residencies.
-* 2010-2013	Visiting Associate Lecturer, Manchester School of Art
+* 2019-2020 Visiting lecturer at Kungliga Konsthögskolan Stockholm. Workshops in grant writing and applying for artist residencies.
+* 2010-2013	Visiting Associate Lecturer, Manchester School of Art, U.K. Workshops in alternative photographic processes & applying for grants & residencies.
 * 2009		Teaching Assistant for Bryndis Snaebjornsdottir, Valand Academy
-* 2007-2009	Teaching Assistant at Concordia University, Montréal, Canada.
+* 2007-2009	Teaching Assistant for Ingrid Bachmann & Barbara Layne at Concordia University, Montréal, Canada.
 
 Professional Experience (Böttern)
 
