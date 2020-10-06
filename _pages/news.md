@@ -10,6 +10,8 @@ exclude: false
 
 Jonas Böttern is representing Hillside Projects during a one-week Box Autumn Studio residency in Bohuslän, Sweden, arranged by Henrik Sputnes & Gustav Lejelind at Galleri Box Gothenburg in collaboration with KKV Bohuslän and Gerleborgsskolan Bohuslän. 
 
+<https://galleribox.se/2020/open-call-bottna-autumn-studio/>
+
 ![](/images/box.jpg)
 
 Saturday 3 October there is a public presentation.
