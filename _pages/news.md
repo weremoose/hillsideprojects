@@ -6,6 +6,55 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**September 2020 -** 
+
+Jonas Böttern is representing Hillside Projects during a one-week Box Autumn Studio residency in Bohuslän, Sweden, arranged by Henrik Sputnes & Gustav Lejelind at Galleri Box Gothenburg in collaboration with KKV Bohuslän and Gerleborgsskolan Bohuslän. 
+
+![](/images/box.jpg)
+
+Saturday 3 October there is a public presentation.
+
+KKV-Bohuslän,\
+Stensalen\
+Öppet Kl 12-16.\
+Presentation kl 14.00.
+
+Under loppet av en arbetsvecka har KKV-Bohuslän och Gerlesborgsskolan med omnejd fungerat som en postdisciplinär studioyta för kunskapsutväxlingar i skärningsfältet mellan konst, design, dans och arkitektur. Deltagare från nämnda discipliner har givits i uppdrag att tillsammans utforska nya livsmönster för en hållbare framtid.
+
+Medverkande studiomedlemmar:
+
+Fanny Lindh
+
+Jonas Böttern (Hillside Projects)
+
+Maja Linnéa Wendel
+
+Sara Nielsen Bonde
+
+Siri Bahlenberg
+
+Simon Gran Danielsson
+
+Tuva Hildebrand
+
+VAD ÄR BOX AUTUMN / SUMMER STUDIO?
+
+BOX Autumn Studio respektive BOX Summer Studio syftar till att skapa utväxlingar och samarbeten mellan aktörer med bakgrund inom konst, design, arkitektur och dans. I år har Box Summer Studio bjudit in Kajsa G Eriksson från den konstnärlig research studion Vague Research Studios och Therese Kristiansson från konst, design och arkitektursamarbetet MYCKET som gästföreläsare och workshopledare.
+
+BOX Autumn Studio har inom ramen för veckan arrangerat en öppenföreläsning på Gerlesborgsskolan i Bohuslän med Fernando García-Dory från konstkollektivet INLAND. Samt genomfört research- och fältstudier tillsammans med Lena Falkheden och Marcus Nordgren.
+
+Konceptet BOX Autumn Studio respektive BOX Summer Studio, har utvecklats av konstnären Gustav Lejelind och curatorn Henrik Sputnes. BOX Autumn Studio arrangeras 2020 som ett samarbete mellan KKV-Bohuslän, Gerlesborgsskolan i Bohuslän, Galleri BOX, Lena Falkheden och Bottnafjordens inköpsförening.
+
+BOX Autumn Studio genomförs med kulturmedel från Göteborg Stad och Västra Götalandsregionen.
+
+
+
+**August 2020 -**
+
+We are very happy that our video *Again and Again We Ask These Questions*, 2019 is now also distributed by Vidéographe Montréal.
+
+<https://www.videographe.org/en/activity/support-for-the-creation-program/>
+
 **May 2020 -** 
 
 \# We are very excited to have the opportunity to invite and present the works of Clark House Initiative members Saviya Lopes, Yogesh Barve & Niccolò Moscatelli in the exhibition TASTELESS, ODOURLESS, NONETHELESS at ID:I Galleri Stockholm 22 May 2020 - 31 May 2020.
@@ -15,8 +64,6 @@ exclude: false
 <https://idigalleri.org/>
 
 ![](/images/hillside_projects_news_idid.jpg)
-
-
 
 **May 2020 -** 
 
