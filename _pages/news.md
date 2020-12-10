@@ -6,6 +6,18 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**December 2020 -** 
+
+Happy to announce the premiere of our latest video *Memorial for the Lost*, 2020at Bonniers Konsthall. Curated by Caroline Elgh. The video can be viewed online at:
+
+<https://bonnierskonsthall.se/utstallning/bonnierskonsthall-se/>
+
+<https://bonnierskonsthall.se/utstallning/memorial-for-the-lost/>
+
+*Memorial for the Lost* is the second video in a trilogy that explores different angles on extinction. The first video, *Again and Again We Ask These Questions*, 2019 explores a collection of existential questions revolving around extinction. The second part is a memorial to those lost. The final part will explore the extinctions we do not mourn, such as children's diseases, viruses and mosquitoes.
+
+![](/images/memorial_for_the_lost.jpg)
+
 **September 2020 -** 
 
 Jonas Böttern is representing Hillside Projects during a one-week Box Autumn Studio residency in Bohuslän, Sweden, arranged by Henrik Sputnes & Gustav Lejelind at Galleri Box Gothenburg in collaboration with KKV Bohuslän and Gerleborgsskolan Bohuslän. 
@@ -48,8 +60,6 @@ BOX Autumn Studio har inom ramen för veckan arrangerat en öppenföreläsning p
 Konceptet BOX Autumn Studio respektive BOX Summer Studio, har utvecklats av konstnären Gustav Lejelind och curatorn Henrik Sputnes. BOX Autumn Studio arrangeras 2020 som ett samarbete mellan KKV-Bohuslän, Gerlesborgsskolan i Bohuslän, Galleri BOX, Lena Falkheden och Bottnafjordens inköpsförening.
 
 BOX Autumn Studio genomförs med kulturmedel från Göteborg Stad och Västra Götalandsregionen.
-
-
 
 **August 2020 -**
 
