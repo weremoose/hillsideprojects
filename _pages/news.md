@@ -8,7 +8,17 @@ exclude: false
 
 **March - 2021**
 
-Participating in **Editorial Board,** a three-part series of writing workshops led by Anne Klontz and the Index team at Index Foundation Stockholm. During this workshop Emily made an attempt to create music out of a collection of books - The Artists' Novels Bibliography by the Book Lovers part of the exhibition Editorial Thinking. <http://indexfoundation.se/talks-and-events/workshop-editorial-board-3>
+**\#** Hillside Projects are excited to have been selected to hold a three-hour performative walk in Skåne. Part of: Projekt Skåneleden Konst - In Motion and Kristianstad Konsthall.
+
+<https://regionmuseet.se/projektet-skaneleden-konst-in-motion-konstnarer-klara-for-vandring-langs-skaneleden/>
+
+<https://regionmuseet.se/kristianstads-konsthall/>
+
+![](/images/hillside_projects_news_walking_02_.jpeg)
+
+
+
+**\#** Participating in **Editorial Board,** a three-part series of writing workshops led by Anne Klontz and the Index team at Index Foundation Stockholm. During this workshop Emily made an attempt to create music out of a collection of books - The Artists' Novels Bibliography by the Book Lovers part of the exhibition Editorial Thinking. <http://indexfoundation.se/talks-and-events/workshop-editorial-board-3>
 
 ![](/images/hillside_projects_news_index.jpg)
 
