@@ -4,13 +4,18 @@ author: hillsideprojects
 title: Memorial For The Lost, 2021
 details: HD video, 16:9, 20:11 minutes, English, colour
 featured: false
-image: /images/memorial_05.jpg
+image: /images/memorial_for_the_lost_01.jpg
 slider:
-  - slide_url: /images/memorial_01.jpg
-  - slide_url: /images/memorial_02.jpg
-  - slide_url: /images/memorial_03.jpg
-  - slide_url: /images/memorial_04.jpg
-  - slide_url: /images/memorial_06.jpg
+  - image: ""
+    slide_url: /images/memorial_for_the_lost_02.jpg
+  - image: ""
+    slide_url: /images/memorial_for_the_lost_05.jpg
+  - image: ""
+    slide_url: /images/memorial_for_the_lost_04.jpg
+  - image: ""
+    slide_url: /images/memorial_for_the_lost_03.jpg
+  - image: ""
+    slide_url: /images/memorial_for_the_lost_01.jpg
 ---
 *Memorial for the Lost* is the second part in a video trilogy that attempts to explore the notion of extinction from different angles through i.e. existential politics, humour, grief, performative actions and rituals. Set in a fictional forest landscape, *Memorial for the Lost* tells the stories of six individual non-humans that were the last before extinction, so called "endlings". Weaving in and out of a healing process and narratives of lived lives, the video offers an elegy to those lost.
 
