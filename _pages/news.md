@@ -6,6 +6,22 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**March - 2021**
+
+Participating in **Editorial Board,** a three-part series of writing workshops led by Anne Klontz and the Index team at Index Foundation Stockholm. During this workshop Emily made an attempt to create music out of a collection of books - The Artists' Novels Bibliography by the Book Lovers part of the exhibition Editorial Thinking. <http://indexfoundation.se/talks-and-events/workshop-editorial-board-3>
+
+![](/images/hillside_projects_news_index.jpg)
+
+
+
+
+
+
+
+
+
+
+
 **December 2020 -** 
 
 Happy to announce the premiere of our latest video *Memorial for the Lost*, 2020at Bonniers Konsthall. Curated by Caroline Elgh. The video can be viewed online at:
