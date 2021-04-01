@@ -53,21 +53,32 @@ Selection of Group Exhibitions (Hillside Projects)
 * 2014		Everthing Must Go, Platform, Stockholm
 * 2013		Land/Sea/Sky, Chapel Gallery, Ormskirk, Liverpool, U.K.
 
-Screenings and presentations
+Presentations and performances
 
-* 2020 Ambedkar University, Arts Department, Lecture performance
+* 2021 Projekt Skåneleden Konst - In Motion, Regionsmuseet Skåne, 3-hour performative walk. Curated by Sara Rossling
+* 2020 Ambedkar University, Delhi, India, Fine Arts Department, Lecture performance
+* 2019 Galleri 54, Gothenburg, panel discussion moderated by Mikael Olofsson
+* 2019 Galleri 54, Gothenburg, Lecture performance
+* 2017	Rutiga Golvet E2-E4, curated by Kim West, What Now? The secret Lives of Artist Books
+* 2017	Dazibao, Montréal, Lecture performance
+
+
+
+Screenings:
+
 * 2019 Bideodromo International experimental film and video festival, Bilbao
 * 2019 FilmForm News at 65th International Short Film Festival Oberhausen
 * 2019 32. Stuttgarter Filmwinter – Festival for Expanded Media
 * 2019 Dåtid.Samtid. Nutid – Tensta Konsthall, Biografen Zita
-* 2019 Tensta Konsthall 20 år, Tensta Konsthall 2018 Daz Esszimmer, Bonn
-* 2017	Alienation, an art video festival, Two Change and ID:I Galleri, Stockholm, Sweden
-* 2017	Rutiga Golvet E2-E4, curated by Kim West, What Now? The secret Lives of Artist Books
-* 2017	Lecture performance, Dazibao
+* 2019 Tensta Konsthall 20 år, Tensta Konsthall
+* Alienation, an art video festival, Two Change and ID:I Galleri, Stockholm, Sweden
+
+
 
 Residencies (Hillside Projects)
 
-* 2020 König Natural History Museum, Bonn
+* 2021 SEA Foundation, Tilburg, Netherlands
+* 2021 König Natural History Museum, Bonn
 * 2020 Box Autumn Studio Bohuslän. An artist residency arranged by Galleri Box in collaboration with KKV Bohuslän & Gerleborgsskolan Bohuslän
 * 2020 Clark House Initiative, Mumbai
 * 2019 Sfakiotes Artist Residency, Greece
