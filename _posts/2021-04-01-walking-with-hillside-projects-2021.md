@@ -14,8 +14,6 @@ slider:
     slide_url: /images/walking_with_hillside_projects_04.jpg
   - image: ""
     slide_url: /images/walking_with_hillside_projects_05.jpg
-  - image: ""
-    slide_url: /images/walking_with_hillside_projects_02.jpg
 ---
 When you walk with Hillside Projects you walk slowly, fast, in silence, in conversation, as meditation, next to the path, with closed eyes, in action, as exercise, as art, in search, backwards, forwards and with eyes wide open.
 
