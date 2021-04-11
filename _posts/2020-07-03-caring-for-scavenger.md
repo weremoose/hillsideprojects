@@ -11,6 +11,8 @@ slider:
   - slide_url: /images/scavneger_04.jpg
   - slide_url: /images/scavenger_05.jpg
   - slide_url: /images/scavenger_06.jpg
+  - image: ""
+    slide_url: /images/scavenger_01.jpg
 ---
 A five-hour performance in the archives of Bombay Natural History Society in Bombay, India 2020. The performance included reading to, looking at, dusting off and being with the Indian vulture in the process of caring for the birds and including them in a conversation about their potential extinction. Photo credit: Yogesh Barve
 
