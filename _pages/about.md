@@ -4,13 +4,16 @@ title: About
 details: "         "
 exclude: false
 ---
-Hillside Projects is an artist duo consisting of Emily Berry Mennerdahl & Jonas Böttern. Their multidisciplinary practice is manifested as installations and performances including video, text, drawing and artist publications. Prompted by current events in and around nature, they apply methods of storytelling and performative actions in a desire to talk about the stories of and between humans and non-humans, as well as notions of hope and despair, remorse and guilt. Living in the sixth mass extinction, the on-going extinction event of species, mainly as an event of human activity, Hillside Projects attempt to relay the tragedies, comedies and stories of the natural world and its inhabitants. 
+Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) is an artist duo based in Stockholm. Through an exploration of methods of storytelling and performative strategies their work is manifested as installations including photography, text, drawing and fabric as well as video works, publications and performances. During the last few years tales surrounding extinction have been at the core of their work, and they attempt to approach this tragic subject matter by embracing the comedic and slightly absurd. Thus attempting to locate alternative ways to talk about species loss and human/more than human relationships. To understand the cultural assumptions behind what is of value in nature and what is not, and how this forms us. 
 
-Single inquiries into the lives of disappearing birds, the re-introduction of species, commemorations to the lost and details from on-going extinctions are presented in a variety of formats and situations. Videos, lecture performances, public presentations and publications become intertwined and offer details from a larger story on ecological exploitation.
+Who should be saved and why?
 
-Hillside Projects was formed in 2011, during a longer stay in India. Residing on the top of a hill in a small village in the south, conversations and daily excursions evolved into larger projects. Travel, movement and exchange have always been important elements for both artists and continues to be so within the collaboration. Music, alternative healing practices, writing, daily yoga practice and travel continue to inspire their work.
+Who decides who should be saved?
 
- Hillside Projects are currently based in Stockholm. Their videos are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) - The Art Film and Video Archive and [Vidéograph](https://www.videographe.org/en/)e Montréal. They are board members of [ID:I Galleri ](http://idigalleri.org/)in Stockholm and Böttern is a board member of[ NKF](http://www.nkfsweden.org/information/about-nordic-art-association) (Nordic Art Association). 
+Is it time to say goodbye?
+
+\
+Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) - The Art Film and Video Archive and [Vidéograph](https://www.videographe.org/en/)e Montréal. They are board members of [ID:I Galleri ](http://idigalleri.org/)in Stockholm and Böttern is a board member of[ NKF](http://www.nkfsweden.org/information/about-nordic-art-association) (Nordic Art Association). 
 
 [Hillside Projects CV](/cv.html)
 
