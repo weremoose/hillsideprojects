@@ -62,18 +62,15 @@ Presentations and performances
 * 2017	Rutiga Golvet E2-E4, curated by Kim West, What Now? The secret Lives of Artist Books
 * 2017	Dazibao, Montréal, Lecture performance
 
-
-
 Screenings:
 
+* 2021 Conversation Between Collection "Animal Love", online screening Filmform & Vidéographe
 * 2019 Bideodromo International experimental film and video festival, Bilbao
 * 2019 FilmForm News at 65th International Short Film Festival Oberhausen
 * 2019 32. Stuttgarter Filmwinter – Festival for Expanded Media
 * 2019 Dåtid.Samtid. Nutid – Tensta Konsthall, Biografen Zita
 * 2019 Tensta Konsthall 20 år, Tensta Konsthall
 * Alienation, an art video festival, Two Change and ID:I Galleri, Stockholm, Sweden
-
-
 
 Residencies (Hillside Projects)
 
