@@ -6,9 +6,21 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**May - 2021**
+
+**\#** Taking part in an artist residency and exhibition at SEA Foundation in Tilburg, Netherlands. Presenting a new body of work *They Who Were*, 2021 and a performance *The Scavenger Collapse,* 2021. 
+
+29.02.21 - 05.06.2021
+
+<https://www.seafoundation.eu/hillside-projects-exhibition-vultures/>
+
+![](/images/hillside_projects_news_sea_foundation.jpg)
+
+
+
 **April - 2021**
 
-\# Presenting a new installation *You Were All Extinct Before You Were Born*, 2021 together with a video installation *Memorial for the Lost*, 2021 in a solo-exhibition at Das Esszimmer in Bonn, curated by Sibylle Feucht. The exhibition will be up and running 12.04.21 - 05.06.2021. Artist talk at 7 pm on Friday 14 May.
+**\#** Presenting a new installation *You Were All Extinct Before You Were Born*, 2021 together with a video installation *Memorial for the Lost*, 2021 in a solo-exhibition at Das Esszimmer - Raum fur Kunst in Bonn, curated by Sibylle Feucht. The exhibition will be up and running 12.04.21 - 05.06.2021. Artist talk at 7 pm on Friday 14 May.
 
 <https://dasesszimmer.com/en/exhibition/memorial-for-the-lost/>
 
