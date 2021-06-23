@@ -21,15 +21,11 @@ slider:
 ---
 In *Reading, to Kins* Hillside Projects reads Arundhati Roy’s article “We Are Witnessing a Crime Against Humanity” to a committee of Indian vultures in the zoological archives at König Museum in Bonn 12 May 2021. Roy’s article was published in The Guardian 28 April, 2021. 
 
-The reading can currently be viewed through gallery Das Esszimmer - Raum fur Kunst's Youtube channel:
+The reading can currently be viewed through gallery Das Esszimmer - Raum fur Kunst's
 
-> <https://www.theguardian.com/news/2021/apr/28/crime-against-humanity-arundhati-roy-india-covid-catastrophe>
+> https://dasesszimmer.com/en/event/premiere-reading-to-kins-hillside-projects/
 
 *Reading, To Kins* (2021) is a performance for the Dying and the Dead. Raspy, drawn-out hissing sounds along with grunting noises slowly fall silent. Painful swelling, inflammation and kidney failure. Millions of vultures in India have died this way, unintentionally poisoned with Diclofenac, a painkiller used to calm pain and increase the production of milk. For more than one hundred million years, vultures have been the custodians of the dead, living in a sympatric relationship with humans, each benefiting from each other’s interactions and doings. This performance takes place within the vulture collection at The Alexander Koenig Zoological Research Museum in Bonn (DE). With the intention of including the vultures in a conversation about the ongoings on their land (India), the recently published article We Are Witnessing a Crime Against Humanity by Arundhati Roy and published in The Guardian (29 April, 2021), is read to a wake of birds. Roy’s article speaks of the current Covid and political situation in India, spring 2021.
-
-
-
-
 
 Credits: Vidéographer: Robin Deutschbein. Edit, sound and direction: Hillside Projects
 
