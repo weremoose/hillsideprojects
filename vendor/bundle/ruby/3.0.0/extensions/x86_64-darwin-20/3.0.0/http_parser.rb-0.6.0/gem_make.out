@@ -1,0 +1,20 @@
+current directory: /Users/amelekou/Sites/hillsideprojects/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/3.0.0 -r ./siteconf20210915-5357-fma99x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/amelekou/Sites/hillsideprojects/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/amelekou/Sites/hillsideprojects/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+1 warning generated.
+compiling ryah_http_parser.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/amelekou/Sites/hillsideprojects/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210915-5357-o5w3uq
