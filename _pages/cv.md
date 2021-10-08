@@ -15,6 +15,8 @@ Education (Berry Mennerdahl)
 
 Education (Böttern)
 
+* 2021-2022     Sound in Interaction, Konstfack University College of Art, Crafts and Design. 30 hp. 
+* 2021-2022      Performing Sustainability - The Photographic Artist Book, Royal Institute of Art, Stockholm. 60 hp.
 * 2019-2020     Public Art, Social Dimensions, ecologies and changes, Konstfack University             College of Art, Crafts and Design. 30 hp.
 * 2013-2016	MFA Fine Arts, Konstfack University College of Arts, Crafts and Design
 
@@ -31,9 +33,10 @@ Solo Exhibitions (Hillside Projects)
 
 Selection of Group Exhibitions (Hillside Projects)
 
+* 2021 Supermarket, Stockholm
+* 2021 Tracing Traces, Rosalux, Berlin
+* 2020 Platform Projects, Athens 
 * 2020 Works on Paper, CASINOT XXH, Malmö
-* 2020 Rosalux, Berlin (postponed until 2021)
-* 2020 Platform Projects, Athens (postponed until 2021)
 * 2019 Biologiska Museets Vänner # Fåglar, Eric Ericssonshallen, Stockholm
 * 2019 In Mid Air, Bångska Våningen, Stockholm
 * 2019 Platforms Projects, Athens
@@ -55,6 +58,7 @@ Selection of Group Exhibitions (Hillside Projects)
 
 Presentations and performances
 
+* 2021 Projekt Skåneleden Konst - In Motion, Regionmuseet Skåner, 2-hour performative walk. Curated by Sara Rossling
 * 2021 Projekt Skåneleden Konst - In Motion, Regionsmuseet Skåne, 3-hour performative walk. Curated by Sara Rossling
 * 2020 Ambedkar University, Delhi, India, Fine Arts Department, Lecture performance
 * 2019 Galleri 54, Gothenburg, panel discussion moderated by Mikael Olofsson
