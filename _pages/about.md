@@ -4,7 +4,7 @@ title: About
 details: "         "
 exclude: false
 ---
-Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) is an artist duo based in Stockholm. Through an exploration through storytelling and performance their work is manifested as installations including photography, text, drawing and fabric as well as video works, publications and performances. During the last few years tales surrounding extinction have been at the core of their work, and they attempt to approach this tragic subject matter by embracing the comedic and slightly absurd. Thus attempting to locate alternative ways to talk about species loss and human/more than human relationships. To understand the cultural assumptions behind what is of value in nature and what is not, and how this forms us. 
+Hillside Projects (Emily Berry Mennerdahl & Jonas Böttern) is an artist duo based in Stockholm. Through an exploration into methods of storytelling and performance their work is manifested as installations including photography, text, drawing and fabric as well as video works, publications and performances. During the last few years tales surrounding extinction have been at the core of their work, and they attempt to approach this tragic subject matter by embracing the comedic and slightly absurd. Thus attempting to locate alternative ways to talk about species loss and human/more than human relationships. To understand the cultural assumptions behind what is of value in nature and what is not, and how this forms us. 
 
 Who should be saved and why? Who decides who should be saved?   Is it time to say goodbye?
 
