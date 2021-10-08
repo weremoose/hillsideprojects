@@ -6,9 +6,25 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**September - 2021**
+
+Hillside Projects are happy to lead another performativ walk as part of Vandringen dag 11 September as part of Konst in Motion - Skåneleden Konst.
+
+[Konst in Motion - vandringens dag](https://www.kristianstad.se/sv/huvudnyheter/vandringens-dag-11-september/#:~:text=Sk%C3%A5neleden%20Konst%20%E2%80%93%20In%20Motion,-Projektet%20Sk%C3%A5neleden%20Konst&text=L%C3%B6rdagen%20den%2011%20september%20p%C3%A5,h%C3%A4lsa%20i%20de%20tre%20kommunerna.)
+
+![](/images/hillside_projects_news_performative_walk.jpg)
+
 **May - 2021**
 
-**\#** Taking part in an artist residency and exhibition at SEA Foundation in Tilburg, Netherlands. Presenting a new body of work *They Who Were*, 2021 and a performance *The Scavenger Collapse,* 2021. 
+**\#** Check out a recent **artist talk** between Hillside Projects and curator Riet van Gerven:
+
+Riet van Gerven, curator SEA Foundation Tilburg/NL leads the artist talk with Hillside Projects (Stockholm/SE) on the occasion of their solo show "Memorial for the Lost" at DAS ESSZIMMER. Parallel to the exhibition at DAS ESSZIMMER, Hillside Projects are also present with the solo show THEY WHO WHERE at SEA Foundation.
+
+<https://www.youtube.com/watch?v=v9zfgjdNfLo>
+
+
+
+**\#** Taking part in an **artist residency** and **exhibition** at **SEA Foundation** in Tilburg, Netherlands. Presenting a new body of work *They Who Were*, 2021 and a performance *The Scavenger Collapse,* 2021. 
 
 29.02.21 - 05.06.2021
 
@@ -16,25 +32,17 @@ exclude: false
 
 ![](/images/hillside_projects_news_sea_foundation.jpg)
 
-
-
 **April - 2021**
 
-**\#** Presenting a new installation *You Were All Extinct Before You Were Born*, 2021 together with a video installation *Memorial for the Lost*, 2021 in a solo-exhibition at Das Esszimmer - Raum fur Kunst in Bonn, curated by Sibylle Feucht. The exhibition will be up and running 12.04.21 - 05.06.2021. Artist talk at 7 pm on Friday 14 May.
+**\#** Presenting a new installation *You Were All Extinct Before You Were Born*, 2021 together with a video installation *Memorial for the Lost*, 2021 in a solo-exhibition at **Das Esszimmer - Raum fur Kunst in Bonn**, curated by Sibylle Feucht. The exhibition will be up and running 12.04.21 - 05.06.2021. Artist talk at 7 pm on Friday 14 May.
 
 <https://dasesszimmer.com/en/exhibition/memorial-for-the-lost/>
 
 ![](/images/hillside_projects_news_das_esszimmer.jpg)
 
-
-
- 
-
-
-
 **March - 2021**
 
-**\#** Hillside Projects are excited to have been selected to hold a three-hour performative walk in Skåne. Part of: Projekt Skåneleden Konst - In Motion and Kristianstad Konsthall.
+**\#** Hillside Projects are excited to have been selected to hold a three-hour **performative walk** in Skåne. Part of: **Projekt Skåneleden Konst - In Motion and Kristianstad Konsthall**.
 
 <https://regionmuseet.se/projektet-skaneleden-konst-in-motion-konstnarer-klara-for-vandring-langs-skaneleden/>
 
@@ -48,7 +56,7 @@ exclude: false
 
 **December 2020 -** 
 
-Happy to announce the premiere of our latest video *Memorial for the Lost*, 2020at Bonniers Konsthall. Curated by Caroline Elgh. The video can be viewed online at:
+Happy to announce the premiere of our latest video ***Memorial for the Lost*,** 2020at **Bonniers Konsthall**. Curated by Caroline Elgh. The video can be viewed online at:
 
 <https://bonnierskonsthall.se/utstallning/bonnierskonsthall-se/>
 
@@ -60,7 +68,7 @@ Happy to announce the premiere of our latest video *Memorial for the Lost*, 2020
 
 **September 2020 -** 
 
-Jonas Böttern is representing Hillside Projects during a one-week Box Autumn Studio residency in Bohuslän, Sweden, arranged by Henrik Sputnes & Gustav Lejelind at Galleri Box Gothenburg in collaboration with KKV Bohuslän and Gerleborgsskolan Bohuslän. 
+Jonas Böttern is representing Hillside Projects during a one-week **Box Autumn Studio residency** in Bohuslän, Sweden, arranged by Henrik Sputnes & Gustav Lejelind at Galleri Box Gothenburg in collaboration with KKV Bohuslän and Gerleborgsskolan Bohuslän. 
 
 <https://galleribox.se/2020/open-call-bottna-autumn-studio/>
 
