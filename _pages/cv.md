@@ -22,6 +22,7 @@ Education (Böttern)
 
 Solo Exhibitions (Hillside Projects)
 
+* 2022 Galleri Verkligheten, Umeå
 * 2021 SEA Foundation, Tilburg, Netherlands
 * 2021                Raum fur Kunst, Das Esszimmer, Bonn, Germany
 * 2020                Memorial for the Lost, Clark House Initiative, Mumbai
@@ -33,6 +34,7 @@ Solo Exhibitions (Hillside Projects)
 
 Selection of Group Exhibitions (Hillside Projects)
 
+* 2022 Mörby Gård Skulpturpark curated by Camilla Larsson
 * 2021 Supermarket, Stockholm
 * 2021 Tracing Traces, Rosalux, Berlin
 * 2020 Platform Projects, Athens 
@@ -90,6 +92,10 @@ Residencies (Hillside Projects)
 
 Grants
 
+* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
 * 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Berry Mennerdahl)
 * 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Böttern)
 * 2020 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
@@ -115,17 +121,3 @@ Publications
 * 2013		Interview-Katya Tylevich for Elephant Magazine, issue 15, summer
 * 2014		Plaza: Det stora konstnummret, nr 02 februari 2014
 * 2012	Interview-Orion Martin for The Terms Put Forward, Notes on Contemporary Art Art in China.
-
-Professional Experience (Mennerdahl)
-
-* 2019-2020 Visiting lecturer at Kungliga Konsthögskolan Stockholm. Workshops in grant writing and applying for artist residencies.
-* 2010-2013	Visiting Associate Lecturer, Manchester School of Art, U.K. Workshops in alternative photographic processes & applying for grants & residencies.
-* 2009		Teaching Assistant for Bryndis Snaebjornsdottir, Valand Academy
-* 2007-2009	Teaching Assistant for Ingrid Bachmann & Barbara Layne at Concordia University, Montréal, Canada.
-
-Professional Experience (Böttern)
-
-* 2010-2013 	Illustrations for a selection of documentary films and Swedish Radio
-* 2011-2012 	Art workshops at Manchester Metropolitan University, U.K
-* 2009 		Artist talk, Gallery TCG Nordica, Kunming, China
-* 2009 		Artist talk, Hyllie Folkhögskola, Malmö, Sweden
