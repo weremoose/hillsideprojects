@@ -93,9 +93,9 @@ Residencies (Hillside Projects)
 Grants
 
 * 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
-* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern)
 * 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
-* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Böttern)
 * 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Berry Mennerdahl)
 * 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Böttern)
 * 2020 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
