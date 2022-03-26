@@ -8,7 +8,15 @@ exclude: false
 
 **January - 2022**
 
-\# A Toxic Relationship - a solo show at Galleri Verkligheten in Umeå, Sweden.
+**\#** As part of the show A Toxic Relationship Hillside Projects perform Caring for Scavenger on six occasion at Galleri Verkligheten. Check out their web-site and book an appointment!
+
+![](/images/screenshot-2022-03-26-at-18.30.41.png)
+
+
+
+
+
+**\#** A Toxic Relationship - a solo show at Galleri Verkligheten in Umeå, Sweden.
 
 ![](/images/web-site.jpg)
 
