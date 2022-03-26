@@ -6,9 +6,19 @@ exclude: false
 ---
 \--------------------------------------------------------------------------------
 
+**January - 2022**
+
+\# A Toxic Relationship - a solo show at Galleri Verkligheten in Umeå, Sweden.
+
+![](/images/web-site.jpg)
+
+
+
+
+
 **September - 2021**
 
-Hillside Projects are happy to lead another performativ walk as part of Vandringen dag 11 September as part of Konst in Motion - Skåneleden Konst.
+Hillside Projects are happy to lead another performativ walk on Vandringens dag 11 September as part of Konst in Motion - Skåneleden Konst.
 
 [Konst in Motion - vandringens dag](https://www.kristianstad.se/sv/huvudnyheter/vandringens-dag-11-september/#:~:text=Sk%C3%A5neleden%20Konst%20%E2%80%93%20In%20Motion,-Projektet%20Sk%C3%A5neleden%20Konst&text=L%C3%B6rdagen%20den%2011%20september%20p%C3%A5,h%C3%A4lsa%20i%20de%20tre%20kommunerna.)
 
@@ -21,8 +31,6 @@ Hillside Projects are happy to lead another performativ walk as part of Vandring
 Riet van Gerven, curator SEA Foundation Tilburg/NL leads the artist talk with Hillside Projects (Stockholm/SE) on the occasion of their solo show "Memorial for the Lost" at DAS ESSZIMMER. Parallel to the exhibition at DAS ESSZIMMER, Hillside Projects are also present with the solo show THEY WHO WHERE at SEA Foundation.
 
 <https://www.youtube.com/watch?v=v9zfgjdNfLo>
-
-
 
 **\#** Taking part in an **artist residency** and **exhibition** at **SEA Foundation** in Tilburg, Netherlands. Presenting a new body of work *They Who Were*, 2021 and a performance *The Scavenger Collapse,* 2021. 
 
