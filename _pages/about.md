@@ -4,15 +4,11 @@ title: About
 details: "         "
 exclude: false
 ---
-Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Hillside Projects was formed on a hilltop in India in 2011. Situated within a conceptual framework, their work explores tales of disappearances in the natural world and the interrelated socio political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter, embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why?
+Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, their work explores tales of disappearances in the natural world and the interrelated socio political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter, embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why?
 
 Hillside Projects’ works are manifested as text, video, sound, and installation. Performance lies at the core of their practice. A work may not always take shape as a performance, but a performative gesture is most often involved in the making of the work. Hillside Projects explore the notion of an audience. An audience in movement, an audience that is not alive, an intimate audience, a large audience, and lastly, one that is not present. Hillside Projects ask what is an audience and what can it be? 
 
-
-
 Hillside Projects tell stories. Often they are stories about birds. Colourful birds on the brink of extinction, birds killed in aeroplane crashes, birds that eat the dead. In their making, the bird stories expand into larger narratives. Narratives about the cycles of life, of being eaten and eating, and of dust. We are stardust. 
-
-
 
 Hillside Projects explore translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. Hillside Projects reflect on the need for materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
