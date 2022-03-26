@@ -10,7 +10,7 @@ Hillside Projects’ works are manifested as text, video, sound, and installatio
 
 Hillside Projects tell stories. Stories about birds. Colourful birds on the brink of extinction, birds killed in aeroplane crashes, birds that eat the dead. In their making, the bird stories expand into larger narratives. Narratives about the cycles of life, of being eaten and eating, and of dust. We are stardust. 
 
-Hillside Projects explore translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. Hillside Projects reflect on the need for materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
+Hillside Projects explore translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. Hillside Projects reflect on the need for materiality or a dispense with materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
 
 
