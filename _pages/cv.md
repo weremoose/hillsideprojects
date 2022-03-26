@@ -8,7 +8,7 @@ A collaboration between Emily Berry Mennerdahl and Jonas Böttern-<br/> Individu
 
 Education (Berry Mennerdahl)
 
-* 2016-2017	The Disemination of the Photographic Artist Book, Royal Institute of Art, Stockholm
+* 2016-2017	The Dissemination of the Photographic Artist Book, Royal Institute of Art, Stockholm 60 hp.
 * 2008-2009	Independent Study Programme, Valand Academy of Arts, University of Gothenburg.
 * 2005-2008	MFA Studio Arts, Concordia University, Montréal, Canada.
 * 2001-2004	BA (Hons) Photography. 1st class honors. Manchester School of Art, Manchester, UK
@@ -60,7 +60,8 @@ Selection of Group Exhibitions (Hillside Projects)
 
 Presentations and performances
 
-* 2021 Projekt Skåneleden Konst - In Motion, Regionmuseet Skåner, 2-hour performative walk. Curated by Sara Rossling
+* 2022 The Scavenger Collapse, performance Galleri Verkligheten, Umeå
+* 2021 Projekt Skåneleden Konst - In Motion, Regionmuseet Skåne, 2-hour performative walk. Curated by Sara Rossling
 * 2021 Projekt Skåneleden Konst - In Motion, Regionsmuseet Skåne, 3-hour performative walk. Curated by Sara Rossling
 * 2020 Ambedkar University, Delhi, India, Fine Arts Department, Lecture performance
 * 2019 Galleri 54, Gothenburg, panel discussion moderated by Mikael Olofsson
@@ -80,6 +81,7 @@ Screenings:
 
 Residencies (Hillside Projects)
 
+* 2022 RISK(U), Nordic Art Association, Stockholm (together with Editorial Bo(a)rd
 * 2021 SEA Foundation, Tilburg, Netherlands
 * 2021 König Natural History Museum, Bonn
 * 2020 Box Autumn Studio Bohuslän. An artist residency arranged by Galleri Box in collaboration with KKV Bohuslän & Gerleborgsskolan Bohuslän
@@ -92,24 +94,22 @@ Residencies (Hillside Projects)
 
 Grants
 
-* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
-* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern)
-* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
-* 2021 IASPIS (Swedish Arts Grants Committee) Crisis grant (Böttern)
-* 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Berry Mennerdahl)
-* 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Böttern)
-* 2020 IASPIS (Swedish Arts Grants Committee) Crisis grant (Berry Mennerdahl)
-* 2020 IASPIS (Swedish Arts Grants Committee) Crisis grant (Böttern)
+* 2022 IASPIS internationellt kulturutbyte (Berry Mennerdahl)
+* 2022 IASPIS kriststipendie (Böttern & Berry Mennerdahl)
+* 2021 Ateljéstöd Stockholm Stad (Böttern & Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern & Berry Mennerdahl)
+* 2021 IASPIS (Swedish Arts Grants Committee) Krisstipendie (Böttern & Berry Mennerdahl)
+* 2020 Emil Bergs fond, Konstakademin (The Royal Academy of Fine Arts), travel grant (Böttern & Berry Mennerdahl)
+* 2020 IASPIS (Swedish Arts Grants Committee) Krisstipendie (Böttern & Berry Mennerdahl)
 * 2020 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange grant (Berry Mennerdahl)
-* 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Berry Mennerdahl)
-* 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern)
+* 2019 IASPIS (Swedish Arts Grants Committee) One-year working grant (Böttern & Berry Mennerdahl)
 * 2019 IASPIS (Swedish Arts Grants Committee) International Cultural Exchange grant (Böttern)
 * 2019 Helge Ax:sson Johnsons Stiftelse (Berry Mennerdahl)
 * 2019 Längmanska Kulturstiftelsen (Böttern)
 * 2018 Helge Ax:sson Johnsons Stiftelse (Berry Mennerdahl)
 * 2016	Main grant holder for the Principles Scholarship, Konstfack, Stiftelsen Den Nordiska Första S:t Johannislogens Jubelfond (Böttern)
 * 2015		Ulla Fröberg Cramérs Stipendiestiftelse(Böttern)
-* 2013		Ateljstöd (3 years), Stockholm Stad (Mennerdahl)
+* 2013		Ateljéstöd (3 years), Stockholm Stad (Mennerdahl)
 * 2013		IASPIS (The Swedish Arts Council travel grant)
 * 2013		Project grant, Lunds Kommun
 * 2011		Helge Ax:sson Johnssons Stiftelse. Travel and production grant
