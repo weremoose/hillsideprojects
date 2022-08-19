@@ -4,7 +4,7 @@ author: hillsideprojects
 title: Searching for the European Roller, 2019-2020
 details: Performance with slide projector and sound, 25 min.
 featured: false
-image: /images/searching_for_the_european_roller_2019_01.jpg
+image: /images/hillside_projects_news_space52.jpg
 slider:
   - slide_url: /images/searching_for_the_european_roller_2019_01.jpg
   - slide_url: /images/searching_for_the_european_roller_2019_02.jpg
