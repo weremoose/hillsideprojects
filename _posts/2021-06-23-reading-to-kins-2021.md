@@ -19,18 +19,16 @@ slider:
   - image: ""
     slide_url: /images/reading_to_kins_08.jpg
 ---
-In *Reading, to Kins* Jonas from Hillside Projects reads Arundhati Roy’s article *We Are Witnessing a Crime Against Humanity* to a committee of Indian vultures in the zoological archives at König Museum in Bonn 12 May 2021. Roy’s article was published in The Guardian 28 April, 2021. The text is read from beginning to end with no pause.
+*Reading, to Kins* is a performance for the dead. Painful swelling, inflammation and kidney failure. Millions of vultures in India have died this way, unintentionally poisoned with Diclofenac, a painkiller used by farmers to keep cattle working harder and longer, and to increase milk production.
 
-*Reading, To Kins* (2021) is a performance for the Dying and the Dead. Raspy, drawn-out hissing sounds along with grunting noises slowly fall silent. Painful swelling, inflammation and kidney failure. Millions of vultures in India have died this way, unintentionally poisoned with Diclofenac, a painkiller used to calm pain and increase the production of milk. For more than one hundred million years, vultures have been the custodians of the dead, living in a sympatric relationship with humans, each benefiting from each other’s interactions and doings. This performance takes place within the vulture collection at The Alexander Koenig Zoological Research Museum in Bonn (DE). With the intention of including the vultures in a conversation about the ongoings on their land (India), the recently published article We Are Witnessing a Crime Against Humanity by Arundhati Roy and published in The Guardian (29 April, 2021), is read to a wake of birds. Roy’s article speaks of the current Covid and political situation in India, spring 2021.
+Compared to the 1980s, India’s vulture population has decreased by 95%, leaving an ecological void impossible to fill.
 
-This work is commissioned by Sibylle Feucht at Das Esszimmer - Raum fur Kunst Bonn and here installed at Röda Sten Konsthall as part of the exhibition *dhak dhak ho-hum ah eekff iii ie* curated by Amila Puzić & Mia Christersdotter Norman. This work was made possible with generous support from Helge Ax:son Johnsons, Konstakademin, IASPIS, König Museum and Clark House Initiative. Thank you to Saviya Lopez, Yogesh Barve, Tushar Parab and Dr. Töpfner.
-
-
+*Reading, to Kins* was performed within the Indian vulture collection at The Alexander Koenig Zoological Research Museum in Bonn (DE). With the intention of including the vultures in the conversation about their demise and the ongoings on their land, Jonas from Hillside Projects read the article *We Are Witnessing a Crime Against Humanity* by Arundhati Roy to a committee of taxidermied vultures. Roy’s text speaks of the political situation and the Covid pandemic in India during the spring of 2021. The text was read from beginning to end with no pause.
 
 Credits:
 
-Translation of Roy's text from English to Swedish: Anna Tebelius
+Translation of Arundhati Roy’s text from English to Swedish: Anna Tebelius\
+Videographer: Robin Deutschbein\
+Edit: Hillside Projects
 
 Sound: Jonas Holmer
-
-Photo documentation: Hendrik Zeitler
