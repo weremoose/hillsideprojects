@@ -4,11 +4,35 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+**August - 2022**
+
+*Deras lyckligaste dagar var de mörka och vidsträckta dagarna med regn* at Mörby gård konst, curated by Camilla Larsson and in the great company of fellow artists Simon Blanck, Nisrine Boukhari, Leig Elggren, Ida Idaida, Barbara Kozlowska, Eva Mag, Astrid Svangren, Lotta Törnroth.
+
+As part of this exhibition we lead two participatory walks in the beautiful landscape surrounding Mörby gård konst as well as exhibiting our book *Again and Again We Ask These Questions.* Please join us on the opening and finissage for a 2-hour walk.
+
+<https://www.morbygardkonst.se/project/sommarens-utstaellning/>
+
+<https://www.morbygardkonst.se/literary-undercurrents-around-ornoe-island/>
+
+![](/images/1_morbygardkonst_flyer_2022.jpeg)
+
+
+
+
+
 **June - 2022**
 
 Super happy to be part of the exhibition *dhak dhak ho-hum ah eekff iii ie* at Röda Sten Konsthall, curated by Amila Puzić & Mia Christersdotter Norman and together with artists Arijit Bhattacharyya and Julia Schuster. We have been commissioned to create three new site-specific works as well as three new installations of previous and ongoing works!
 
 The exhibition will be up and running until 14 August and we will be presenting our performance *Searching for the European Roller* and an artist talk on the openingas well as a listening session on the finissage for our newly released record *Can I Become a Vinyl When I Die*, 2022
+
+[Röda Sten Konsthall](<https://www.rodasten.com/rs_events/view/HillsideProjects/?lang=se>)
+
+[Film about the exhibition]([<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)) [](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)
+
+[Catalogue](https://issuu.com/rodastenkonsthall/docs/utst_llningskatalog_dhakdhak_eng_05e5a9364773fa)
+
+
 
 ![](/images/news_röda_sten_konsthall.jpg)
 
