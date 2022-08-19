@@ -4,7 +4,7 @@ author: hillsideprojects
 title: Again and Again We Ask These Questions (video), 2019
 details: HD-video, 16:9, 07:28 minutes, English, colour
 featured: false
-image: /images/again_video_01.jpg
+image: /images/again_video_04.jpg
 slider:
   - slide_url: /images/again_video_01.jpg
   - slide_url: /images/again_video_02.jpg
