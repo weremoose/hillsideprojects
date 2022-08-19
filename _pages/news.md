@@ -28,7 +28,7 @@ The exhibition will be up and running until 14 August and we will be presenting 
 
 [Röda Sten Konsthall](<https://www.rodasten.com/rs_events/view/HillsideProjects/?lang=se>)
 
-[Film about the exhibition]([<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)) [](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)
+[Film about the exhibition](https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491) [](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)
 
 [Catalogue](https://issuu.com/rodastenkonsthall/docs/utst_llningskatalog_dhakdhak_eng_05e5a9364773fa)
 
