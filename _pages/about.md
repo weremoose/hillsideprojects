@@ -12,11 +12,7 @@ Hillside Projects tell stories. Stories about birds. Colourful birds on the brin
 
 Hillside Projects explore translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. Hillside Projects reflect on the need for materiality or a dispense with materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
-
-
 \-Stockholm, March, 2022
-
-
 
 Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) - The Art Film and Video Archive and [Vidéograph](https://www.videographe.org/en/)e Montréal. They are members of [ID:I Galleri ](http://idigalleri.org/)in Stockholm and Böttern is a board member of[ NKF](http://www.nkfsweden.org/information/about-nordic-art-association) (Nordic Art Association) and[ RISK(U)](https://www.nkfsweden.org/project-name/risku). They have taken part in artist residencies such at Clark House Initiative-Mumbai, Box Autumn Studios at Galleri Box-Gothenburg, Banff Centre Canada, TCG Nordica Kunming-China as well as shown their works in exhibitions and screenings such at Dazibao Montréal, Galleri54 Gothenburg, Oberhausen Film Festival Germany, Bonniers Konsthall etc. They have been awarded grants from the Swedish Arts Council, Konstakademin as well as private stipends.
 
@@ -32,6 +28,6 @@ Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-![](/images/hillside.jpeg)
+![](/images/about_hillside_projects.jpg)
 
 [](/cv.html)
