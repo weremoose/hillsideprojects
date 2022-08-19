@@ -4,6 +4,14 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+**June - 2022**
+
+Super happy to be part of the exhibition *dhak dhak ho-hum ah eekff iii ie* at Röda Sten Konsthall, curated by Amila Puzić & Mia Christersdotter Norman and together with artists Arijit Bhattacharyya and Julia Schuster. We have been commissioned to create three new site-specific works as well as three new installations of previous and ongoing works!
+
+The exhibition will be up and running until 14 August and we will be presenting our performance *Searching for the European Roller* and an artist talk on the openingas well as a listening session on the finissage for our newly released record *Can I Become a Vinyl When I Die*, 2022
+
+![](/images/news_röda_sten_konsthall.jpg)
+
 \--------------------------------------------------------------------------------
 
 **January - 2022**
@@ -12,17 +20,9 @@ exclude: false
 
 ![](/images/screenshot-2022-03-26-at-18.30.41.png)
 
-
-
-
-
 **\#** A Toxic Relationship - a solo show at Galleri Verkligheten in Umeå, Sweden.
 
 ![](/images/web-site.jpg)
-
-
-
-
 
 **September - 2021**
 
