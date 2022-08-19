@@ -34,7 +34,8 @@ Solo Exhibitions (Hillside Projects)
 
 Selection of Group Exhibitions (Hillside Projects)
 
-* 2022 Mörby Gård Skulpturpark curated by Camilla Larsson
+* 2022 *Deras lyckligaste dagar var de mörka och vidsträckta dagarna med regn,* Mörby gård konst, curated by Camilla Larsson
+* 2022 *dhak dhak ho-hum ah eekff iii ie*, Röda Sten Konsthall, Gothenburg. Curated by Amila Puzić & Mia Christersdotter Norman
 * 2021 Supermarket, Stockholm
 * 2021 Tracing Traces, Rosalux, Berlin
 * 2020 Platform Projects, Athens 
@@ -60,7 +61,11 @@ Selection of Group Exhibitions (Hillside Projects)
 
 Presentations and performances
 
-* 2022 The Scavenger Collapse, performance Galleri Verkligheten, Umeå
+* 2022 *Från äng till hav till kulle till hav vi gick*, participatory walk, Mörby gård konst
+* 2022 *Can I Become a Vinyl When I Die*, listening session, Röda Sten konsthall, Gothenburg
+* 2022 *Searching for the European Roller*, performance, Röda Sten konsthall, Gothenburg
+* 2022 Artist talk with Amila Puzić & Mia Christersdotter Norman, Röda Sten konsthall, Gothenburg
+*  2022 The Scavenger Collapse, performance Galleri Verkligheten, Umeå
 * 2021 Projekt Skåneleden Konst - In Motion, Regionmuseet Skåne, 2-hour performative walk. Curated by Sara Rossling
 * 2021 Projekt Skåneleden Konst - In Motion, Regionsmuseet Skåne, 3-hour performative walk. Curated by Sara Rossling
 * 2020 Ambedkar University, Delhi, India, Fine Arts Department, Lecture performance
