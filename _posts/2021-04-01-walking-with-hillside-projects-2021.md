@@ -4,7 +4,7 @@ author: hillsideprojects
 title: Walking With Hillside Projects, 2021
 details: Performative walk with Hillside Projects, 2021
 featured: true
-image: /images/walking_with_hillside_projects_01.jpg
+image: /images/hillside_projects_news_performative_walk.jpg
 slider:
   - image: ""
     slide_url: /images/walking_with_hillside_projects_01.jpg
