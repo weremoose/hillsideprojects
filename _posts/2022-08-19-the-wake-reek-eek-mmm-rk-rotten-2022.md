@@ -4,7 +4,7 @@ author: hillsideprojects
 title: The Wake & Reek eek mmm rk rotten, 2022
 details: 9-channel sound installation and vinyl on windows
 featured: false
-image: /images/the_wake_02.jpg
+image: /images/the_wake_01.jpg
 slider:
   - image: ""
     slide_url: /images/the_wake_01.jpg
