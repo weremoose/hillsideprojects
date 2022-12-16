@@ -4,6 +4,36 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+
+
+**D﻿ecember 2022**
+
+W﻿e are the happy and honoured recipients of a grant from Anna Kockums fond presented to us from Malmö konstmuseum.This grant will enable us to really explore and research what walking can be and become as a collective act that is art. In 2023 we will be walking along Österlenleden in the South of Sweden. 
+
+T﻿hank you to Sara Rossling (Skåneleden Konst - Art in Motion) and Camilla Larsson (Mörby gård konst) for in separate previous instances encouraging us and supporting us in exploring collective performative and participatory walking with large groups. 
+
+<https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2022-12-16-2022-ars-stipendiater-ur-Anna-Kockums-fond-presenteras.html>
+
+
+
+**D﻿ecember 2022**
+
+P﻿articipating in this exciting day of presentations at UQAM in Montréal and in dialogue with Frédérique Laliberté about our video work at *Searching for the European Roller*, 2017. The video will also be screened. Very excited about this!
+
+![](/images/labdoc_éco_prog.jpg)
+
+**A﻿utumn - 2022**
+
+S﻿o very  happy to have received funding from **Globus Upstart - Nordisk kulturfond** and **Kulturrådet** to develop our project **DEMOCRACY - THE ENDANGERED BIRD** in collaboration with Clark House Initiative Mumbai.
+
+ DEMOCRACY - THE ENDANGERED BIRD is an ambulating program with presentations and performances with the artists **Saviya Lopes, Yogesh Barve, Amol K. Patil** and **Arijit Bhattacharyya** in Stockholm September 2023. 
+
+More info will come!!!!! 
+
+This project has been in the making of our minds for many years!
+
+
+
 **August - 2022**
 
 *Deras lyckligaste dagar var de mörka och vidsträckta dagarna med regn* at Mörby gård konst, curated by Camilla Larsson and in the great company of fellow artists Simon Blanck, Nisrine Boukhari, Leig Elggren, Ida Idaida, Barbara Kozlowska, Eva Mag, Astrid Svangren, Lotta Törnroth.
@@ -16,23 +46,17 @@ As part of this exhibition we lead two participatory walks in the beautiful land
 
 ![](/images/1_morbygardkonst_flyer_2022.jpeg)
 
-
-
-
-
 **June - 2022**
 
 Super happy to be part of the exhibition *dhak dhak ho-hum ah eekff iii ie* at Röda Sten Konsthall, curated by Amila Puzić & Mia Christersdotter Norman and together with artists Arijit Bhattacharyya and Julia Schuster. We have been commissioned to create three new site-specific works as well as three new installations of previous and ongoing works!
 
 The exhibition will be up and running until 14 August and we will be presenting our performance *Searching for the European Roller* and an artist talk on the openingas well as a listening session on the finissage for our newly released record *Can I Become a Vinyl When I Die*, 2022
 
-[Röda Sten Konsthall](<https://www.rodasten.com/rs_events/view/HillsideProjects/?lang=se>)
+[Röda Sten Konsthall](https://www.rodasten.com/rs_events/view/HillsideProjects/?lang=se)
 
-[Film about the exhibition](https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491) [](<https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491>)
+[Film about the exhibition](https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491) [](https://vimeo.com/722449596?embedded=true&source=vimeo_logo&owner=16742491)
 
 [Catalogue](https://issuu.com/rodastenkonsthall/docs/utst_llningskatalog_dhakdhak_eng_05e5a9364773fa)
-
-
 
 ![](/images/news_röda_sten_konsthall.jpg)
 
