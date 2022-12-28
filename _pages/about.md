@@ -16,8 +16,6 @@ Hillside Projects explore translation. Translating one matter into another. Tran
 
 Hillside Projects thrive from collaboration, not only within their own entity but also with others. Hillside Projects are not activists but actively explore states of uncertainty and impermanence alongside the absurdities and contradictions of life. Hillside Projects consider how they move in this world, what they bring into it, and why and how.
 
-
-
 \-﻿Emily Berry Mennerdahl & Jonas Böttern, Stockholm December 2022
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
@@ -29,17 +27,9 @@ Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com
 
 [Hillside Projects CV](/cv.html)
 
+**Emily Berry Mennerdahl**, born in 1980, holds an MFA in Studio Arts from Concordia University, Montréal (2009) and a B.A. (Hons) in Photography from Manchester Metropolitan University, U.K. (2004). Since returning to Sweden, she has participated in the Independent Study Programme at Valand Art Academy, Gothenburg (2009) and The Photographic Artist Book Postgraduate Course at The Royal Institute of Art Stockholm (2018). Berry Mennerdahl has taken part in residencies, screenings and exhibitions in, amongst other places, The Banff Centre, Articule Montréal, Excentris Montréal, Botkyrka Konsthall, and Urbis Centre. Berry Mennerdahl was a research assistant at Hexagram -Media Arts at Concordia University and has worked as a visiting associate lecturer in Photography at Manchester School of Art, MMU, England and occasionally teaches the course Post Mejan at The Royal Institute of Art Stockholm. She also works as a translator in the Arts and Culture Sector.
 
-
-**Emily Berry Mennerdahl**, born 1980, holds an MFA in Studio Arts from Concordia University, Montréal (2009) and a BA (Hons) Photography from Manchester Metropolitan University, U.K (2004). Since returning to Sweden she has taken part in the Independent Study Programme at Valand Art Academy, Gothenburg (2009) and The Photographic Artist Book Postgraduate Course at The Royal Institute of Art Stockholm (2018). Berry Mennerdahl has taken part in residencies, screenings and exhibitions in amongst other places The Banff Centre, Articule Montréal, Excentris Montréal, Botkyrka Konsthall, Urbis Centre. Berry Mennerdahl was previously a research assistant at Hexagram -Media Arts at Concordia University and has worked as a visiting associate lecturer in Photography at Manchester School of Art, MMU, England and occasionally teaches the course PostMejan at The Royal Institute of Art Stockholm. She also works as a translator in the Arts and Culture Sector.
-
-- - -
-
-**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Böttern as awarded the honorouble Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Traveling has always played a significant role in his artist practice and continues to do so. Jonas is a board member of **[NKF](http://nkfsweden.org/)** (The Nordic Art Association) in Stockholm. In 2022, Böttern completed the postgraduate course The Photographic Artist Book - Performing Sustainability at The Royal Institute of Art in Stockholm as well as 
-
-
-
-currently, 2021-2022, enrolled in the postgraduate course The Photographic Artist Book: Performing Sustainability at The Royal Institute of Art in Stockholm. 
+**Jonas Böttern**, born in 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation from Konstfack, Böttern was awarded the honourable Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Before his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artistic practice and continues to do so. In 2022, Böttern completed the postgraduate course The Photographic Artist Book - Performing Sustainability at The Royal Institute of Art in Stockholm and Sound in Interaction: Sound Art, Sound Architecture and Sound Design at Konstfack, Stockholm.
 
 ![](/images/hillside_projects_news_performative_walk.jpg)
 
