@@ -18,6 +18,8 @@ B﻿elow image is from a participatory walk at Mörby Gård konst held during th
 
 
 
+
+
 **D﻿ecember 2022**
 
 P﻿articipating in this exciting day of presentations at UQAM in Montréal and in dialogue with Frédérique Laliberté about our video work at *Searching for the European Roller*, 2017. The video will also be screened. Very excited about this!
