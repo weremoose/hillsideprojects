@@ -4,7 +4,7 @@ title: We
 details: "         "
 exclude: false
 ---
-Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, our work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. We approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
+Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, our work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
 
 Hillside Projects’ works are manifested as text, video, painting, sound, and large site-specific installations. Performance lies at the core of their practice, explored through performative walks, lecture performances and time-based presentations. When a work does not involve a performance, it most likely involves a performative gesture in its making. 
 
@@ -35,7 +35,11 @@ Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com
 
 - - -
 
-**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Böttern as awarded the honorouble Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Traveling has always played a significant role in his artist practice and continues to do so. Jonas is a board member of **[NKF](http://nkfsweden.org/)** (The Nordic Art Association) in Stockholm. Böttern ic currently, 2021-2022, enrolled in the postgraduate course The Photographic Artist Book: Performing Sustainability at The Royal Institute of Art in Stockholm. 
+**Jonas Böttern**, born 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation at Konstfack Böttern as awarded the honorouble Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Prior to his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Traveling has always played a significant role in his artist practice and continues to do so. Jonas is a board member of **[NKF](http://nkfsweden.org/)** (The Nordic Art Association) in Stockholm. In 2022, Böttern completed the postgraduate course The Photographic Artist Book - Performing Sustainability at The Royal Institute of Art in Stockholm as well as 
+
+
+
+currently, 2021-2022, enrolled in the postgraduate course The Photographic Artist Book: Performing Sustainability at The Royal Institute of Art in Stockholm. 
 
 ![](/images/hillside_projects_news_performative_walk.jpg)
 
