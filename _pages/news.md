@@ -4,8 +4,6 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
-
-
 **D﻿ecember 2022**
 
 W﻿e are the happy and honoured recipients of a grant from Anna Kockums fond presented to us from Malmö konstmuseum.This grant will enable us to really explore and research what walking can be and become as a collective act that is art. In 2023 we will be walking along Österlenleden in the South of Sweden. 
@@ -13,6 +11,10 @@ W﻿e are the happy and honoured recipients of a grant from Anna Kockums fond pr
 T﻿hank you to Sara Rossling (Skåneleden Konst - Art in Motion) and Camilla Larsson (Mörby gård konst) for in separate previous instances encouraging us and supporting us in exploring collective performative and participatory walking with large groups. 
 
 <https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2022-12-16-2022-ars-stipendiater-ur-Anna-Kockums-fond-presenteras.html>
+
+B﻿elow image is from a participatory walk at Mörby Gård konst held during the summer 2022.
+
+![](/images/news_hillside_projects_walking.jpeg)
 
 
 
@@ -31,8 +33,6 @@ S﻿o very  happy to have received funding from **Globus Upstart - Nordisk kultu
 More info will come!!!!! 
 
 This project has been in the making of our minds for many years!
-
-
 
 **August - 2022**
 
