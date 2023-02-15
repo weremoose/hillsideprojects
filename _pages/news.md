@@ -6,7 +6,7 @@ exclude: false
 ---
 **J﻿anuary 2023**
 
-During six weeks in January and February, Projects will be participating in the PhtotKTM 5 Residency at Jatayu Vulture Restaurant in Kawasoti, Nepal. 
+During six weeks in January and February, Hillside Projects will be participating in the **PhtotKTM 5 Residency** at **Jatayu Vulture Restaurant** in Kawasoti, Nepal.
 
 <https://photoktm.com/>
 
@@ -18,7 +18,9 @@ During six weeks in January and February, Projects will be participating in the 
 
 *PhotoKTM invites one lens based artist and one educator to spend 4 weeks in Kawasoti learning about vultures, community managed conservation models, resilience, loss and possibilities of regeneration at large. We invite applications from both individual artists as well as artist-educator duos. Participants can work independently but are highly encouraged to work collaboratively. The residency is designed to be a research residency and participants are not required to produce new work, but are welcome to share their findings and process during the opening week of PhotoKTM from 24 Feb – 2 March if they choose to do so. The residency will start in Kathmandu on 18th Jan 2023  where participants can settle in and prepare for 3-4 days, move to Kawasoti for 4 weeks and return to Kathmandu leading up to the opening week of PhotoKTM.*
 
-![](/images/news_listening_to_kins.jpeg)
+B﻿elow is a video still from video in the making *Listening, to Kins,* 2023
+
+![Video still from ](/images/news_listening_to_kins.jpeg)
 
 
 
