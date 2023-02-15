@@ -5,7 +5,7 @@ title: Searching for the European Roller, 2017
 details: Video, table, drawings on found map, LED-sign, drawings on white-board
   and lecture performance.
 featured: false
-image: /images/searching_for_the_european_roller_2017_03.jpg
+image: /images/searching_for_the_european_roller_2017_05.jpg
 slider:
   - slide_url: /images/searching_for_the_european_roller_2017_01.jpg
   - slide_url: /images/searching_for_the_european_roller_2017_02.jpg
