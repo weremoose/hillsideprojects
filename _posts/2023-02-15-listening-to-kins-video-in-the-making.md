@@ -17,4 +17,4 @@ slider:
 \
 This work is based on a previous ambulating lecture performance where Hillside Projects conducted a presentation with the aid of a cassette player, sandwich, drawings and found photographs for small groups in their offices, over zoom online and in homes.\
 \
-The video *The Scavenger Collapse* is made with the generous support through a project grant from Konstnärsnämnden (The Swedish Arts Grants Committee).
+*The Scavenger Collapse* is made with the generous support through a project grant from Konstnärsnämnden (The Swedish Arts Grants Committee).
