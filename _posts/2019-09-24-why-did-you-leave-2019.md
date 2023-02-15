@@ -5,7 +5,7 @@ title: Why Did You Leave?, 2019
 details: Installation with artist book presented on cardboard table, map on
   fabric, artist book and plinth.
 featured: false
-image: /images/table_of_migration_04.jpg
+image: /images/why_did_you_leave_54_01.jpg
 slider:
   - slide_url: /images/why_did_you_leave_54_01.jpg
   - slide_url: /images/why_did_you_leave_54_02.jpg
