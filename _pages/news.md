@@ -4,6 +4,28 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+**J﻿anuary 2023**
+
+During six weeks in January and February, Projects will be participating in the PhtotKTM 5 Residency at Jatayu Vulture Restaurant in Kawasoti, Nepal. 
+
+<https://photoktm.com/>
+
+<https://photoktm.com/custodians-of-the-dead/>
+
+*PhotoKTM in collaboration with Jatayu Vulture Restaurant and [Bird Conservation Nepal (BCN)](https://www.birdlifenepal.org/) is pleased to invite lens based artists and educators for a 6-week residency based in Kawasoti, Nawalparasi.*
+
+*Jatayu Vulture Restaurant is a community managed vulture restaurant. It is located in Kawasoti in Nawalparasi district in the buffer zone area of Chitwan National Park and was established in 2006. The estimated vulture population in Nepal in the 1980s was over one million. In the early 2000s, it was drastically down to around 20,000. Nine species of vultures are found in Nepal, among which four species – the white-rumped vulture, slender-billed vulture, red-headed vulture and Indian vulture – are listed as critically endangered, and others as highly threatened. The drastic decrease has been mainly attributed to the use of diclofenac which is used to treat animal disease. The Government of Nepal banned the use of diclofenac in 2006. The same year, Dhan Bahadur Chaudhary, a Kawasoti local, responded to the critical situation by establishing the first vulture restaurant and named it Jatayu Restaurant. This effort was supported by an organization called Bird Conservation Nepal (BCN). Jatayu buys old cattle such as cows and other livestock which have become an economic burden for the farmers and takes care of them until they die of natural causes. Then the carcass is fed to the vultures. The number of white-rumped vultures have significantly increased since 2014, largely thanks to Jatayu’s efforts. Learn more about Jatayu [here](https://photoktm.com/wp-content/uploads/2022/12/vulture_restaurants_of_nepal_brochure.pdf).*
+
+*PhotoKTM invites one lens based artist and one educator to spend 4 weeks in Kawasoti learning about vultures, community managed conservation models, resilience, loss and possibilities of regeneration at large. We invite applications from both individual artists as well as artist-educator duos. Participants can work independently but are highly encouraged to work collaboratively. The residency is designed to be a research residency and participants are not required to produce new work, but are welcome to share their findings and process during the opening week of PhotoKTM from 24 Feb – 2 March if they choose to do so. The residency will start in Kathmandu on 18th Jan 2023  where participants can settle in and prepare for 3-4 days, move to Kawasoti for 4 weeks and return to Kathmandu leading up to the opening week of PhotoKTM.*
+
+![](/images/news_listening_to_kins.jpeg)
+
+
+
+
+
+
+
 **D﻿ecember 2022**
 
 W﻿e are the happy and honoured recipients of a grant from Anna Kockums fond presented to us from Malmö konstmuseum.This grant will enable us to really explore and research what walking can be and become as a collective act that is art. In 2023 we will be walking along Österlenleden in the South of Sweden. 
@@ -15,10 +37,6 @@ T﻿hank you to Sara Rossling (Skåneleden Konst - Art in Motion) and Camilla La
 B﻿elow image is from a participatory walk at Mörby Gård konst held during the summer 2022.
 
 ![](/images/news_hillside_projects_walking.jpeg)
-
-
-
-
 
 **D﻿ecember 2022**
 
