@@ -4,9 +4,15 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+**F﻿ebruary 2023**
+
+Hillside Projects' video *Searching for the European Roller* is part of the festival [**PhotoKTM 5** ](https://photoktm.com/)in Kathmandu, Nepal organised by photo.circle and curated by the team Shristi Shrestha, Diwas Raja Kc, Prasiit Sthaoit, Irina Giri and Shikar Bhattarai together with artistic director NayanTara Gurung Kakshapti. 
+
+![](/images/hillside_projects_news_photoktm.png)
+
 **J﻿anuary 2023**
 
-During six weeks in January and February, Hillside Projects will be participating in the **PhtotKTM 5 Residency** at **Jatayu Vulture Restaurant** in Kawasoti, Nepal.
+During six weeks in January and February, Hillside Projects will be participating in the **PhotoKTM 5 Residency** at **Jatayu Vulture Restaurant** in Kawasoti, Nepal.
 
 <https://photoktm.com/>
 
