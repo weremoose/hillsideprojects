@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hillsideprojects
-title: Listening, to Kins, video in the making
+title: The Scavenger Collapse, 2023 (video in the making)
 details: HD video, colour, English with subtitles
 featured: false
 image: /images/the_scavenger_collapse_01.jpg
@@ -10,6 +10,8 @@ slider:
     slide_url: /images/the_scavenger_collapse_02.jpg
   - image: ""
     slide_url: /images/the_scavenger_collapse_03.jpg
+  - image: ""
+    slide_url: /images/the_scavenger_collapse_01.jpg
 ---
 *The Scavenger Collapse* is a video in the making about the endangered vulture in India. Playfully experimenting with the format of a BBC educational video, the video will be narrated by two middle-aged white presenters. The video explores the consequences of a failed symbiosis between humans and more than humans and weaves it together with stories on eating, fascism, hierarchy, and death, as well as Britain's shameful colonisation of India\
 \
