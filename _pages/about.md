@@ -4,7 +4,7 @@ title: About
 details: "         "
 exclude: false
 ---
-Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, our work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
+Hillside Projects is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, their work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
 
 Hillside Projects’ works are manifested as text, video, painting, sound, and large site-specific installations. Performance lies at the core of their practice, explored through performative walks, lecture performances and time-based presentations. When a work does not involve a performance, it most likely involves a performative gesture in its making. 
 
