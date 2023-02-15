@@ -1,10 +1,10 @@
 ---
 layout: post
 author: hillsideprojects
-title: Listening, to Kins
-details: HD video, colour, subtitles, 40:00 min
+title: Listening, to Kins, 2023
+details: HD video, colour, subtitles, 46:46 min
 featured: false
-image: /images/listening_to_kins_05.jpg
+image: /images/listening_to_kins_01.jpg
 slider:
   - image: ""
     slide_url: /images/listening_to_kins_01.jpg
@@ -15,7 +15,7 @@ slider:
   - image: ""
     slide_url: /images/listening_to_kins_04.jpg
   - image: ""
-    slide_url: /images/listening_to_kins_06.jpg
+    slide_url: /images/listening_to_kins_05.jpg
 ---
 *Listening, to Kins* is a performance of listening to 279 vultures. Seated on a chair, one
 member from Hillside Projects actively listens to a wake of vultures’ tumultuous feast on a
