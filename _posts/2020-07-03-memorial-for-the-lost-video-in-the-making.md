@@ -4,7 +4,7 @@ author: hillsideprojects
 title: Memorial For The Lost, 2021
 details: HD video, 16:9, 20:11 minutes, English, colour
 featured: false
-image: /images/memorial_02.jpg
+image: /images/memorial_05.jpg
 slider:
   - image: ""
     slide_url: /images/memorial_for_the_lost_02.jpg
