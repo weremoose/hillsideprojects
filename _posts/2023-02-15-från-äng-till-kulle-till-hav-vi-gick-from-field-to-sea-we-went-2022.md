@@ -18,6 +18,8 @@ slider:
     slide_url: /images/fran_ang_till_kulle_05.jpg
   - image: ""
     slide_url: /images/fran_ang_till_kulle_03.jpg
+  - image: ""
+    slide_url: /images/fran_ang_till_hav.04.jpg
 ---
 Since 2020 Hillside Projects have been conducting performance walks with larger and smaller groups of varying ages. This specific walk explores different places in the landscape which unite and separate: field and forest, forest and hill, sea and forest, and forest and field. During the walk, we walked solely yet together, in silence and through conversation. In consideration of 70s land art artists, ephemeral works were created using our bodies, natural pigments, the sun and water. Hillside Projects intend to continue these performance walks, weaving notions from their other works and research with a direct response to the specific landscape in which the walks take place.
 
