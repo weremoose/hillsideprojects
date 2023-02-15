@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We
+title: About
 details: "         "
 exclude: false
 ---
