@@ -34,6 +34,8 @@ Solo Exhibitions (Hillside Projects)
 
 Selection of Group Exhibitions (Hillside Projects)
 
+* 2﻿023 PhotoKTM5, Kathmandu, curated by Shristi Shrestha,Diwas Raja Kc,Prasiit Sthapit,\
+  Irina Giri,Shikhar Bhattarai together with artistic director NayanTara Gurung Kakshapati
 * 2022 *Deras lyckligaste dagar var de mörka och vidsträckta dagarna med regn,* Mörby gård konst, curated by Camilla Larsson
 * 2022 *dhak dhak ho-hum ah eekff iii ie*, Röda Sten Konsthall, Gothenburg. Curated by Amila Puzić & Mia Christersdotter Norman
 * 2021 Supermarket, Stockholm
@@ -61,11 +63,12 @@ Selection of Group Exhibitions (Hillside Projects)
 
 Presentations and performances
 
+* 2﻿023 Artist talk with Frédérique Laliberté part of Ecovideo at UQAM, Montreal
 * 2022 *Från äng till hav till kulle till hav vi gick*, participatory walk, Mörby gård konst
 * 2022 *Can I Become a Vinyl When I Die*, listening session, Röda Sten konsthall, Gothenburg
 * 2022 *Searching for the European Roller*, performance, Röda Sten konsthall, Gothenburg
 * 2022 Artist talk with Amila Puzić & Mia Christersdotter Norman, Röda Sten konsthall, Gothenburg
-*  2022 The Scavenger Collapse, performance Galleri Verkligheten, Umeå
+* 2022 The Scavenger Collapse, performance Galleri Verkligheten, Umeå
 * 2021 Projekt Skåneleden Konst - In Motion, Regionmuseet Skåne, 2-hour performative walk. Curated by Sara Rossling
 * 2021 Projekt Skåneleden Konst - In Motion, Regionsmuseet Skåne, 3-hour performative walk. Curated by Sara Rossling
 * 2020 Ambedkar University, Delhi, India, Fine Arts Department, Lecture performance
@@ -76,6 +79,8 @@ Presentations and performances
 
 Screenings:
 
+* 2﻿022 Searching for the European Roller, screening at Ècovideo, le Labdoc and Videgóraphe at UQAM, Montreal
+* 2c﻿022 Memorial for the lost, screening at Experiments in Cinema 22, Albuquerque
 * 2021 Conversation Between Collection "Animal Love", online screening Filmform & Vidéographe
 * 2019 Bideodromo International experimental film and video festival, Bilbao
 * 2019 FilmForm News at 65th International Short Film Festival Oberhausen
@@ -86,6 +91,7 @@ Screenings:
 
 Residencies (Hillside Projects)
 
+* 2﻿023 PhotoKTM5 at Jatayu vulture restaurant, Kawasoti, Nepal. Organised by photo.circle Nepal
 * 2022 RISK(U), Nordic Art Association, Stockholm (together with Editorial Bo(a)rd
 * 2021 SEA Foundation, Tilburg, Netherlands
 * 2021 König Natural History Museum, Bonn
@@ -99,6 +105,9 @@ Residencies (Hillside Projects)
 
 Grants
 
+* P﻿roject grant from The Swedish Arts Grants Committee (IASPIS)
+* S﻿wedish Art Council (Kulturrådet)
+* 2﻿023 Globus Nordic Culture Point
 * 2022 IASPIS internationellt kulturutbyte (Berry Mennerdahl)
 * 2022 IASPIS kriststipendie (Böttern & Berry Mennerdahl)
 * 2021 Ateljéstöd Stockholm Stad (Böttern & Berry Mennerdahl)
