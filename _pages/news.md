@@ -4,6 +4,24 @@ title: News
 details: Happenings, exhibitions, presentations, grants and publications.
 exclude: false
 ---
+**A﻿pril**
+
+Hillside Projects just received the lovely news that they will be setting up office for six months at [IASPIS international residency programme](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/) in Stockholm. More info to come!
+
+
+
+**M﻿arch 2023**
+
+H﻿illside Projects are working on a new video work translating the ambulating lecture performance *The Scavenger Collapse* into a video work with the generous support of a **project grant from**[ **IASPIS** ](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/)(The Swedish Arts Grants Committee).
+
+*"T﻿he Scavenger Collapse" is a performance lecture which departs from the history of the Indian vulture and a failed symbiosis. The story of the vulture is woven together with the many interconnected political layers through stories about food, hierarchies, fascism and death. "* 
+
+![](/images/the_scavenger_collapse.jpg)
+
+V﻿ideo still from *The Scavenger Collapse* (working title)
+
+
+
 **F﻿ebruary 2023**
 
 Hillside Projects' video *Searching for the European Roller* is part of the festival [**PhotoKTM 5** ](https://photoktm.com/)in Kathmandu, Nepal organised by photo.circle and curated by the team Shristi Shrestha, Diwas Raja Kc, Prasiit Sthaoit, Irina Giri and Shikar Bhattarai together with artistic director NayanTara Gurung Kakshapti. 
@@ -27,12 +45,6 @@ During six weeks in January and February, Hillside Projects will be participatin
 B﻿elow is a video still from video in the making *Listening, to Kins,* 2023
 
 ![Video still from ](/images/news_listening_to_kins.jpeg)
-
-
-
-
-
-
 
 **D﻿ecember 2022**
 
