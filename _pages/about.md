@@ -31,6 +31,6 @@ Hillside Projects' videos are distributed by [FilmForm](https://www.filmform.com
 
 **Jonas Böttern**, born in 1977 in Lund, completed his MFA in Fine Arts at Konstfack - University of Arts, Crafts and Design, Stockholm (2016). Upon graduation from Konstfack, Böttern was awarded the honourable Principle Scholarship. Recently (2020), Jonas completed the postgraduate course Art in the Open at Konstfack. Before his studies at Konstfack, Böttern has participated in artist residencies in China and India and is self-taught with a background in painting and drawing. Travelling has always played a significant role in his artistic practice and continues to do so. In 2022, Böttern completed the postgraduate course The Photographic Artist Book - Performing Sustainability at The Royal Institute of Art in Stockholm and Sound in Interaction: Sound Art, Sound Architecture and Sound Design at Konstfack, Stockholm.
 
-![](/images/hillside_projects_news_performative_walk.jpg)
+![](/images/news_hillsideprojects.jpg)
 
 [](/cv.html)
