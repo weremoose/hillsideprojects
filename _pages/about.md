@@ -16,7 +16,7 @@ HP tells stories. Stories of ecological collapses and failed symbiosis. Stories 
 
 HP explores translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. And movement into solidness. Hillside Projects reflect on the need for materiality or a dispense with materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
-HP thrives from collaboration, not only within their own entity but also with others. Hillside Projects are not activists but actively explore states of uncertainty and impermanence alongside the absurdities and contradictions of life. Hillside Projects consider how they move in this world, what they bring into it, and why and how.
+HP thrives from collaboration, not only within their own entity but also with others. Hillside Projects are not activists but actively explore states of uncertainty and impermanence alongside the absurdities and contradictions of life. Hillside Projects consider how they move in this world, what they bring into it, and why and how. 
 
 \-﻿Emily Berry Mennerdahl & Jonas Böttern, Stockholm December 2022
 
