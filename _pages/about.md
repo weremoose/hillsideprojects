@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: HILLSIDE PROJECTS (HP)
 details: "         "
 exclude: false
 ---
 ![](/images/test.jpg)
 
-HP (Hillside Projects) is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, their work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
+HP is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, their work explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. Hillside Projects approach their subject matter by embracing the absurd, the comedic, and the tragic. Hillside Projects question who should be saved and why? 
 
 HP’s works are manifested as text, video, painting, sound, and large site-specific installations. Performance lies at the core of their practice, explored through performative walks, lecture performances and time-based presentations. When a work does not involve a performance, it most likely involves a performative gesture in its making. 
 
@@ -16,7 +16,7 @@ HP tells stories. Stories of ecological collapses and failed symbiosis. Stories 
 
 HP explores translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. And movement into solidness. Hillside Projects reflect on the need for materiality or a dispense with materiality. Hillside Projects try to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
-HP thrive from collaboration, not only within their own entity but also with others. Hillside Projects are not activists but actively explore states of uncertainty and impermanence alongside the absurdities and contradictions of life. Hillside Projects consider how they move in this world, what they bring into it, and why and how.
+HP thrives from collaboration, not only within their own entity but also with others. Hillside Projects are not activists but actively explore states of uncertainty and impermanence alongside the absurdities and contradictions of life. Hillside Projects consider how they move in this world, what they bring into it, and why and how.
 
 \-﻿Emily Berry Mennerdahl & Jonas Böttern, Stockholm December 2022
 
