@@ -16,7 +16,7 @@ HP tells stories. Stories of ecological collapses and failed symbiosis. Stories 
 
 HP explores translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. And movement into solidness. HP reflects on the need for materiality or a dispense with materiality. HP tries to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing. 
 
-HP thrives from collaboration, not only within i own entity but also with others. HP does not take on the role of an activist but does actively explore states of uncertainty and impermanence, alongside the absurdities and contradictions of life. HP considers how it moves in this world, what it brings into it, and why and how. 
+HP thrives from collaboration, not only within its own entity but also with others. HP are not activists but explore they states of uncertainty and impermanence, alongside the absurdities and contradictions of life. HP considers how it moves in this world, what it brings into it, and why and how. 
 
 \-﻿HP, Stockholm, December 2022
 
