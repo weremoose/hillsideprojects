@@ -13,8 +13,8 @@ slider:
   - image: ""
     slide_url: /images/the_scavenger_collapse_01.jpg
 ---
-*The Scavenger Collapse* is a video in the making about the endangered vulture in India. Playfully experimenting with the format of a BBC educational video, the video will be narrated by two middle-aged white presenters. The video explores the consequences of a failed symbiosis between humans and more than humans and weaves it together with stories on eating, fascism, hierarchy, and death, as well as Britain's shameful colonisation of India\
-\
-This work is based on a previous ambulating lecture performance where Hillside Projects conducted a presentation with the aid of a cassette player, sandwich, drawings and found photographs for small groups in their offices, over zoom online and in homes.\
-\
-*The Scavenger Collapse* is made with the generous support through a project grant from Konstnärsnämnden (The Swedish Arts Grants Committee).
+A video in the making that playfully experiments with the format of a BBC educational video to tell the story of a desperate search for something on the verge of disappearing. 
+
+A white man travels southwards to find a bird, but during his voyage, he and the search begin to unravel. Accompanied by an 80s music-inspired soundtrack, a woman in a studio setting tells the story of the search, the bird, the man, and the following collapse. 
+
+*The Scavenger Collapse* is made with the generous support through a project grant from Konstnärsnämnden (The Swedish Arts Grants Committee).
