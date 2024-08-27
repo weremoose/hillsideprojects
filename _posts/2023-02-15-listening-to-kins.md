@@ -17,19 +17,10 @@ slider:
   - image: ""
     slide_url: /images/listening_to_kins_05.jpg
 ---
-*Listening, to Kins* is a performance of listening to 279 vultures. Seated on a chair, one
-member from Hillside Projects actively listens to a wake of vultures’ tumultuous feast on a
-carcass, a macabre yet tender act of eating and being eaten. The performance took place on
-25 January 2023 at Jatayu vulture restaurant in Kawasoti.
+Seated on a chair, a performer from HP listens to 279 vultures eating a dead buffalo carcass. The tumultuous act of eating and of being eaten is transcribed as words that phonetically imitate, resemble, or suggest the sound that they describe. 
 
+The performance took place on 25 January 2023 at Jatayu Vulture Restaurant, a vulture conservation project located in Kawasoti, Nepal. from HP
 
-*Listening, to Kins* explores the act of listening to the vultures as a way to find kinship. The
-sounds from the feast: hissing, kicking and flapping are transcribed into words resulting in
-onomatopoetic* subtitles accompanying the video - a narrative created by the vultures
-themselves.
+T﻿his video was made possible through an artist residency at Jatayu Vulture Restaurant in Kawasoti, organised by photo.circle, a platform for photography based in Kathmandu founded in 2007. The residency was part of PhotoKTM5 and t﻿he video was exhibited in Kathmandu as part of the fifth edition of PhotoKTM curated by NayanTara Gurung Kakshapati, Shristi Shrestha, Diwas Raja Kc, Prasiit Sthapit, Irina Giri, Shikhar Bhattarai.
 
-
-“*Listening in wild places, we are audience to conversations in a language not our own.*” -
-Robin Wall Kimmerer
-
-T﻿his video is being produced through the generous support of and during a residency at PhotoKTM5 at Jatayu vulture restaurant in Kawasoti organised by photo.circle Nepal
+[https://photoktm.com/participants/](https://photoktm.com/)[P﻿hotoKTM5](https://photoktm.com/)
