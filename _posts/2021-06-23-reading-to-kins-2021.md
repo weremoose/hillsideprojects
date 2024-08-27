@@ -21,7 +21,7 @@ slider:
 ---
 Since the 1980s, India's vulture population has decreased by approximately 98%, unintentionally poisoned with Diclofenac, a painkiller used by farmers to keep cattle working harder and longer and increase milk production. 
 
-With the intention of including the vultures in the conversation about their demise and current ongoings on their land, a performer from HP reads the article *We Are Witnessing a Crime Against Humanity* by Arundhati Roy, to a committee of taxidermied vultures part of The Alexander Koenig Zoological Research Museum in Bonn (DE).
+With the intention of including the vultures in the conversation about their demise and current ongoings on their land, a performer from HP reads the article *We Are Witnessing a Crime Against Humanity* by Arundhati Roy, to a committee of taxidermied Indian vultures part of the vulture collection at The Alexander Koenig Zoological Research Museum in Bonn (DE). 
 
 The text was read from beginning to end with no pause. 
 
