@@ -21,4 +21,4 @@ Seated on a chair, a performer from HP listens to 279 vultures eating a dead buf
 
 T﻿his video was made during an artist residency at Jatayu Vulture Restaurant in Kawasoti, organised by photo.circle, a platform for photography based in Kathmandu founded in 2007. “Listening, to Kins” was exhibited in Kathmandu as part of the fifth edition of PhotoKTM curated by NayanTara Gurung Kakshapati, Shristi Shrestha, Diwas Raja Kc, Prasiit Sthapit, Irina Giri, Shikhar Bhattarai.
 
-[https://photoktm.com/participants/](https://photoktm.com/)[P﻿hotoKTM5](https://photoktm.com/)
+<https://photoktm.com/about/>
