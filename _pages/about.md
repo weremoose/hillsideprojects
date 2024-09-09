@@ -6,19 +6,19 @@ exclude: false
 ---
 ![](/images/test.jpg)
 
-HP is Emily Berry Mennerdahl and Jonas Böttern. Situated within a conceptual framework, HP explores tales of disappearances in the natural world and the interrelated socio-political narratives and existential emotions that arise through these tales. HP approaches its subject matter by embracing the absurd, the comedic, and the tragic. HP questions who should be saved and why?  
+HP (Hillside Projects) is a transdisciplinary artistic entity founded in 2011 by Emily Berry Mennerdahl and Jonas Böttern. HP is based in Stockholm, Sweden. 
 
-HP’s works are manifested mainly as text, video, sound, and large site-specific installations. Performance lies at the core, and is explored through performative walks, lecture performances and time-based presentations. When a work does not involve a performance, it most likely involves a performative gesture in it's making. 
+Within a conceptual framework, HP explores the many cycles of life in relation to place alongside the interconnected socio-political narratives that arise through these explorations. HP embraces the absurd and the comedic as intrinsic elements of the tragic. 
 
-HP explores the notion of an audience. An audience in movement, an audience that is not alive, an intimate audience, a large audience, and one that is not present. HP asks what is an audience and what can it be? 
+HP works in performance, video, sound, text, photography and painting. HP thrives from collaborations, not only within its own entity but also with others, and at times, it delves into curatorial spurs and community-based projects. HP considers how it moves in this world, what it brings into it, and why and how.
 
-HP tells stories. Stories of ecological collapses and failed symbiosis. Stories about birds. Colourful birds on the brink of extinction, birds killed in aeroplane crashes, birds that eat the dead. In their making, the bird stories expand into larger narratives. Narratives about the cycles of life, of being eaten and eating, and of dust. We are all stardust.
+HP explores the notion of an audience. An audience in movement, an audience that is not alive, an intimate audience, a large audience, and one that is not present. HP asks what an audience is and what it can be. 
 
-HP explores translation. Translating one matter into another. Translating text into music. And sound into text. Text into text. And movement into solidness. HP reflects on the need for materiality or a dispense with materiality. HP tries to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing. 
+HP tells stories. Stories of place and stories of collapse. The main characters are often birds. Colourful birds on the brink of extinction, birds killed in aeroplane crashes, birds that eat the dead. In their making, these stories expand into larger narratives. Narratives about the life cycles, of being eaten and eating, and of dust. We are all stardust.
 
-HP thrives from collaboration, not only within its own entity but also with others. HP are not activists but explore they states of uncertainty and impermanence, alongside the absurdities and contradictions of life. HP considers how it moves in this world, what it brings into it, and why and how. 
+HP explores translation. Translating one matter into another. Translating text into music. And sound into text. Research into performance. And movement into solidness. HP reflects on the need for materiality or a dispense with materiality. HP aims to make exhibitions that fit into a large suitcase. Unravelling the small into the large. Transforming the ephemeral into something and something into nothing.
 
-\-﻿HP, Stockholm, December 2022
+
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
