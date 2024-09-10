@@ -2,7 +2,8 @@
 layout: post
 author: hillsideprojects
 title: The Scavenger Collapse, 2023 (video in the making)
-details: HD video, colour, English with subtitles
+details: HD-video, colour, English, English subtitles, approx. 17 min video in
+  the making
 featured: false
 image: /images/the_scavenger_collapse_01.jpg
 slider:
@@ -13,8 +14,8 @@ slider:
   - image: ""
     slide_url: /images/the_scavenger_collapse_01.jpg
 ---
-A video in the making that playfully experiments with the format of a BBC educational video to tell the story of a desperate search for something on the verge of disappearing. 
+**The Scavenger Collapse** turns its gaze towards the declining vulture population in India and Nepal as it playfully employs the format of BBC educational videos. Following the original public service broadcasting remit “to inform, educate and entertain,” the video is narrated by a female presenter and male performer. It is accompanied by an 80s style soundtrack. 
 
-A white man travels southwards to find a bird, but during his voyage, he and the search begin to unravel. Accompanied by an 80s music-inspired soundtrack, a woman in a studio setting tells the story of the search, the bird, the man, and the following collapse. 
+This work explores the consequences of a failed symbiosis and weaves it together with stories of tilting democracies and Britain’s (shameful) colonisation of India, as well as turning the gaze on the presenters themselves.
 
-*The Scavenger Collapse* is made with the generous support through a project grant from Konstnärsnämnden (The Swedish Arts Grants Committee).
+Made with generous support from Konstnärsnämnden (The Swedish Arts Grants Committee
