@@ -3,7 +3,6 @@ ruby "2.4.0"
 
 gem "bundler"
 gem "jekyll"
-gem "ruby_executable_hooks"
 gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
