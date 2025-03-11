@@ -23,7 +23,7 @@ HP is taking part in a six-month artist residency at **[IASPIS–International P
 
 **October 2023**
 
-<https://sodas2123.lt/walking-is-still-honest-about-being-and-moving-together/>
+**<https://sodas2123.lt/walking-is-still-honest-about-being-and-moving-together/>**
 
 Hillside Projects is conducting a participatory walk as part of the 3 days symposium “**Walking is still honest**"*: about being and moving together” at Sodas 2123 will host diverse practices on walking and being together. Performative artists and researchers talks will be accompanied by embodied walks and workshops. 
 
@@ -45,7 +45,7 @@ Organizers: Vilnius Academy of Arts, SODAS 2123, LTMKS.
 
 **DEMOCRACY–THE ENDANGERED BIRD** is an ambulating public programme formulated by Hillside Projects (SE) in collaboration with Indian artists and curators Saviya Lopes, Yogesh Barve, Amol K Patil and Arijit Bhattacharyya and in conversation with fellow researcher Amila Puzic. 
 
-The programme is presented in four acts at [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird), [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)and [Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii) throughout the month of September 2023. The project is supported by [The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird) through a month-long residency and funded by the Swedish Arts Council and the Nordic Culture Fund.
+The programme is presented in four acts at** [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird)**,** [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)**and **[Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii)** throughout the month of September 2023. The project is supported by **[The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird)** through a month-long residency and funded by the Swedish Arts Council and the Nordic Culture Fund.
 
 The title of the programme is borrowed from a text by Arijit Battacharyya.
 
@@ -71,7 +71,7 @@ V﻿ideo still from *The Scavenger Collapse* (working title)
 
 **F﻿ebruary 2023**
 
-Hillside Projects' video *Searching for the European Roller* is part of the festival [**PhotoKTM 5** ](https://photoktm.com/)in Kathmandu, Nepal organised by photo.circle and curated by the team Shristi Shrestha, Diwas Raja Kc, Prasiit Sthaoit, Irina Giri and Shikar Bhattarai together with artistic director NayanTara Gurung Kakshapti. 
+Hillside Projects' video *Searching for the European Roller* is part of the festival **[PhotoKTM 5 ](https://photoktm.com/)**in Kathmandu, Nepal organised by photo.circle and curated by the team Shristi Shrestha, Diwas Raja Kc, Prasiit Sthaoit, Irina Giri and Shikar Bhattarai together with artistic director NayanTara Gurung Kakshapti. 
 
 ![](/images/hillside_projects_news_photoktm.png)
 
