@@ -11,6 +11,16 @@ exclude: false
 
 
 
+**N﻿ovember 2023–April 2024**
+
+HP is taking part in a six-month artist residency at **[IASPIS–International Programme for Visual and Applied](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-digital-archive/hillside-projects/)** Arts in Stockholm, Sweden. During the residency HP will investigate and explore who it and its members are in relation to the stories being told and performances being conducted.
+
+![](/images/hillside_projects_iaspis.jpeg)
+
+
+
+
+
 **October 2023**
 
 <https://sodas2123.lt/walking-is-still-honest-about-being-and-moving-together/>
