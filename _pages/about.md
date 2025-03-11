@@ -6,7 +6,11 @@ exclude: false
 ---
 ![](/images/test.jpg)
 
+
+
 HP (Hillside Projects) is an artistic entity. Its members are Emily Berry Mennerdahl & Jonas Böttern. Situated within a conceptual framework, HP investigates the many ways of telling tales with a querying of who should tell them and why. Notions of failure, translation/transformation and failed symbioses are explored and the works take their form as performance lectures, video, walks, sound, text and trans-disciplinary collaborations.
+
+
 
 B﻿IO:
 
