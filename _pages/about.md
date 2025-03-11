@@ -20,6 +20,8 @@ Böttern holds an MFA from [Konstfack–University of Art, Crafts & Design](http
 
 HP’s videos are distributed by [Filmform–The Art Film & Video Archive](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) (SE) and [Vidéographe](https://www.videographe.org/?s=hillside+projects) (CA).
 
+B﻿erry Mennerdahl is a board member of[ NKF (The Nordic Art Association)](https://www.nkfsweden.org/), a non-profit artist residency in Stockholm (SE).
+
 
 
 ![]()
