@@ -7,19 +7,43 @@ exclude: false
 ---
 
 
+
+
+**S﻿eptember 2024**
+
+V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance ***The Ballad of Renoviction:** a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
+
+**<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
+
+
+
+![](/images/post_workers_theatre.png)
+
+P﻿hoto credit: Linus Ericsson & Olivia Löfvander
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+A﻿s part of **Gnistrande skymd**, a public art commission with **ArtPlatform** and **Jönköpings kommun** (Jönköping municipality) HP are conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
+
+**<https://www.instagram.com/ok_kolonilott/p/C_f4WB2MSJ4/>**
+
+**<https://www.osterangenskonsthall.se/>**
+
+![](/images/österängens-konsthall-copy.jpg)
+
+Ö﻿sterängens konsthall, Österängen, Jönköping
+
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+
+
 H﻿P conducts **participatory and performative walks**. One such walk took place in the Kristianstad municipality as part of **Skåneleden–Art in Motion** curated by Sara Rossling. You can read about this project in a recent publication *Offentlig konst–handbok för kommunala beställare* published by **Statens konstråd** (the Public Art Agency Sweden).
 
 **<https://statenskonstrad.se/rapport/offentlig-konst-handbok-for-kommunala-bestallare/>**
 
-**<https://regionmuseet.se/projekt/skaneleden-konst-in-motion/>**
-
 ![](/images/statens_konstråd_hillside_projects.png)
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 **M﻿ay 2024**
 
@@ -86,10 +110,6 @@ HP is taking part in a six-month artist residency at[ **IASPIS–International P
 **<https://sodas2123.lt/walking-is-still-honest-about-being-and-moving-together/>**
 
 Hillside Projects is conducting a participatory walk as part of the 3 days symposium “**Walking is still honest**"*: about being and moving together” at Sodas 2123 will host diverse practices on walking and being together. Performative artists and researchers talks will be accompanied by embodied walks and workshops. 
-
-Participants list:
-
-Matthew Beaumont, Elena Biserna, Andrew Brown, Lucile Bouvard, Ondřej Buddeus, Clementine Butler-Gallie, Francesco Careri, T. Hugh Crawford, James Cunningham, Kipras Dubauskas, Charlie Fox, Balázs Gáspár, Claire Gauzente, General Assn. (Alyssa Grossman and Selena Kimball), Hemen Heidari, Hillside Projects (Emily Berry Mennerdahl and Jonas Böttern), Mari Keski-Korsu, Gustė Kripaitė, Paul Landon, Elina Mikkilä, Karen O’Rourke, Panayotis Panopoulos, Elena Peytchinska, Marina Menéndez-Pidal, Frida Robles Ponce, Ivan Pope, Karl Ingar Røys, Candice Salyers, Sepa Sama & Jumana Hamdani, Nienke Scholts, Todd Shalom, simularr, Meihuizi (Anita) She, Felipe Steinberg, Inga Truskauskaitė, Kamila Wolszczak.
 
 Chief curator: Vitalij Červiakov\
 Curators: Lina Michelkevičė, Vytautas Michelkevičius, Danutė Gambickaitė\
