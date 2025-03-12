@@ -11,7 +11,7 @@ exclude: false
 
 **S﻿eptember 2024**
 
-V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance ***The Ballad of Renoviction**: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
+V﻿ery very delighted to be performing for Post Workers Theatre in their new performance *The Ballad of Renoviction: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at Hägerstensåsens medborgarhus. 
 
 **<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
 
@@ -25,7 +25,7 @@ P﻿hoto credit: Linus Ericsson & Olivia Löfvander
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-A﻿s part of **Gnistrande skymd**, a public art commission with **ArtPlatform** and **Jönköpings kommun** (Jönköping municipality) HP are conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
+A﻿s part of **Gnistrande skymd**, a public art commission with **ArtPlatform** and **Jönköpings kommun** (Jönköping municipality) HP is conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2 pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
 
 **<https://www.instagram.com/ok_kolonilott/p/C_f4WB2MSJ4/>**
 
