@@ -5,9 +5,25 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+
+
+H﻿P conducts **participatory and performative walks**. One such walk took place in the Kristianstad municipality as part of **Skåneleden–Art in Motion** curated by Sara Rossling. You can read about this project in a recent publication *Offentlig konst–handbok för kommunala beställare* published by **Statens konstråd** (the Public Art Agency Sweden).
+
+**<https://statenskonstrad.se/rapport/offentlig-konst-handbok-for-kommunala-bestallare/>**
+
+<https://regionmuseet.se/projekt/skaneleden-konst-in-motion/>
+
+![](/images/statens_konstråd_hillside_projects.png)
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
 **M﻿ay 2024**
 
-D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Relentless Existential Threats** at **The Pufendorf Institute for Advanced Studies** at **Lunds University** to conduct workshops with and partake in research gatherings. This has culminated in the one day event Relentless Existential Threats - stretching across disciplines and dimensions to foster existential well-being and sustainability 24 May. Warmly welcome, read more here about the programme and participants:
+D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Relentless Existential Threats** at **The Pufendorf Institute for Advanced Studies** at **Lunds University** to conduct workshops with and partake in research gatherings. This culminated in the one day event Relentless Existential Threats - stretching across disciplines and dimensions to foster existential well-being and sustainability 24 May. Warmly welcome, read more here about the programme and participants:
 
 **<https://www.pi.lu.se/evenemang/relentless-existential-threats-stretching-across-disciplines-and-dimensions-foster-existential-well>**
 
@@ -89,7 +105,7 @@ Organizers: Vilnius Academy of Arts, SODAS 2123, LTMKS.
 
 **DEMOCRACY–THE ENDANGERED BIRD** is an ambulating public programme formulated by Hillside Projects (SE) in collaboration with Indian artists and curators Saviya Lopes, Yogesh Barve, Amol K Patil and Arijit Bhattacharyya and in conversation with fellow researcher Amila Puzic. 
 
-The programme is presented in four acts at** [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird)**,** [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)**and** [Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii)** throughout the month of September 2023. The project is supported by **[The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird)** through a month-long residency and funded by the Swedish Arts Council and the Nordic Culture Fund.
+The programme is presented in four acts at** [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird)**,** [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)**and** [Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii)** throughout the month of September 2023. The project is supported by **[The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird)** through a month-long residency and funded by the **Swedish Arts Council** and the **Nordic Culture Fund**.
 
 The title of the programme is borrowed from a text by Arijit Battacharyya.
 
