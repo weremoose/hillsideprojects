@@ -7,7 +7,25 @@ exclude: false
 ---
 **M﻿ay 2024**
 
-H﻿P is invited by curator Gustav Lejelind  to take part in a four-week artist residency at Gerlesborgskolan Bohuslän (SE). Time will be spent deep listening and transcribing the onomatopetic soundscape of the surrounding area.
+D﻿uring 2023/2024 HP were invited by the interdisciplinary research group **Relentless Existential Threats** at **The Pufendorf Institute for Advanced Studies** at **Lunds University** to conduct workshops with and partake in research gatherings. This has culminated in the one day eventRelentless Existential Threats - stretching across disciplines and dimensions to foster existential well-being and sustainability 24 May. Warmly welcome, read more here about the programme and participants:
+
+**<https://www.pi.lu.se/evenemang/relentless-existential-threats-stretching-across-disciplines-and-dimensions-foster-existential-well>**
+
+**<https://www.pi.lu.se/en/themes-0/relentless-existential-threat>**
+
+![](/images/relentless_-existential_threats_01-.jpg)
+
+
+
+***Hillside Projects  – song squibb giggle*** exhibition at Gerlesborgs konstcentrum (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
+
+*"I **song squibb giggle** tillämpas lekfulla performativa metoder som utforskas i ljud- och bildverk. Under utställningens gång besöker en ”performer” från HP galleriet regelbundet. Performern interagerar med det utställda materialet och utför akter av lyssnande och spelande. HP ställer frågan vem ska vi lyssna på och hur. "*
+
+**<https://www.gerlesborgsskolan.se/kalendarium/utstallningar/hillside-projects/>**
+
+
+
+H﻿P is invited by curator Gustav Lejelind  to take part in a **four-week artist residency at Gerlesborgskolan Bohuslän (SE)**. Time will be spent deep listening and transcribing the onomatopetic soundscape of the surrounding area.
 
 **<https://www.gerlesborgsskolan.se/>**
 
