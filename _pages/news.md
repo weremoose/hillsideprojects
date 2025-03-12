@@ -11,7 +11,7 @@ H﻿P conducts **participatory and performative walks**. One such walk took plac
 
 **<https://statenskonstrad.se/rapport/offentlig-konst-handbok-for-kommunala-bestallare/>**
 
-<https://regionmuseet.se/projekt/skaneleden-konst-in-motion/>
+**<https://regionmuseet.se/projekt/skaneleden-konst-in-motion/>**
 
 ![](/images/statens_konstråd_hillside_projects.png)
 
