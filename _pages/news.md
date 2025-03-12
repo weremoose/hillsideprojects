@@ -61,11 +61,15 @@ P﻿hoto credit: Linus Ericsson & Olivia Löfvander
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-A﻿s part of **Gnistrande skymd**, a public art commission with **ArtPlatform** and **Jönköpings kommun** (Jönköping municipality) HP is conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2 pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
+HP is conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2 pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
+
+**GNISTRANDE SKYMD** is an ongoing relational public art commission where Hillside Projects investigates Valplatsen, an industrial area in the borderland between Huskvarna and Jönköping. The program is curated by Alba Folgado in collaboration with ArtPlatform and Jönköping Municipality. Within the program, several public interventions will take place during 2024 and 2025.
 
 **<https://www.instagram.com/ok_kolonilott/p/C_f4WB2MSJ4/>**
 
 **<https://www.osterangenskonsthall.se/>**
+
+**<https://artplatform.se/>**
 
 ![](/images/österängens-konsthall-copy.jpg)
 
