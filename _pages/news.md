@@ -7,13 +7,17 @@ exclude: false
 ---
 
 
+**D﻿ecember 2024**
 
+H﻿P is presenting it's  lecture performance** *Since you’ve been gone, I shut my eyes and fantasise that you’re here with me***at the **Nordic Multispecies Methods Conference** at Södertörn University organised by the research group Ratatǫskr.
 
-[https://www.sh.se/institutioner--amnen/institutionen-for-kultur-och-larande/litteraturvetenskap/ratatoskr-research-group-for-literary-animal-studies#:~:text=9%2D10%20december%202024%20arrangerade,%2C%20Universitetet%20i%20Li%C3%A8ge%2C%20Belgie](https://www.sh.se/institutioner--amnen/institutionen-for-kultur-och-larande/litteraturvetenskap/ratatoskr-research-group-for-literary-animal-studies#:~:text=9%2D10%20december%202024%20arrangerade,%2C%20Universitetet%20i%20Li%C3%A8ge%2C%20Belgien.)
+9﻿.12.24–10.12.24
 
-![]()
+**[Ratatǫskr](https://www.sh.se/4.166aa05167c62dff5d7b39f.html)**
 
-**–﻿––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
+**[S﻿ödertörn University](https://www.sh.se/)**
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 **October 2024**
 
@@ -31,9 +35,15 @@ H﻿P is showing the video work and installation ***Searching for the European R
 
 **S﻿eptember 2024 – January 2025**
 
-**D﻿en gnistrande teatern** (The Scintillating Theatre), e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
+**D﻿en gnistrande teatern** (The Scintillating Theatre), solo e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
 
 ***Den gnistrande teatern** (The Scintillating Theatre) är en utställning med en början och ett slut, och ett framträdande i mitten. Teaterns ridå talar om det fördolda, det man inte kan se. En övergång från ett tillstånd till ett annat. Den gnistrande teatern är en översättning av en plats där växtlighet och ljud transformerats till en konkret poesi. En scenografi för det gnistrande skymda.*
+
+T﻿his exhibiton is formulated within the framework of the ongoing public art commission with ArtPlatform. 2023–2025
+
+**<https://artplatform.se/projekt/>**
+
+
 
 ![](/images/den_gnistrande_teatern.jpg)
 
