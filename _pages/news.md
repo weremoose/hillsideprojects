@@ -5,6 +5,16 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+**D﻿ecember 2024**
+
+H﻿P is presenting it's lecture performance*Since you’ve been gone, I shut my eyes and fantasise that you’re here with me* at the Nordic Multispecies Methods Conference at Södertörn University organised by the research group **[Ratatqskr](https://www.sh.se/4.166aa05167c62dff5d7b39f.html)** at **[Södertörn University](https://www.sh.se/english/sodertorn-university)**
+
+9﻿.12.24–10.12.24
+
+![](/images/nordic_multispecies_methods_conference.png)
+
+**–﻿––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
+
 **October 2024**
 
 H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roup exhibition ***I like maps, because they lie***. at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
