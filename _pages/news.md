@@ -5,6 +5,18 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+**J﻿anuary 2025**
+
+Last year Hillside Projects held a participatory walk in Vilnius as part of the symposium “**Walking is still honest**” at **Sodas 2123**. Some fragments of t﻿he symposium became a book edited by Vitalij Červiakov and published by the **Vilnius Academy of Arts Press** with contributions by Vitalij, Karen O’Rourke, Andrew Brown, Inga Truskauskaite, Hillside Projects, Matthew Beaumont and Francesco Careri.
+
+Y﻿ou can view the publication in full **[here](https://vitaleus.com/wish.pdf)**
+
+![](/images/walking_is_still_honest_01.png)
+
+![](/images/walking_is_still_honest_02.png)
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 
 
 **D﻿ecember 2024**
