@@ -5,11 +5,7 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
-**D﻿ecember 2024**
 
-H﻿P is presenting it's  lecture performance** *Since you’ve been gone, I shut my eyes and fantasise that you’re here with me***at the **Nordic Multispecies Methods Conference** at Södertörn University organised by the research group Ratatqskr
-
-9﻿.12.24–10.12.24
 
 
 
