@@ -7,11 +7,11 @@ exclude: false
 ---
 **D﻿ecember 2024**
 
-H﻿P is presenting it's lecture performance*Since you’ve been gone, I shut my eyes and fantasise that you’re here with me* at the Nordic Multispecies Methods Conference at Södertörn University organised by the research group **[Ratatqskr](https://www.sh.se/4.166aa05167c62dff5d7b39f.html)** at **[Södertörn University](https://www.sh.se/english/sodertorn-university)**
+H﻿P is presenting it's  lecture performance*Since you’ve been gone, I shut my eyes and fantasise that you’re here with me* at the Nordic Multispecies Methods Conference at Södertörn University organised by the research group **[Ratatqskr](https://www.sh.se/4.166aa05167c62dff5d7b39f.html)** at **[Södertörn University](https://www.sh.se/english/sodertorn-university)**
 
 9﻿.12.24–10.12.24
 
-![](/images/nordic_multispecies_methods_conference.png)
+![]()
 
 **–﻿––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
@@ -31,7 +31,7 @@ H﻿P is showing the video work and installation ***Searching for the European R
 
 **S﻿eptember 2024 – January 2025**
 
-**D﻿en gnistrande teatern** (The Scintillating Theatre),  e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
+**D﻿en gnistrande teatern** (The Scintillating Theatre), e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
 
 ***Den gnistrande teatern** (The Scintillating Theatre) är en utställning med en början och ett slut, och ett framträdande i mitten. Teaterns ridå talar om det fördolda, det man inte kan se. En övergång från ett tillstånd till ett annat. Den gnistrande teatern är en översättning av en plats där växtlighet och ljud transformerats till en konkret poesi. En scenografi för det gnistrande skymda.*
 
