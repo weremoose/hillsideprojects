@@ -9,7 +9,7 @@ exclude: false
 
 **D﻿ecember 2024**
 
-H﻿P is presenting it's  lecture performance** *Since you’ve been gone, I shut my eyes and fantasise that you’re here with me***at the **Nordic Multispecies Methods Conference** at Södertörn University organised by the research group Ratatǫskr.
+H﻿P is presenting ***Since you’ve been gone, I shut my eyes and fantasise that you’re here with me***,a lecture performance that departs from the story of the Indian vulture and the consequences of a failed symbiosis. Socio-political narratives on death and hierarchies are woven together with stories about food, eating, and fascism and accompanied by a 80s soundtrack.at the **Nordic Multispecies Methods Conference** at Södertörn University organised by the research group Ratatǫskr.
 
 9﻿.12.24–10.12.24
 
