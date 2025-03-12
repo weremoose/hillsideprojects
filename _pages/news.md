@@ -7,7 +7,15 @@ exclude: false
 ---
 **M﻿arch 2025**
 
+**G﻿NISTRANDE SKYMD**. For the last year HP has worked together with artists/composers **Rördom** (Jesper Norda & Kristian Berglund) and **Gräshagens church choir** led by Valentina Viktorovitch an attempt to sing a notebook filled with onomatopetic transcriptions. The choir will perform at **Jönköpings läns museum Saturday 22 March** at 12 and 1.30 pm. This performance is part of a one-day programme also including performance and workshop with artists Pontus Pettersson and Cecilia Germain. Curated by Alba Folgado. 
 
+**<https://jonkopingslansmuseum.se/se-och-gora/kalender/evenemang/gnistrande-skymd/>**
+
+![](/images/gnistrande_skymd.jpg)
+
+G﻿raphic design: Marcus Nordgren & Hillside Projects
+
+–﻿––––––––––––––––––––––––––––––––––––––––––––––––––
 
 
 
@@ -39,7 +47,7 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **October 2024**
 
-H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roup exhibition ***I like maps, because they lie***. at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
+H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roup exhibition ***I like maps, because they lie*** t﻿ogether with artists Unni Gjertsen, Lisa Torell, John Skoog, Runo Lagomarsino, Lova Hamilton, Salad Hilowle at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
 
 **<https://regionmuseet.se/kalender/i-like-maps-because-they-lie/>**
 
@@ -139,7 +147,7 @@ H﻿P is invited by curator Gustav Lejelind  to take part in a **four-week artis
 
 **A﻿pril 2024**
 
-W﻿elcome to **\[Open Studio at IASPIS–International Programme for Visual and Applied Arts](**<https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/>**)**. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
+W﻿elcome to **Open Studio at[ IASPIS–International Programme for Visual and Applied Arts](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-residency-programmes/the-iaspis-residency-programme-in-stockholm/)** 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
 
  HP will be present the new performance lecture *Since you've been gone, I shut my eyes and fantasise that you're here with me* - tales of being eaten and eating, death and loss, hierarchies and love are woven together by two performers in search of a scavenger. Traversing the physical and political landscapes of Nepal and India, moving images and the playing of vinyl records accompany the stories being told.
 
