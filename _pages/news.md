@@ -5,9 +5,29 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+**M﻿ay 2024**
+
+H﻿P is invited by curator Gustav Lejelind  to take part in a four-week artist residency at Gerlesborgskolan Bohuslän (SE). Time will be spent deep listening and transcribing the onomatopetic soundscape of the surrounding area.
+
+**<https://www.gerlesborgsskolan.se/>**
 
 
 
+
+
+![](/images/gerlesborgskolan.jpg)
+
+
+
+**A﻿pril 2024**
+
+W﻿elcome to Open Studio at IASPIS–International Programme for Visual and Applied Arts. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
+
+ HP will be present the new performance lecture *Since you've been gone, I shut my eyes and fantasise that you're here with me* - tales of being eaten and eating, death and loss, hierarchies and love are woven together by two performers in search of a scavenger. Traversing the physical and political landscapes of Nepal and India, moving images and the playing of vinyl records accompany the stories being told.
+
+
+
+![](/images/iaspis_01.jpg)
 
 
 
@@ -16,10 +36,6 @@ exclude: false
 HP is taking part in a six-month artist residency at **[IASPIS–International Programme for Visual and Applied](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-digital-archive/hillside-projects/)** Arts in Stockholm, Sweden. During the residency HP will investigate and explore who it and its members are in relation to the stories being told and performances being conducted.
 
 ![](/images/hillside_projects_iaspis.jpeg)
-
-
-
-
 
 **October 2023**
 
@@ -39,13 +55,11 @@ Organizers: Vilnius Academy of Arts, SODAS 2123, LTMKS.
 
 ![](/images/walking_is_still_honest.jpg)
 
-
-
 **S﻿eptember 2023**
 
 **DEMOCRACY–THE ENDANGERED BIRD** is an ambulating public programme formulated by Hillside Projects (SE) in collaboration with Indian artists and curators Saviya Lopes, Yogesh Barve, Amol K Patil and Arijit Bhattacharyya and in conversation with fellow researcher Amila Puzic. 
 
-The programme is presented in four acts at** [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird)**,** [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)**and **[Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii)** throughout the month of September 2023. The project is supported by **[The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird)** through a month-long residency and funded by the Swedish Arts Council and the Nordic Culture Fund.
+The programme is presented in four acts at** [Art House cinema Zita](https://zita.se/democracy-%C2%A0the-endangered-bird)**,** [IASPIS ](https://www.konstnarsnamnden.se/kalender/democracy-the-endangered-bird-act-ii-with-saviya-lopes-yogesh-barve-and-arijit-bhattacharyya-presented-by-hillside-projects/)**and** [Index – The Swedish Contemporary Art Foundation](https://indexfoundation.se/talks-and-events/democracy-the-endangered-bird-act-iii)** throughout the month of September 2023. The project is supported by **[The Nordic Art Association (NKF)](https://nkfsweden.org/project-page/democracy-endangered-bird)** through a month-long residency and funded by the Swedish Arts Council and the Nordic Culture Fund.
 
 The title of the programme is borrowed from a text by Arijit Battacharyya.
 
@@ -53,11 +67,9 @@ G﻿raphic design: Oskar Laurin & William Andersson
 
 ![](/images/democracy_the_endangered_bird.jpg)
 
-
-
 **A﻿pril 2023**
 
-Hillside Projects just received the lovely news that they will be setting up office for six months at [IASPIS international residency programme](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/) in Stockholm. More info to come!
+Hillside Projects just received the lovely news that they will be setting up office for six months at **[IASPIS international residency programme](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/)** in Stockholm. More info to come!
 
 **M﻿arch 2023**
 
