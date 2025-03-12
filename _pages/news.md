@@ -7,7 +7,7 @@ exclude: false
 ---
 **October 2024**
 
-H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roupexhibition ***I like maps, because they lie***. at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
+H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roup exhibition ***I like maps, because they lie***. at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
 
 **<https://regionmuseet.se/kalender/i-like-maps-because-they-lie/>**
 
@@ -15,15 +15,25 @@ H﻿P is showing the video work and installation ***Searching for the European R
 
 ![](/images/kristianstadkonsthall.png)
 
+**–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
 
 
+**S﻿eptember 2024 – January 2025**
 
+**D﻿en gnistrande teatern** (The Scintillating Theatre),  e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
 
+***Den gnistrande teatern** (The Scintillating Theatre) är en utställning med en början och ett slut, och ett framträdande i mitten. Teaterns ridå talar om det fördolda, det man inte kan se. En övergång från ett tillstånd till ett annat. Den gnistrande teatern är en översättning av en plats där växtlighet och ljud transformerats till en konkret poesi. En scenografi för det gnistrande skymda.*
+
+![](/images/den_gnistrande_teatern.jpg)
+
+P﻿hoto credit: Hillside Projects
+
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **S﻿eptember 2024**
 
-V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance *The Ballad of Renoviction: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the **performance programme Stockholm City Blues** organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
+V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance *The Ballad of Renoviction: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme **Stockholm City Blues** organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
 
 **<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
 
