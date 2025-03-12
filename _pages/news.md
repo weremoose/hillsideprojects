@@ -11,9 +11,11 @@ exclude: false
 
 **S﻿eptember 2024**
 
-V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance ***The Ballad of Renoviction:** a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
+V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance ***The Ballad of Renoviction**: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
 
 **<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
+
+**<https://www.postworkerstheatre.com/>**
 
 
 
