@@ -63,7 +63,7 @@ V﻿ery very delighted to be performing for **Post Workers Theatre** in their ne
 
 P﻿hoto credit: Linus Ericsson & Olivia Löfvander
 
-_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 HP is conducting two participatory walks together with **ÖK kolonilott** at **Österängens konsthall.** Warmly welcome to join us! 6 September at 2 pm at ÖK kolonilott, below the flats on Orionvägen, Österängen. The walk is approx. 1.5 hours.
 
@@ -75,9 +75,9 @@ HP is conducting two participatory walks together with **ÖK kolonilott** at **�
 
 **<https://artplatform.se/>**
 
-![](/images/österängens-konsthall-copy.jpg)
+![](/images/ök_kolonilott.jpg)
 
-Ö﻿sterängens konsthall, Österängen, Jönköping
+Photo credit: Melina Milly Pollack
 
 **_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
