@@ -5,6 +5,16 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+**October 2024**
+
+H﻿P is showing the video work and installation ***Searching for the European Roller*** in the g﻿roupexhibition ***I like maps, because they lie***. at **Kristianstad konsthall** (SE), curated by Marika Reuterswärd.
+
+**<https://regionmuseet.se/kalender/i-like-maps-because-they-lie/>**
+
+![](/images/kristianstadkonsthall.png)
+
+
+
 
 
 
@@ -16,8 +26,6 @@ V﻿ery very delighted to be performing for **Post Workers Theatre** in their ne
 **<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
 
 **<https://www.postworkerstheatre.com/>**
-
-
 
 ![](/images/post_workers_theatre.png)
 
@@ -36,8 +44,6 @@ A﻿s part of **Gnistrande skymd**, a public art commission with **ArtPlatform**
 Ö﻿sterängens konsthall, Österängen, Jönköping
 
 **_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
-
-
 
 H﻿P conducts **participatory and performative walks**. One such walk took place in the Kristianstad municipality as part of **Skåneleden–Art in Motion** curated by Sara Rossling. You can read about this project in a recent publication *Offentlig konst–handbok för kommunala beställare* published by **Statens konstråd** (the Public Art Agency Sweden).
 
@@ -59,9 +65,7 @@ D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Rel
 
 **_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-**Hillside Projects * – song squibb giggle*** exhibition at Gerlesborgs kulturhus (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
+**Hillside Projects  *– song squibb giggle*** exhibition at Gerlesborgs kulturhus (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
 
 *"I **song squibb giggle** tillämpas lekfulla performativa metoder som utforskas i ljud- och bildverk. Under utställningens gång besöker en ”performer” från HP galleriet regelbundet. Performern interagerar med det utställda materialet och utför akter av lyssnande och spelande. HP ställer frågan vem ska vi lyssna på och hur. "*
 
@@ -73,29 +77,17 @@ D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Rel
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-
-
-
-
 H﻿P is invited by curator Gustav Lejelind  to take part in a **four-week artist residency at Gerlesborgskolan Bohuslän (SE)**. Time will be spent deep listening and transcribing the onomatopetic soundscape of the surrounding area.
 
 **<https://www.gerlesborgsskolan.se/>**
 
-
-
-
-
 ![](/images/gerlesborgskolan.jpg)
-
-
 
 **A﻿pril 2024**
 
-W﻿elcome to **[Open Studio at IASPIS–International Programme for Visual and Applied Arts](**<https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/>**)**. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
+W﻿elcome to **\[Open Studio at IASPIS–International Programme for Visual and Applied Arts](**<https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/>**)**. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
 
  HP will be present the new performance lecture *Since you've been gone, I shut my eyes and fantasise that you're here with me* - tales of being eaten and eating, death and loss, hierarchies and love are woven together by two performers in search of a scavenger. Traversing the physical and political landscapes of Nepal and India, moving images and the playing of vinyl records accompany the stories being told.
-
-
 
 ![](/images/iaspis_01.jpg)
 
