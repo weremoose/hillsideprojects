@@ -11,7 +11,7 @@ exclude: false
 
 **S﻿eptember 2024**
 
-V﻿ery very delighted to be performing for Post Workers Theatre in their new performance *The Ballad of Renoviction: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the performance programme Stockholm City Blues organised by Sebastian Dahlqvist & Elof Hellström at Hägerstensåsens medborgarhus. 
+V﻿ery very delighted to be performing for **Post Workers Theatre** in their new performance *The Ballad of Renoviction: a folk protest play on the rise of privatisation and neo-liberal forces within the Swedish housing system*. This performance was part of the **performance programme Stockholm City Blues** organised by Sebastian Dahlqvist & Elof Hellström at **Hägerstensåsens medborgarhus**. 
 
 **<https://www.medborgarhuset.se/event/forestallning-stockholm-city-blues>**
 
@@ -61,7 +61,7 @@ D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Rel
 
 
 
-***Hillside Projects  – song squibb giggle*** exhibition at Gerlesborgs kulturhus (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
+**Hillside Projects * – song squibb giggle*** exhibition at Gerlesborgs kulturhus (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
 
 *"I **song squibb giggle** tillämpas lekfulla performativa metoder som utforskas i ljud- och bildverk. Under utställningens gång besöker en ”performer” från HP galleriet regelbundet. Performern interagerar med det utställda materialet och utför akter av lyssnande och spelande. HP ställer frågan vem ska vi lyssna på och hur. "*
 
@@ -72,6 +72,8 @@ D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Rel
 ![](/images/gerlesborgskolan.png)
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+
 
 
 
