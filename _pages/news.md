@@ -7,9 +7,15 @@ exclude: false
 ---
 **D﻿ecember 2024**
 
-H﻿P is presenting it's  lecture performance*Since you’ve been gone, I shut my eyes and fantasise that you’re here with me* at the Nordic Multispecies Methods Conference at Södertörn University organised by the research group **[Ratatqskr](https://www.sh.se/4.166aa05167c62dff5d7b39f.html)** at **[Södertörn University](https://www.sh.se/english/sodertorn-university)**
+H﻿P is presenting it's  lecture performance** *Since you’ve been gone, I shut my eyes and fantasise that you’re here with me***at the **Nordic Multispecies Methods Conference** at Södertörn University organised by the research group Ratatqskr
 
 9﻿.12.24–10.12.24
+
+<https://www.sh.se/institutioner--amnen/institutionen-for-kultur-och-larande/litteraturvetenskap/ratatoskr-research-group-for-literary-animal-studies#:~:text=9%2D10%20december%202024%20arrangerade,%2C%20Universitetet%20i%20Li%C3%A8ge%2C%20Belgien.>**[Ratatǫskr Research Group for Literary Animal Studies](https://www.sh.se/english/sodertorn-university/research/our-research/comparative-literature/ratatoskr-research-group-for-literary-animal-studies)**
+
+**[S﻿ödertörn University](https://www.sh.se/)**
+
+
 
 ![]()
 
