@@ -7,7 +7,7 @@ exclude: false
 ---
 **M﻿ay 2024**
 
-D﻿uring 2023/2024 HP were invited by the interdisciplinary research group **Relentless Existential Threats** at **The Pufendorf Institute for Advanced Studies** at **Lunds University** to conduct workshops with and partake in research gatherings. This has culminated in the one day eventRelentless Existential Threats - stretching across disciplines and dimensions to foster existential well-being and sustainability 24 May. Warmly welcome, read more here about the programme and participants:
+D﻿uring 2023/2024 HP was invited by the interdisciplinary research group **Relentless Existential Threats** at **The Pufendorf Institute for Advanced Studies** at **Lunds University** to conduct workshops with and partake in research gatherings. This has culminated in the one day event Relentless Existential Threats - stretching across disciplines and dimensions to foster existential well-being and sustainability 24 May. Warmly welcome, read more here about the programme and participants:
 
 **<https://www.pi.lu.se/evenemang/relentless-existential-threats-stretching-across-disciplines-and-dimensions-foster-existential-well>**
 
@@ -15,13 +15,21 @@ D﻿uring 2023/2024 HP were invited by the interdisciplinary research group **Re
 
 ![](/images/relentless_-existential_threats_01-.jpg)
 
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
-***Hillside Projects  – song squibb giggle*** exhibition at Gerlesborgs konstcentrum (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
+
+***Hillside Projects  – song squibb giggle*** exhibition at Gerlesborgs kulturhus (SE) 20 April – 24 May. Opening 20 April 12–4 pm. Artist talk (SE) 13 May at 6 pm. Curated by Gustav Lejelind.
 
 *"I **song squibb giggle** tillämpas lekfulla performativa metoder som utforskas i ljud- och bildverk. Under utställningens gång besöker en ”performer” från HP galleriet regelbundet. Performern interagerar med det utställda materialet och utför akter av lyssnande och spelande. HP ställer frågan vem ska vi lyssna på och hur. "*
 
 **<https://www.gerlesborgsskolan.se/kalendarium/utstallningar/hillside-projects/>**
+
+**<https://www.gerlesborgskulturhus.se/activities>**
+
+![](/images/gerlesborgskolan.png)
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 
 
@@ -39,7 +47,7 @@ H﻿P is invited by curator Gustav Lejelind  to take part in a **four-week artis
 
 **A﻿pril 2024**
 
-W﻿elcome to Open Studio at IASPIS–International Programme for Visual and Applied Arts. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
+W﻿elcome to **[Open Studio at IASPIS–International Programme for Visual and Applied Arts](**<https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/>**)**. 21 March, 1-8 pm! Maria Skolgata 83, Stockholm
 
  HP will be present the new performance lecture *Since you've been gone, I shut my eyes and fantasise that you're here with me* - tales of being eaten and eating, death and loss, hierarchies and love are woven together by two performers in search of a scavenger. Traversing the physical and political landscapes of Nepal and India, moving images and the playing of vinyl records accompany the stories being told.
 
@@ -47,13 +55,15 @@ W﻿elcome to Open Studio at IASPIS–International Programme for Visual and App
 
 ![](/images/iaspis_01.jpg)
 
-
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **N﻿ovember 2023–April 2024**
 
-HP is taking part in a six-month artist residency at **[IASPIS–International Programme for Visual and Applied](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-digital-archive/hillside-projects/)** Arts in Stockholm, Sweden. During the residency HP will investigate and explore who it and its members are in relation to the stories being told and performances being conducted.
+HP is taking part in a six-month artist residency at[ **IASPIS–International Programme for Visual and Applied Arts**](https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-digital-archive/hillside-projects/) in Stockholm, Sweden. During the residency HP will investigate and explore who it and its members are in relation to the stories being told and performances being conducted.
 
 ![](/images/hillside_projects_iaspis.jpeg)
+
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **October 2023**
 
@@ -73,6 +83,8 @@ Organizers: Vilnius Academy of Arts, SODAS 2123, LTMKS.
 
 ![](/images/walking_is_still_honest.jpg)
 
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 **S﻿eptember 2023**
 
 **DEMOCRACY–THE ENDANGERED BIRD** is an ambulating public programme formulated by Hillside Projects (SE) in collaboration with Indian artists and curators Saviya Lopes, Yogesh Barve, Amol K Patil and Arijit Bhattacharyya and in conversation with fellow researcher Amila Puzic. 
@@ -84,6 +96,8 @@ The title of the programme is borrowed from a text by Arijit Battacharyya.
 G﻿raphic design: Oskar Laurin & William Andersson
 
 ![](/images/democracy_the_endangered_bird.jpg)
+
+**_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **A﻿pril 2023**
 
