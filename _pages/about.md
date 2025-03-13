@@ -6,11 +6,7 @@ exclude: false
 ---
 ![](/images/test.jpg)
 
-
-
-HP (Hillside Projects) is an artistic entity. Its members are Emily Berry Mennerdahl & Jonas Böttern. Situated within a conceptual framework, HP investigates the many ways of telling tales with a querying of who should tell them and why. Notions of failure, translation/transformation and failed symbioses are explored and the works take their form as performance lectures, video, walks, sound, text and trans-disciplinary collaborations.
-
-
+HP (Hillside Projects) is an artistic entity. Its members are Emily Berry Mennerdahl & Jonas Böttern. Situated within a conceptual framework, HP investigates the many ways of telling tales with a querying of who should tell them and why. Notions of failure, translation and acts of listening are (currently) being explored and the works take their form as lectures, video, walks, sound, text and trans-disciplinary collaborations. 
 
 B﻿IO:
 
@@ -21,8 +17,6 @@ Böttern holds an MFA from [Konstfack–University of Art, Crafts & Design](http
 HP’s videos are distributed by [Filmform–The Art Film & Video Archive](https://www.filmform.com/artists/13264-hillside-projects-artist-group/) (SE) and [Vidéographe](https://www.videographe.org/?s=hillside+projects) (CA).
 
 B﻿erry Mennerdahl is a board member of[ NKF (The Nordic Art Association)](https://www.nkfsweden.org/), a non-profit artist residency in Stockholm (SE).
-
-
 
 ![]()
 
