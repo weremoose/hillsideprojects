@@ -5,6 +5,14 @@ details: Screenings, walks, exhibitions, symposiums, residencies, public art
   commissions and curatorial spurs
 exclude: false
 ---
+**M﻿ay**
+
+S﻿o happy that HP has been awarded a residency at HULT in Kronobergs län. HULT is a collaboration between Svensk curatorförening, Konst i Kronoberg and Linnéuniversitet in Växjö. HP is currently making plans on performative interventions involving birds and listening to take place during autumn 2025.
+
+[vhttps://konstikronoberg.se/residensprogrammet-hult/](https://konstikronoberg.se/residensprogrammet-hult/)
+
+
+
 **M﻿arch 2025**
 
 **G﻿NISTRANDE SKYMD**. For the last year HP has worked together with artists/composers **Rördom** (Jesper Norda & Kristian Berglund) and **Gräshagens church choir** led by Valentina Viktorovitch an attempt to sing a notebook filled with onomatopetic transcriptions. The choir will perform at **Jönköpings läns museum Saturday 22 March** at 12 and 1.30 pm. This performance is part of a one-day programme also including performance and workshop with artists Pontus Pettersson and Cecilia Germain. Curated by Alba Folgado. 
@@ -17,8 +25,6 @@ G﻿raphic design: Marcus Nordgren & Hillside Projects
 
 –﻿––––––––––––––––––––––––––––––––––––––––––––––––––
 
-
-
 **J﻿anuary 2025**
 
 Last year Hillside Projects held a participatory walk in Vilnius as part of the symposium “**Walking is still honest**” at **Sodas 2123**. Some fragments of t﻿he symposium became a book edited by Vitalij Červiakov and published by the **Vilnius Academy of Arts Press** with contributions by Vitalij, Karen O’Rourke, Andrew Brown, Inga Truskauskaite, Hillside Projects, Matthew Beaumont and Francesco Careri.
@@ -30,8 +36,6 @@ Y﻿ou can view the publication in full **[here](https://vitaleus.com/wish.pdf)*
 ![](/images/walking_is_still_honest_02.png)
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 **D﻿ecember 2024**
 
@@ -57,19 +61,15 @@ H﻿P is showing the video work and installation ***Searching for the European R
 
 **–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
-
-
 **S﻿eptember 2024 – January 2025**
 
 **D﻿en gnistrande teatern** (The Scintillating Theatre), solo e﻿xhibition and performance at Jönköpings stadsbibliotek 28.9.2024–12.01.25. Curator: Joel Albinsson
 
-***Den gnistrande teatern** (The Scintillating Theatre) är en utställning med en början och ett slut, och ett framträdande i mitten. Teaterns ridå talar om det fördolda, det man inte kan se. En övergång från ett tillstånd till ett annat. Den gnistrande teatern är en översättning av en plats där växtlighet och ljud transformerats till en konkret poesi. En scenografi för det gnistrande skymda.*
+**\*Den gnistrande teatern** (The Scintillating Theatre) är en utställning med en början och ett slut, och ett framträdande i mitten. Teaterns ridå talar om det fördolda, det man inte kan se. En övergång från ett tillstånd till ett annat. Den gnistrande teatern är en översättning av en plats där växtlighet och ljud transformerats till en konkret poesi. En scenografi för det gnistrande skymda.*
 
 T﻿his exhibiton is formulated within the framework of the ongoing public art commission with ArtPlatform. 2023–2025
 
 **<https://artplatform.se/projekt/>**
-
-
 
 ![](/images/den_gnistrande_teatern.jpg)
 
