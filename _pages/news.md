@@ -15,7 +15,7 @@ S﻿o happy that HP has been awarded a residency at HULT in Kronobergs län. HUL
 
 **M﻿arch 2025**
 
-**G﻿NISTRANDE SKYMD**. For the last year HP has worked together with artists/composers **Rördom** (Jesper Norda & Kristian Berglund) and **Gräshagens church choir** led by Valentina Viktorovitch an attempt to sing a notebook filled with onomatopetic transcriptions. The choir will perform at **Jönköpings läns museum Saturday 22 March** at 12 and 1.30 pm. This performance is part of a one-day programme also including performance and workshop with artists Pontus Pettersson and Cecilia Germain. Curated by Alba Folgado. 
+**G﻿NISTRANDE SKYMD**. For the last year HP has worked together with artists/composers **Rördrom** (Jesper Norda & Kristian Berglund) and **Gräshagens church choir** led by Valentina Viktorovitch an attempt to sing a notebook filled with onomatopetic transcriptions. The choir will perform at **Jönköpings läns museum Saturday 22 March** at 12 and 1.30 pm. This performance is part of a one-day programme also including performance and workshop with artists Pontus Pettersson and Cecilia Germain. Curated by Alba Folgado. 
 
 **<https://jonkopingslansmuseum.se/se-och-gora/kalender/evenemang/gnistrande-skymd/>**
 
